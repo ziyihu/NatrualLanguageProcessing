@@ -1,0 +1,2696 @@
+@relation emotions
+
+@attribute sentence string
+@attribute category {hp, sd, fr, sp, ne, dg, ag}
+
+@data
+' summer experienced ',hp
+' night friends! ',ne
+' fingers ',ne
+' tv ',ne
+' hate fucking pills ',dg
+' back yesterday california ',ne
+' blast california hanging family friends ',hp
+' thank feel home ',hp
+' :) love ya : ',hp
+' friend, grandma planned surprise baby shower ailey saturday ',sp
+' thank ',hp
+' :) hailey recieved gift cards (because bring plane back home) cute baby clothes toys! ',hp
+' thank ',hp
+' wonderful yummy cake, fruit treats ',hp
+' friend brought cute baby girl, jamie! ',hp
+' adorable! ',hp
+' played fun baby games caught ',hp
+' blast thank friend!!! ',hp
+' pics!! ',ne
+' thank guys ',hp
+' wait ginny, sister friend mom couple months!! ',sd
+' love yo ',hp
+' lies talking to, going, doin ',dg
+' people "hug" puts smile face ',hp
+' know parents know, matter ',ne
+' care pretty clothes wear ',ne
+' amazing ',sp
+' love ',hp
+' life falling mean online ',sd
+' broken toy twelve (i counted) drawn, feel useless ',sd
+' started aki-sama xd fun ',hp
+' know know ',ne
+' article deep-fried coke days ago, itse lf ',dg
+' (speaking deep-fried shit, know town texas bar, wrap bacon, deep-fry it? ',dg
+' awesome country ',hp
+' lovely birthday yesterday alex ',hp
+' friends cell-phone contacts ',hp
+' warm ',hp
+' feel happy feel home ',hp
+' oh also, listening book "the time-traveler wife" loving ',hp
+' awesome ',hp
+' lot family event ',ne
+' well, sort ',ne
+' speed pretty fast, fast him, easy ',ne
+' know stuff moving, ',ne
+' 23% sold night ',ne
+' ton couple ',hp
+' friday saturday nights ',ne
+' awesome yesterday ',hp
+' ',hp
+' mr. dude ',ne
+' starting lose ',sd
+' night watched mr. legs watching g.h. terse, ear ',ne
+' read mr. mike: life work ',ne
+' head wmd, hard drive night ',ne
+' sadness dept: heard died ',sd
+' click york ',ne
+' (i 04 ',sp
+' strange. ',sp
+' burn ',ne
+' franco-era washed-out ',sd
+' watch click, york minute ',ne
+' interview man talks latest career develo pments, dad course remake sholay: msn site ',ne
+' "the wonderful gift dad birthday love ofamitabh-abh ishek09.jpg ',hp
+' close second. ',ne
+' "what fabulous gift dad birthday ',hp
+' fantastic ',hp
+' well, ',hp
+' indian cinema west ',ne
+' precisely that.&quot ',ne
+' family truly ',hp
+' matter pride indian dad ci nema-savvy country france. ',hp
+' "i think wonderful idea remake sholay ',hp
+' right carry vision area ',ne
+' "therell ',ne
+' is, knowing abilities close pretty sure uncle proud film makes. ',hp
+' coming awesome ',hp
+' technical work lighting ', ne 
+' stand know ',ne
+' rest angry, drunken ',ag
+' know know understand ',ne
+' wants call happy answer ',hp
+' hey ! ',ne
+' lol ',hp
+' howland friend danced night away.most friends awsome ',hp
+' people cool ',hp
+' slow songs dance friends gradu ated year.hes awsome danced alot together!luvs ',hp
+' cold tho ',ne
+' dance awsome.the music cool ',hp
+' rock taste happy dance floor on.lol ',hp
+' howland people knew (drew one) pret ty cool ',hp
+' haha cha cha close ',hp
+' bigger dance floor ',ne
+' loved night! ',hp
+' ha ',hp
+' lyssa,me,matt,and find eat open 1 mornin giant bought junk food haha ',hp
+' homecoming ',ne
+' ammusing.hehehe.but yea fun ong time! ',hp
+' telling wonderful night lol ',hp
+' ill pics ',ne
+' grace born wendsday, october 11, 2006 11:48 ',ne
+' believe here!! ',sp
+' doctor tuesday, cleaned house, played soccer levi, amanda sit talk moved ',ne
+' look me. think alot dan iel ',ne
+' :) levi exciting big brother, thinks sooooo cool ' ,hp
+' putting pictures eye amazing grace!! ',ne
+' ryan school ',ne
+' graduate career nursing ',ne
+' life born love love teach people taught ',hp
+' amazing home ',hp
+' thats know know ',ne
+' luckily ',hp
+' yesterday, tournament ',ne
+' ',hp
+' morning beat ',ne
+' pretty tournament ',hp
+' guess ',ne
+' happy ',hp
+' chill team house ',hp
+' dog sooo cute ',ne
+' heh ',hp
+' ',ne
+' know ',ne
+' volleyball ',sd
+' photobucket - video image hostin ',ne
+' means screen ',ne
+' spend night irvine eye place ',ne
+' woke dream like, "oh crap, no, back" manag back ',ag
+' o_ ',ne
+' dream kinda unsure, happy (for hope) ',hp
+' odd though, care ',sp
+' hey ',ne
+' totally wake up, ',ne
+' yeah, share ',ne
+' ;_ ',ne
+' rd, sweet lady hair ',ne
+' ',dg
+' reading amazing adventures &amp; ',sp
+' copy birthday ',ne
+' enjoying ',hp
+' hot awesome bit night ',hp
+' seriously took 4 hours fall asleep half-hour 10 min utes episodes ',ne
+' hike ',ne
+' think pain attending reception worth face aga ',sd
+' danced ',ne
+' ',sd
+' missed ',sd
+' sitting crying help cause run hold night rock ',sd
+' stuff imagine dream ',ne
+' home ',ne
+' ',sd
+' jubans, awesome ',hp
+' schedule guy exactly sure job work ',ne
+' work food eat awesome ',hp
+' german lit test ',ne
+' quiz sucks ',dg
+' oh bad nervous ',fr
+' truly character orgy shows. ',fr
+' well, orgy, amusing ',hp
+' shock ',sp
+' books classical greek art room, waiting classical ',ne
+' left library greek table, finished jason ',ne
+' amanda, latin, "to love" ',ne
+' ',ne
+' slight find amusing: jason played year, playing night dream ',hp
+' sock fun theatre company, ',hp
+' point ',ne
+' ',ne
+' awesome ',hp
+' bought latin ',ne
+' spent couple hours trip night/this morning early ', ne 
+' earth, sky feel real ',ne
+' heh ',ne
+' style buddhism, wrong, monkey god, truth ',ne
+' ',ne
+' actually, think dropped night ',ne
+' adam state ',ne
+' broke whoa, working ',ne
+' talking phone daily, excited baby ',hp
+' awesome ',hp
+' snow october ',sp
+' snow years october wra head ',sp
+' missing blue stars, sad leave early ',sd
+' guys ',sd
+' trying move upstairs, looks tu esday ',ne
+' hope worlds ',ne
+' honestly views world live changed schoo ',ne
+' remember impressed, youth parishes area , groups, social status person ',ne
+' compared group ',ne
+' help local &amp; fishes, volunteer work school ur parish, traveling youth groups ',ne
+' remember endless ',ne
+' see, trying develop faith, attending parishes, work group ',ne
+' sadly ',sd
+' gift life ',ne
+' listening speak, presence known answer looking dawn ', ne 
+' weight carry, ',sd
+' happened ',ne
+' ',ne
+' band ',ne
+' ',ne
+' jolt real loud jump ',sp
+' afraid ',fr
+' hope learn play hope enjoying hims elf ',hp
+' matter pain cause rest family ',sd
+' happy ',hp
+' nice hot bottle help ',ne
+' decided work ',ne
+' ',ne
+' vegas lot fun ',hp
+' reception blast ',hp
+' champagne, music, trying catch damn ',hp
+' (didn catch by) imagine this: bro neck teeth "girls wanna fun" background ',hp
+' shooting regular desert mountain ',ne
+' (look pics) ',ne
+' add jack drive real party! ',hp
+' bro leaving iraq and, well, know goes ',ne
+' sean put it, 4 5 americans die, put perspective me. know safe home piece, scary thought kinda background mind ',fr
+' hates everybody, lies, talks shit backs, treats people shit ',dg
+' mother truly wants murder father, pissed agree ',ag
+' ',dg
+' ya, fucked shit ',dg
+' =) crappy ',dg
+' know ',ne
+' basically, focus staying busy staying happy ',hp
+' so, "make smile" foundation", party ',hp
+' school home homecoming parade ',ne
+' w/ v-ball ',ne
+' sooo fun ',hp
+' lol ',hp
+' ;) ',hp
+' wal-mart walked ',ne
+' :) game ',ne
+' totally awesome!!! ',hp
+' lol ',hp
+' points ',hp
+' yay!!! ',hp
+' lol ',hp
+' game dance night life!! ', hp 
+' awesome ',hp
+' cant explain words fun ',hp
+' ;) ',hp
+' honestly ever!!! ',hp
+' soooo sad b/c ',sd
+' :( blast!!! ',hp
+' lol ',hp
+' yea ',ne
+' dont know love w/ joe ',hp
+' :) *sighs* lol ',hp
+' hanging w/ matt totally awesome 2!! ',hp
+' love all! ',hp
+' world ',ne
+' exciting, ',hp
+' so, ',ne
+' leave ',ne
+' start world is. goin work day, headed hostels berlin pick people tour, bring back gate tour starts ',ne
+' preparing leave, guy yelled wait, hello ',ne
+' took backpack tour ',ne
+' catching up, night ',hp
+' strange randomly run people years, hole-in-the-walls europe ',sp
+' fun ',hp
+' piece play ',hp
+' incredibly simple, cutting huge cast perfor mers ',sp
+' moments remind theatre ',ne
+' lucky able stay friends cut t, side london life ',hp
+' sooooo fun ',hp
+' major own, theater nigh ',ne
+' ',dg
+' horrible ',dg
+' horribly acted, horribly directed, weak ',dg
+' ',dg
+' hours ',dg
+' wanted leave intermission, enjoying (should sign) stayed ',hp
+' guess took know british capable producing awful work ',dg
+' london theater ',ne
+' amazing ',sp
+' performers incredible, played geoffrey, fro fresh prince ',sp
+' hilarious, love ',hp
+' time, fun ',hp
+' loved london ',hp
+' loved free museums ',hp
+' british museum ',ne
+' soooo monuments, statues communist ' ,ne 
+' reading this, spent eastern talking communist ',ne
+' part, statues donated ',hp
+' ',sp
+' wellington, watch ',ne
+' make: world cup entire soccer game start finish ',ne
+' people change day, instance period 90,000 city, hands german ',sp
+' brazilians, everywhere, singing-clapping-dancing-taking pi ctures, course brits cock-eyed drinking songs ',hp
+' loads fun ',hp
+' tickets games, group friends alway cafe bar playing watch ',ne
+' french cafe france-swiss game, bar played, drank brazilians, etc. hilarious part fighting ',hp
+' interesting emerged cup ',sp
+' explaining: world cup began, german street s, called radical right ',ne
+' worth agree them, nervous ',fr
+' ',ne
+' people genuinely excited supporting national team, pride ',hp
+' newfound shared ',hp
+' course idea germans ',ne
+' june training work lead tours camp, starte month ',ne
+' dark history place imagine retelling hat information, trying put historical ',ne
+' july beautiful weather summer adventures, traveled australian friend theater festival cyprus ',hp
+' friend north texas, jessica, playing title role medea theater festival ',ne
+' ridiculous amounts fun ',hp
+' city sweaty, dirty, hole ',dg
+' squalor-filled mediterranean capital, add imag e: 10 story everywhere, 100 degree heat, cooled wall-mounted air condi tioners, a.k.a. swamp boxes ',ne
+' imagine swamp box coolers head streets ',dg
+' add couple poorly placed ',ne
+' city lovely, ',hp
+' days back back ',ne
+' amazing ',sp
+' took hours there, played rocks hour, pics temple ruin literall clinging cliff face ',ne
+' watched tourists sun th temple, mediterranean ',sp
+' sky amazing greece, feels reach ouch it, close ',sp
+' ',ne
+' bad ',ne
+' cyprus amazing ',sp
+' jessica medea, treated incredibly fest ival ',sp
+' stayed tiny mountain village called droushia, people brought incredible ',sp
+' feel welcome, puttin beautiful hotel, pay anything, sure ur stay stories ',hp
+' tomorrow special. ',ne
+' morning, festival, drive hicles, took map area blue ', ne 
+' imagine incredible, cove, blue water, giant stone wate r, wide, color ',sp
+' brought lunch fresh fruit broke fast cliff gorgeous ',ne
+' interesting staying mountain village, nd experience bit ',hp
+' oh food incredible ',sp
+' feta ',ne
+' feta ',ne
+' testament vision world technical gadgetry, fascinated year-old stones ',hp
+' returning greece berlin passed quickly ', ne 
+' flew knew it, august est friend lance, berlin ',ne
+' spent days working final tours, partying, lan ce city love years ',hp
+' people london paris expensive; ',ne
+' ',ne
+' ball ',hp
+' walking tour, city museum (located castle, cool), relaxing enjoying amazing views ',hp
+' city incredibly beautiful, right water ',sp
+' think city, rumors: city dirty, people rude, language insurmounta ble, incomprehensible, stolen, hate american ',dg
+' called city love light reason ',ne
+' breathtaking, person cliche fall love ',hp
+' people absolutely lovely ',hp
+' genuinely wonderful, helpful, content people ',hp
+' trying order morning (my terrible) asking talking cabbies, surprised open ',sp
+' enjoy city ',hp
+' know beautiful is, appreciate ',hp
+' man, gorgeous ',hp
+' people ',ne
+' fabulous sense community ',hp
+' favorite part city nap chairs ',hp
+' people place, lots chairs ',ne
+' thought: "that strange, about? ',sp
+' headed chairs shade , ',ne
+' looked noticed lots people park, nap chairs, ',ne
+' ',ne
+' city tax dollars chairs public park ',ne
+' france ',hp
+' ball paris ',hp
+' versailles, dame, fabulous bike tour ',hp
+' interesting learned bike tour revol utionaries bastille, 7 left ',sp
+' montmartre, artist district, minutes cathedral ',ne
+' cathedral point paris, point, entire city spread feet ',ne
+' pretty breathtaking sight ',hp
+' steps sort party performers ity-watchers bottle wine spirit ',hp
+' steps favorite paris ',hp
+' incredible incredible journey ',sp
+' thus, tour ',ne
+' returned fresh start, side ',ne
+' lucky direct school, sunday ',hp
+' piece red hat, extremely ',hp
+' nice stretch theater muscles ',hp
+' european adventure (for moment) american star ts tomorrow ',ne
+' excited move, opportunities ',hp
+' lot ',ne
+' hope well; summer, excited upcoming (rapidly approaching) holiday season ',hp
+' wish fabulous week, warm safe start season ',hp
+' meet ',ne
+' school ',ne
+' classes fine ',ne
+' sucks, accepted ',dg
+' teachers amazing, know ama zing ',sp
+' so, all-in-all, pretty good, right ',hp
+' honestly, dating child, barely school ',ne
+' brandon break up, is. unlikely, ope ',ne
+' junior year, will, fact, bitch ',dg
+' world hardest (academically, anyway) ',ne 
+' strong woman handle bit mental talks ',ne
+' handle school drama.") also, friends, hem true, caring, trustworthy friends love supporting 100% ',hp
+' triumphantly grace ',hp
+' looked ',ne
+' happy ',hp
+' try succeed ',hp
+' test myself: mind, body, ',ne
+' loving ',hp
+' junior year, will, fact, bitch ',dg
+' recieved homework classes ',ne
+' ah, ',ne
+' ("you deal this, nyssa ',ne
+' handle school drama.") also, friends, hem true, caring, trustworthy friends love supporting 100% ',hp
+' triumphantly grace ',hp
+' happens ',ne
+' happy ',hp
+' try succeed ',hp
+' truly nyssa ',ne
+' loving ',hp
+' look learning am, loving inch ',hp
+' believe nerve man. god ',sp
+' ',ne
+' kill ',ag
+' think talk right ',ne
+' holes it) lab course "book. ',ne
+' worse, poorly inch right side page cut off, try read lab tomorrow try ing complete sense all, left ',ag
+' again, angry ',ag
+' like, meals ',ne
+' meals europe ',ne
+' poopy poopy poopy ',ag
+' pay room board, tuition ',ne
+' guess ',ne
+' *cries* life spose ',sd
+' bad mood playing blame game head, ang ry people ',ag
+' forgot demeaning classes ',ag
+' ',ne
+' asking questions completely people jus answers ',sp
+' wonder world in, wonder ',sp
+' mean, 133 (ish) hours graduate which, non college people, 8-10 engineering major non engineering major ',ne
+' find time/place pray ',ne
+' feel privacy talk god cry figure ',sd
+' church too, reasons ',sd
+' love god brings people ',hp
+' ok. feeling ',ne
+' girls, highly shoes, sister enjoying ',hp
+' think spent part hours reading today ',ne
+' spose ',ne
+' remind that, sense concept, dying ',sd
+' expensive, cushiony, ',sd
+' sitting fall, catch stray ca parking lot, drunk, inattentive, careless, fortunate driver home ',fr
+' unlikely, happen ',ne
+' new, constantly desire take, achieve, feel life ',ne
+' ',ne
+' saved ',ne
+' wrote ',ne
+' live average american life ston cemetery, forgotten reletaves, children, grand children ',sd
+' live house environment family, cars, boat, back ',ne
+' sink money trying live parade house wi th vehicles front, boat huge rack, list',ne
+' exist ',ne
+' start god, being, hopes heaven ',ne
+' constant rainbow ',fr
+' wonder writers able amazing feeling thought ',sp
+' distractions ',ne
+' thoughts moment melancholy, completely forgo tten push button xbox, dvd player, ',sd
+' words mind "in closing" "to conclude", quickly write summary finished writing ',ne
+' proud father ',hp
+' official, friday ',ne
+' sweet thing, totally depends ',hp
+' funny game life, think step closer understanding ts purpose ',ne
+' hard look life 14 days, honest pt ',sd
+' wept mistakes put feelings feelings ',sd
+' wept "f*ck you" "thank you" ',sd
+' couple vices, strong coffee noodles, smoking, runk couple feeling life ',hp
+' job well, kick work coming home ',hp
+' phone call police hospital plant telling worst, hopes tomorrow ',fr
+' buy ',ne
+' back tank gas ',ne
+' essentially person ',ne
+' ',ne
+' (a brain) theory ',ne
+' brain amazing purpose ',sp
+' people mental energy required train thought ',ne
+' met fully developed brain ',ne
+' head thought deep ',ne
+' know lucky - find contentment looking ',hp
+' find bring worry ',sd
+' sky lifetime panic worry ',fr
+' thought - extreme ',ne
+' life finding balance ',ne
+' saying happy - balance ',hp
+' combination people balanced ',ne
+' balanced ',ne
+' happiness - brain factory ',hp
+' try mental - alter feelings - balance ',ne
+' producing testosterone testoster system ',ne
+' body lazy - - stops ',ne
+' cliche true ',ne
+' "happiness lies within" - truly happy people ',hp
+' happiness bring temporary ',hp
+' temporary happiness intense balanced contentment ',hp
+' equal sadness - life endless swing life ',sd
+' mad called back ',ag
+' laughing put dog drugs dog learned open window li kes temple road ',hp
+' starts asking posted pics, dear sister, ',ne
+' figure couple extra amount ',ne
+' bought cool glass "tumbler up" ',ne
+' ok, alignment bought tires ',ne
+' tend think ',ne
+' called ',ne
+' car, alignment ',ne
+' started questioning drives school bus living kn ows safe vehicle is. bitch ',ag
+' bitch ',ag
+' $500.00 back ',ne
+' bitch ',ag
+' lunch work yesterday ',ne
+' meant started eating ',ne
+' tell, success ',hp
+' ',hp
+' is. guy kitchen, liked e, hahaha ',hp
+' well, say, kitchen, stuff, ven cook ',ne
+' guy think world ',hp
+' figure throw move desk middle room 2 rooms upstairs ',ne
+' emotions gift god ',ne
+' listening emotions asking feeling particu lar discover satisfied ',ne
+' instance, feel sad family connection met ',sd
+' otherhand, feel happy spent family connection met ',hp
+' felt angry insulted, judged, criticized, hu rt ',ag
+' live society stuff emotions society part feelings ',sd
+' so, ',ne
+' ',ne
+' rosenberg, author nonviolent communication, four-step process com munication identifying feelings model ',ne
+' rosenberg calls step process "giraffe language. ',ne
+' heart 3 feet 3 ',ne
+' feelings avoid ',ag
+' help ',ne
+' angry upset ',ag
+' correct correct closer identifyin finding situation ',ne
+' list feelings look ',ne
+' instance, feel furious hour calm ',ag
+' calm, focus feelings ',ne
+' feel angry ',ag
+' information nonviolent communication click ',ne
+' - hell hard rock cafe, lets moment ',hp
+' - rome fun friend hanz, managed run money dinner ',hp
+' - yoga awesome, leave ',hp
+' sun, beach, tan, ',hp
+' meals, beautiful sunset, manage pull yoga ', hp 
+' - felt sick eating crappy food, back bad coffee, shift wor k, eating rd ',dg
+' - coming visit nov, mom dad decided along, str ess restaurants, depressed ',sd
+' - help bouremouth, conservative party, takin mr. cameron ',ne
+' - training wait pissed graduate ' ,dg
+' sorry crappy update, try proper ',dg
+' yay!! ',hp
+' - (it 9-5, weekends) hope pick me, guest days ',ne
+' know point title neh >> sick today tears._.; know ',sd
+' talked earlier msn yeah, fun guess ',hp
+' head, dad woke early brought home, back bed ',ne
+' called dad minutes ago cell house gues hospital ',ne
+' know why, energy cry constantly know ',sd
+' neh ',ne
+' know happened happiness, woke feeling inf act ',sd
+' losing love thats sign ',sd
+' feel right force update ',ne
+' conversation funny, mentioned word pla ns escape earth avoid police, holy/hold, military yeah xd j.c. suggested try suggested sneak steal ',hp
+' hilarious ',hp
+' literally, girls ',ne
+' gaia, lot n.n fun ',hp
+' neh ',ne
+' cassy back sunday night ',ne
+' live that, wish though._.; feel lonely ', sd 
+' ',ne
+' dunno shocking early ',sp
+' move etc. eh, cassy ',sd
+' t_t ',ne
+' heh, thats basically ',ne
+' ',ne
+' white man subject socialists revolutionarie saying hey, hold second! ',ne
+' yes, veils muslim women world wear ',ne
+' listen ',ne
+' ',ne
+' veil ninja outfit, completely covered eyes, cases ',ne
+' called nikab ',ne
+' hijab islam means privacy ',ne
+' actual headscarf ',ne
+' islam women modest, wear hijab, headscarf ',ne
+' fatwa, islamic legal women wear nikab - bu issue conservative radical islam (just west christian right wackies) ',ne
+' anti-muslim sentiment anti-french se ntiment non-christian communities ',ag
+' germans passed laws, turkish-muslim population ',sd
+' brits, true status europeans, wat er ',ne
+' ',ne
+' integrated, muslim community happy ',ag
+' afraid ugly ',fr
+' stated feels veils -- ver period muslim community ',ne
+' mention muslim women saying women thank jack ',ne
+' know many, woman absolutely willingly cover headscarf religious purposes ',ne
+' true muslim world women wear veil ',ne
+' france says head scarves, -- look sexy french school girl belly button hanging ',ne
+' issue ',ne
+' population coming study wear wis ',ne
+' islam secular, european leaders model exa mple islam taught number ',ne
+' hijab accepted tolerated, nikab (which extremely mall muslim women) ',ne
+' muslims seriously address fears concerns white westerners - opened doors worlds ',fr
+' door swing ',ne
+' muslims understand fears concerns secular westerners wh deal islamic rules communities ',fr
+' women run naked, eastern women completely cover themsel ves ',ne
+' black white friends ',ne
+' look eye eye ',ne
+' extremely sad looks skyline thursday ',sd
+' essentially, christian direction, musically, wants (whether skyline not), light confustion, (mike) deci ded leave project ',ne
+' that, songs posted shortly th ose hear ',ne
+' sorry letdown, speak else, hav happen ',sd
+' (our individual pages "members" section) ',ne
+' skyline updates and/or updates (past seudo-present) ',ne
+' well, mil arrived yesterday ',ne
+' bad news morning 21 y/o kitty, aun becky, passed night ',sd
+' knew kitty (she now, ke pt rallying), shock all, sad ',sd
+' think aunt becky waiting mil leave yesterday trip ',ne
+' aagii, mil neighbor, ',ne
+' niece yesterday afternoon collect great-nephew, brando ',ne
+' wanted stay today play ',ne
+' sure kidney appears " peeling onion", feeling ', hp 
+' hey, lately ',ne
+' ',ne
+' know feeling ',ne
+' weekend sooo ',hp
+' sister back university (surprisingly) nice spend ti again! ',sp
+' lol kidding ',hp
+' anyways, monday people fun ell :) inc. ',hp
+' believe god amazing opportunity reason turning ',sp
+' pray trip people (i sure ',ne
+' lol) ',hp
+' feel caught life (hehe funny rm) wanted guys forget ',hp
+' sometimes, ',ne
+' :d lol ',hp
+' random addition hope know trying at, know me, is. guys help th rough ',ne
+' all, proud ',hp
+' today, ',ne
+' walked period find sub ',ne
+' asked sub mind over, course ',ne
+' bell rang, sub took ',ne
+' allowed 10-15 minutes finish work yesterday gan piece ',ne
+' reading class read ing ',ne
+' period ran direction me. liked thrown situation prior knowledge ',sp
+' hand, know today teach full period lesson 3 &amp; 6 ',ne
+' lesson explaining term "mood" meant ',ne
+' understanding "mood" works, presented paragraph wrote ',ne
+' reading paragraph, students tell mood ',ne
+' today story ',ne
+' brief background author story ',ne
+' spots, plot summary sure ',ne
+' discussion, asked piece paper ',ne
+' papers, shared class ',ne
+' wow, plans ',sp
+' ovac volleyball tournament morning, day, skating friends tonight ',ne
+' ',ne
+' parents club decided pay breakfasts, free ',hp
+' tried pay back, me. free sweet green tie-dyed ovac shirt, ',hp
+' today rocks ',hp
+' gonna call friend wanted go, th ere ',ne
+' skating-type person, ',ne
+' days, lol ',hp
+' love skating ',hp
+' fall ass minutes, ',ne
+' skates, ',ne
+' o___ ',ne
+' ',ne
+' amazing ',hp
+' like, top favorite authors list ',hp
+' fact, authors books buy, matter ',ne
+' yes, read hundreds, books people ',ne
+' ',ne
+' love stories, retelling stories, writing ',hp
+' know ',ne
+' reading story real characters ',ne
+' pretty ',sd
+' story leads me, people grace page ',ne
+' eat, music like, etc. t! ',hp
+' ',sd
+' well, know lot friends writers, ',ne
+' hm ',ne
+' well, writing ',hp
+' ordering tonic, mean coke ',ne
+' enjoy driving ',hp
+' know worcester, billerica, haverhill, ',ne
+' know brothers, ',dg
+' know sell ',ne
+' find boston ',ne
+' know guy named sean, pat, whitey, red, ',ne
+' ',ne
+' taught public schools ',dg
+' "yankees suck" shirt hat ',dg
+' think ',ne
+' pray red win world series season, life ',ne
+' know "big dig" ice cream ',ne
+' "cape cod", "down cape" ',ne
+' town, massachusetts, named outdoor market world ',ne
+' know mass pike sort strange weather line ',ne
+' letter "r" part english language ',ne
+' brakes know s, frankie paranoia donuts, atm ',ne
+' try order burger king order coffee kno drive 45 minutes $5 tax pulled side treet car traffic left ',ne
+' money saved christmas tree shop know "regular" coffee is. pass friends rom massachusetts ',hp
+' so, ok, happened last, thought funny mention today ',hp
+' brandon night home, night, decided step patio smoke ',hp
+' well, dog; louis, running patio storm, stuck head out, sat stupid young dude trying break nei ghbor (across street) car ',ag
+' 911 asked "is white guy latin guy" ',ne
+' cop came, talked seconds drove street ',ne
+' time, unfortunately, broken car ',sd
+' pick phone balcony call cops walking ', dg 
+' cops ',sp
+' 12 cops car break ',ne
+' basically met neighbors community watch oing ',ne
+' feel safer, neighbors love me. mention 2am break-in ',hp
+' love me, woke butt-crack dawn ',hp
+' beautiful ',hp
+' =o) feel bad law &amp; order ',sd
+' moments lives find ',ne
+' afraid, confused, road map ',fr
+' course, faced turn run back ',fr
+' while, people push ',ne
+' ',hp
+' pain ta kes in, ',sd
+' discover ',ne
+' fears ',fr
+' ',ne
+' ',ne
+' know anytime 60 days ',fr
+' change situation ',ne
+' woot ipod video (30g) ',hp
+' kinda bad feeling sad/unhappy ',sd
+' wanting now, money, ne ver wanted ',ne
+' oh bad girl put buy card ',sd
+' black one, sexy ',hp
+' case it, sheets ',ne
+' full case too, lil black snug, force lil bitch ',dg
+' hey ',ne
+' ~apple ipod sock ',ne
+' lost 3 ',ne
+' ',sp
+' hey ',hp
+' season ',ne
+' snowfall day, final ly stopped falling lame dog ta ke shit bed ',fr
+' lot happened months, beginnin summer ',ne
+' dear friends lost people lives , strong ',sd
+' mind tiny bit odd me. rarely strong ',sp
+' laying big green couch position eating nd crying ',sd
+' turns question pretty thought knew ',ne
+' coming ',sp
+' well, ',ne
+' scares ',fr
+' talk life change ',ne
+' love forever, definately ',hp
+' find again, stuck place ', ne 
+' word, lost ',sd
+' feel lost ',sd
+' everything, sure ',sd
+' admit ',ne
+' stay ',ne
+' words you: john ',ne
+' gotta quarter-life worth ',sd
+' 25 years ',ne
+' idea ',hp
+' snowfall ',ne
+' well, ',ne
+' mean hurt person ',sd
+' scared ',fr
+' scared future ',fr
+' look ahead missionary/psychologist, married, wi th kids, life ',hp
+' however, decisions ',ne
+' un-happy people ',sd
+' people divorces, commit ',ne
+' hurt ',sd
+' *sighs* bad hurting people hurt me. thin hurt hurt ',sd
+' think commit person only, missing ',fr
+' right person huge mistake ',fr
+' think right person ',ne
+' people say, "katrina, this," say, "katrina, that. ',ne
+' know!!!!!!!!! ',ne
+' wait god wants ',ne
+' moments start trying god tha works ',ne
+' post back ',ne
+' today lol ',hp
+' lay pretty fast hes sl eep crib find crib ',ne
+' doctor says belly thats onl ',hp
+' lol ',hp
+' nap tell lol ',hp
+' lol ',hp
+' night ',ne
+' oh know baby lol ',hp
+' glad mom wal-mart ome back home nap ',hp
+' ',ne
+' lol,and ',hp
+' haha ',hp
+' thats face 21 not! ',ne
+' lol ',hp
+' anniversary, month,david birthday today,other famil members month,halloween stuff lol ',hp
+' laundry mayb lay bit lol oh wa nts baby nice coming house cold weather,i sick baby problems lol,that visit grandpas,other s.o.l il lol ',hp
+' is, dunno ',ne
+' whore, originally buy gun (springfiled xd40 subcompact) ',ne
+' pay time, buy fun ',dg
+' gas down, $1.99 street ',ne
+' job ',ne
+' i, post shortly ',ne
+' 3 months 8th, night (she brought pumpkin , pretty sweet) ',hp
+' moved "together" nights, puts ',sd
+' oh well, work lots ',ne
+' kinda am, worth ',ne
+' shooting part 8a 10p ',ne
+' odd hour me. also, 25 outdoor range, whic variety loads (shotgun, magnum, etc) ',hp
+' part is, pretty there, lighting ',hp
+' interested, club, (just nam e) ',ne
+' write ',ne
+' starting interesting ',hp
+' contact types deal specifically stand dow concerts variety military california ',ne
+' knows playing 2007 ',ne
+' mean huge party music festival june ',ne
+' wants ',ne
+' ha ',hp
+' gig! ',ne
+' leaving irvine 18th ',ne
+' penn state weekend ',ne
+' love ',hp
+' people street night excitement ',hp
+' lots people sex ',ne
+' tonight michigan vs. game ',ne
+' put ',ne
+' ',hp
+' night discussion 4:30am ',ne
+' drink anymore ',ne
+' hair ',ne
+' saying ',ne
+' hair looks shit mary ',dg
+' 4 boys staying attend west point ',ne
+' cute ',hp
+' right ',ne
+' cleaned up, buttons, tak hot shower, put adorable coat, downtown ', hp
+' ',fr
+' died ',fr
+' look me! straight television ',ne
+' oh ps. ',ne
+' totally ',ne
+' company crack house ',ne
+' "how bacon? ',ne
+' nevermind, test ',ne
+' ones worth retelling ',ne
+' 14 cookie ',hp
+' cute think control ',hp 
+' arrived ',ne
+' lady post office starting laugh me. pu ',hp
+' bad experience ebay ',sd
+' cookie packed ',ne
+' broken ',ne
+' told rude ',ag
+' well, packing job ',ne
+' told f----ing a--hole negative rating ',ag
+' turn negative rating ',ag
+' man. trouble ',ne
+' negative rating bummed awhile ',sd
+' sold ebay ',ne
+' frankie electric ',ne
+' work enterprise ',ne
+' staying pretty close home ',hp
+' cooled bit big relief ',hp
+' ',ne
+' love "nap story booboo afternoon. ',hp
+' means couch book lunch booboo cat ',ne
+' wants put system plant grass ',ne
+' money ',ne
+' well, put dinner ',ne
+' today food cake chocolate chip ',ne
+' night ',ne
+' oh shit, update ',dg
+' so, love 4 school, ',hp
+' thursday ',ne
+' hung 12 ',ne
+' chels cleaned room, ',ne
+' home stuff kid camp ',ne
+' off, hike place, worth shit dark ',dg
+' awhile how, ryan fell back scraping up, hurts ha ',sd
+' cutting damn tree down, go, tried sneak ',ag
+' guess walked ryan right swung huge ass swung right face ',ag
+' that, calling aubrey, baby, ally ',sd
+' phone her, forever ',sd
+' plus, eat yesterday, ck ',ne
+' real lame ',dg
+' ehh ',hp
+' today, chels loves me, feel ',hp 
+' tonight, gonna stay ',ne
+' started month ago class (at part sounds cool. ',ne
+' yeah, know, right laughing indians ',hp
+' anyway, home notice feels kinda ',ne
+' month, happened ',ne
+' g.p., stuff phone, starts throwing aro words "orthopedic," "surgery," "x-rays" start thinking, "oh hit! ',dg
+' course says words ("degenerative arthritis" "not age" ) total brain hear pretty ',ne
+' girl ',hp
+' old, cute ',hp
+' pool lie pretty lake rarely tho ught ',hp
+' well, know ',ne
+' years ',ne
+' job, wife, kids, house, car ',ne
+' path society people ',ne
+' felt free, alive ',hp
+' best, ',hp
+' line page act ',ne
+' read backwards ',ne
+' set fire ',ag
+' me, self-fashioned ',ne
+' happened today ',ne
+' sucks drive anyways ',dg
+' plus, means means 65 years! ',dg
+' know drive problem study written ',ne
+' happy birthday jamie! ',hp
+' free aug. 31st ',ne
+' call me. letting know suck tests ',dg
+' first: heh heh heh, appropriate ',hp
+' "i dunno, button find out. ',ne
+' leave london days ',ne
+' fucking terrorists decide caught, know, landed ',ag
+' stupid terrorists think minds change world ',ag
+' convert islam, blow fucking plan e, train, ',ag
+' current current world population ',ne
+' fuck ',ag
+' far, cause international annoyance sure baby drinking ',ag
+' people years 1916 ',ag
+' fuck ',ag
+' read history fucking god damn realize capable raining destruction manner, thank ver ',ag
+' ',ne
+' ignore us, ignore you, heaven evil ',ag
+' state ',ne
+' care bad ',ag
+' drop 45 ',ne
+' here, sure point ',dg
+' oh right, forgot, area ',ne
+' think yer winning, yer ',ne
+' annoying ',ag
+' pissing ',ag
+' piss off, restraint ',ag
+' ',ne
+' annoy care restraint ',ag
+' fuck fucki ng teeth plane bad food ',ag
+' power spread annoyance ',ag
+' rational, intelligent, informed individual ',ne
+' annoyed ',ag
+' days spend 5-6 hours aiports, whereas, 10 years ago ',ne
+' hours early flight ',ne
+' fault, is. standing line, waiting around, thinking ',ag
+' trying rational mind bad thoughts stupid human religion trouble ',ag
+' try ahead wait line ' ,sd
+' fuck ',ag
+' job today ',dg
+' well, actually, be, ',ne
+' annoying ',ag
+' ',ne
+' check 3 ago ',ne
+' look address 5 months ',ne
+' throw fit 5 minutes ',ag
+' hang ',ne
+' equally call ',ag
+' happened amount today ',dg
+' ',ne
+' really, ive job ',ne
+' happened ',ne
+' pissy wrong ',ag
+' phil ',ne
+' sat ',ne
+' talking running traffic killing himself, ',ag
+' sheldon told shut ',ag
+' ang ry me. bitch ',ag
+' tried control ',ne
+' good-looking ',hp
+' eye ',ne
+' words phil smiling, look straight sheldon, ay "shut up" ',ag
+' comments ',ne
+' hell, ',ag
+' knew ',ne
+' couple sheldon angry ell shut ',ag
+' haha ',hp
+' ',ne
+' eye contact me, eye contact lot ',ne
+' brief, time, smile ',hp
+' try touch ',ne
+' friend (who along) punch nuts phil ',ag
+' asked phil, "what hell doing?" looked me. nything wrong ',ag
+' wrong that? ',sp
+' ',ne
+' started talking mad, "you called etarded", explained prick ',ag
+' started drugs, prick ',ag
+' ',ne
+' "whatever"ed me. ',ag
+' told lose me, looked word ' ,ne 
+' anymore. ',ne
+' phil walked quickly ',ne
+' followed, daniel took minutes look back me. angry ',ag 
+' expression hurt ',sd
+' "yeah, home. ',ne
+' "no, go. ',ne
+' "is hard tell? ',ne
+' know thought fucking obvious ',ag
+' called home mom ride busy, crying "busy" ',sd
+' 10 minutes walking home aaron pulled drive home ',ne
+' hung car rest talking laughing ',hp
+' ive missed ',sd
+' trip fantastic, real live everywhere, salem cute adorable touristy, ithaca gorgeous adorable happy trip, beautiful boring falls, home, think wonderful place ive dont leave ',hp
+' well, now, ',hp
+' wonderful home wonderful back ',hp
+' lot car ',ne
+' felt hours left ithaca finished st garden reading book ',hp
+' share day, wont ',ne
+' sure moment life beautiful satisfied content ',hp
+' experience fabulous night sky smells ',hp
+' bye : ',ne
+' work suppose, people nice ones avoid ',hp
+' starting put parts store, ',hp
+' random fears lately, happens ',fr
+' suppose amount drama, ex ',sd
+' house couple days ago easily back , number ',ne
+' turn ',ne
+' ',ne
+' woot ',hp
+' yeah ',ne
+' ',ne
+' i, mad skills, able convert color space image, ',ag
+' 10 minutes ',ne
+' man ',hp
+' p.s. understand exactly (it bit technical), impressive rock ',hp
+' friday night computer screen ',ne
+' decided watch episodes promise non computer ',ne
+' anyway, watched tv morning 4pm by, decid laundry play 3; beat ass ',hp
+' lol ',hp
+' then, parents home ',ne
+' guess today fun, considering spent brother ', hp
+' that, feel right friday home ',sd
+' mad told mys elf summer university sept ember ',ag
+' gosh, exactly month school start boy nervous ',fr
+' job well- speak ',ne
+' congratulations- welcome corporate america- vice hibernate-- walk ',hp
+' love ',hp
+' focused ',ne
+' 99 average class ',hp
+' loving call center ',hp
+' trainer room smiles lunch move level- (from abt trainer 1 abt trainer 2) $10,000 ',hp
+' think stay aflac ',ne
+' sick trainer 24 ',dg
+' 4 years ',ne
+' opportunities awesome ',hp
+' stipulation: ',ne
+' spend 1 calls spread- free where-ever eart desires ',hp
+' move ',ne
+' ',ne
+' family ',ne
+' staying mary house keeps telling awesome ommy ',hp
+' yeah- ',ne
+' everyday company ',hp
+' (the aflac all-american baseball classic) ',ne
+' laugh- ca ',hp
+' back me- origin slipped mind, "we dreams. ',ne
+' corporate world ',ne
+' talked person life- ', ne
+' killing ',sd
+' starting ends- step break- gotta pul ling ',sd
+' know ',ne
+' tired broken promises- dreams ',sd
+' thread relationship wearing thin- strand- think cool says hes to- coo ',sd
+' part is- love ',sd
+' love am- try might- ',sd
+' ',ne
+' together- opportunity right - - - person- close 5 years now- wearin thin ',sd
+' married 23 ',ne
+' yes, today ',hp
+' happy talking ',hp
+' anyway, (and troop) stay 16 mon ths, home 5 days leave training (and post) ',ne
+' rest troop thought 1 2 months ',ne
+' thought 12 wayne thought 10 nd staying 16 ',sp
+' furious ',ag
+' wayne says ',ag
+' now, know be, care ',ne
+' thought "will cut rnr?" ',ne
+' alley pups ',ne
+' told ball looked hat yes, lol ',hp
+' shot ',ne
+' ',ne
+' wayne wanted know "hows alley, sh pups" think loves dogs me! forget tail (it tail) ',hp
+' proud ',hp
+' watched job ',hp
+' now, help image ',ne
+' sooooo excited 5 days!!!!!!! ',hp
+' start class monday ',ne
+' "i love s" site ',hp
+' feel ',sd
+' try boring ugly ',dg
+' decide pay blog ',ne
+' ',ag
+' currently angry ',ag
+' laying couch watching csi:ny ',ne
+' star brady bunch ',ne
+' brady bunch ',ne
+' car right ',ne
+' oh oh oh yelling me, "are go, already! ',ag
+' holding ',ne
+' people office hour ',ag
+' back course return work, staff anymo ',ne
+' agency 3 ',ne
+' ',sd
+' plan agency party/reunion august ',ne
+' &gt;sigh&lt ',sd
+' ',ne
+' barely online ',ne
+' ',ne
+' excited move ',hp
+' basically packed clothes ',ne
+' load stuff ',ne
+' thats lot ',ne
+' ',ne
+' band ',ne
+' called (i name ',ne
+' pretty ',hp
+' lol jk ',hp
+' ',ne
+' despite terror ',fr
+' thats all, ',ne
+' fun ',hp
+' haha algebra, today , &amp; today ',hp
+' joke joke ',hp
+' ew, crappy sub ',dg
+' u.s. history ! love class [: walking home fun ',hp
+' reason i`d name online ',ne
+' pain ass &amp; yeeah, sucks ',dg
+' subject, thursday &amp; friday ',ne
+' thursday like, fun ',hp
+' tired ',ne
+' noticed natalie, ryan, &amp; fun ' ,hp
+' hahah ',hp
+' friday fun [: asb &amp; yeah ',hp
+' know talking asb alot that`s pretty whats happeni ng ',ne
+' ew ',dg
+' hahah ',hp
+' janel, madilyn, desiree(sp) &amp; [note:they graders] janel house ',ne
+' love house ',hp
+' cool stuff wanna take, hahah ',hp
+' that, jason, &amp; josh &amp; guess vetera ns &amp; ',ne
+' pretty money buying 2 water ',dg
+' people headed veterans park ',ne
+' jk ',ne
+' hung monkey &amp; acted kids swing ag ain ',ne
+' fun fun fun ',hp
+' sucks bring camera yeeah ',dg
+' &amp; think tomorrow friend`s coming ? sure who, haha bye ',hp
+' posted 8/11/2006 8:53 pm - email ',ne
+' summer eye ',sp
+' 4 months ',ne
+' blame summer fun ',ne
+' love worry sort ',hp
+' 2 ',ne
+' interview 2 ',ne
+' interesting ',hp
+' worry put term ',fr
+' school thought ',ne
+' started dream, working it, anymo ',ne
+' hey individual ',hp
+' ',hp
+' money ;) ',hp
+' opportunity chance ',ne
+' degree back true desire law enf orcement, ',ne
+' lazy thought b/c bother ',ne
+' worry minutes life ',fr
+' stress ',sd
+' blame ',ne
+' society big stress pool ',sd
+' family, friends, co-workers etc., crappy ay is, been, be, ',dg
+' plan, know run ',ne
+' day, ',ne
+' love family unconditionally, cherish moment them, sister, pushes edge, developed deal ',hp
+' look life perspective, break heart ',sd
+' control, st olen chance normal life ',sd
+' alienated, ',sd
+' job know amazing people poten tial, put choices life ',sp
+' work ',hp
+' thinking term ',ne
+' happy casual, serious, relationship ',hp
+' frankly happy ',hp
+' ',ne
+' ',ne
+' hopefully right ',ne
+' list time, add someth ing ',ne
+' lol, lets hope run complete ',hp
+' says lot, written comedian ',ne
+' guess fit group article to, regards 2 3 frien ds fall "support mechanism" category, ',ne
+' 3 moving fall, awful lot goin lives, addition shot ',sd
+' definitely feel like, life, operating ground floor regards friendships interact ith friends ',ne
+' lot bridges decisions ability friends, likewise, ability fully engage people well, ',sp
+' older, lot work-related matters personal lives pretty complicated ',ne
+' "big picture" scale, believe hold syste held 18 years old, scary half-a-lifetime ago ',fr
+' all, satisfied bigger picture angry fuck sma ller details, keeps going, ',ag
+' desire currently am, hav living ',ne
+' "support mechanisms" go, people- best, act help people reach able reach ',ne
+' home hang hat, happiness home place look ',hp
+' think easy lose track idea happiness completely separate guarantee equal th (some time, ',hp
+' goes back journey vs. idea, people success goal, capable enjoying efforts required reach goal ',hp
+' ',ne
+' friendship works way- people appreciate friendships goal-oriented, friendships way, moment interesting ones ',hp
+' know guilty ',sd
+' realize lost difficult ',sd
+' healed, amnesia, nd wonder happened ',sd
+' sucks, effort friendship heading sor paths, effort ',dg
+' mean ',ne
+' change mind, efforts met sort equal efforts process goes entire ',dg
+' worth it, play hand look ew deal ',ne
+' guess have, th was, case, know tried ',ne
+' late, parents do, annoy e. parents ',ag
+' love ',hp
+' god annoying ',ag
+' here, yelling tea rs ',ag
+' thinking today dinner wondering hel turns ',ag
+' ',ne
+' now, know reach place enough, damn feels forever ',ag
+' know normal college living parents , wish independent free ',ne
+' fucked ',dg
+' lots angry finished work, boss pays furniture idea run business ',ag
+' oh yeah, part ',ne
+' pissed ',ag
+' trying post days, bloody issues (error pages) - boss post posted thursday ! ',ag
+' way, speak " food feel healthy" - considering meals it, dinner, friday lunch frie nd ',hp
+' $250 eat food, eat ',ne
+' asked cook himself, doe sn ',sp
+' look face think ',sp
+' man office 10:30am, 3pm, 20minutes office, dry clothes, cleaner, wife family - time?i explained 1.5 hours , work, does, cook meals, hav life, house look ',sp
+' - golf, sitting beach drinking coffee, bitching money, eing complete ',dg
+' life choices right ',dg
+' wonder look ing ',ne
+' ',dg
+' think though, pisses food issue - easy "i anything" option ',ag
+' option, me, ncept weight problem - lazy ',dg
+' easily cook food - kitchen cost house ',ne
+' aarrgghh!! ',ag
+' sorry post, annoyed am, struggling wit weight loss, this, concept struggl e, pay lose ',ag
+' brakes, stops car, right me, middle treet, ',ag
+' starts yelling ',ag
+' "you hit omg." said, hair horse, ',ag
+' nice, death ',ag
+' "omfg ',ag
+' " ',ag
+' admit, fascinated eyes, black eyeliner, managed stay open ',sp
+' minute ',ne
+' ',dg
+' write plate ',ne
+' turned sort hell ',dg
+' grabbed bike, tried push ',ag
+' now, people stuff daddy blocking intersec tion ',ag
+' struggling bike ',ne
+' mad ',ag
+' hit bitch hard ',ag
+' hey, me. middle intersection ',ag
+' fucking bike ',ag
+' fucking ',ag
+' job bad ',ag
+' annoying ',dg
+' woke wednesday morning, bright early (as do) work/uni ',ne
+' walked call surprised oh! ouldn turn ',sp
+' housemates, up, informed no, working house ',ne
+' - spent 10 minutes turning house, safety switch back on, turning back safety ',ag
+' tried sure plug/circuit ',ne
+' thought do, able afford eithe fridge fix ',ne
+' housemates thought buying fridge hemselves, idea sadly left issues ',sd
+' lovely (love babes! ',hp
+' offered fridge (woooo!) ',hp
+' so, 48 hours fridge (hate think food there! ',dg
+' joyfully picking today ',hp
+' ',hp
+' yay ',hp
+' wrote posting, political democratic candidates fac turning base voters ',ne
+' despite democrats bush administration republican vernance, real signs (at county) vote november ',ag
+' argument goes anger gas care costs, protracted, expensive war conclusion sight, perception religious george w. bush social issues base voters ',ag
+' well, ',ne
+' latest issue news &amp; world report, republican feeli ng pretty turning folks fall, vote return party elected officials power ',hp
+' true ',ne
+' words, democratic candidates political season: can, turn base, assume guy usual folks vot ',ne
+' feel fly ',ne
+' smile ',hp
+' anything, relationship, compa red ',ne
+' other, shows, pays ',ne
+' friends ',hp
+' already, know hope ',ne
+' ive learned relationship wa tching ',ne
+' duno, kinda losing track ',ne
+' wont head ass it, sit think/dread everyday ',fr
+' cherish love know care ev eryday ',hp
+' ',ne
+' abusive, words feelings directed / feel bad ',sd
+' chris problem words too,and anger ',ag
+' car everythin alright ',ne
+' pissed ignorant ',ag
+' stupid ass hole ',ag
+' gudam, sorry ass ',ag
+' oh yeh, sub-conciously waiting jamie >:) ',ne
+' church friend house lunch ',ne
+' guy dance back school house ', ne
+' ages ',sp
+' goes figure ',ne
+' hm, bit weird ',sp
+' lunch genelli ice-cream ',hp
+' (however genelli part) ah, talked anri ex mom menti oned anri angry dad ex visited, dad ke pt busy ',ag
+' oh ya talking ',ne
+' dad asked table angry dad ',ag
+' "whahahaha" think ',hp
+' funny ',hp
+' table ',hp
+' w0rd dead tired ',ne
+' anri wanted beach, visited weekend back ocean ',ne
+' car, music ',ne
+' reason, scared driving me. >.> ask ',fr
+' sat beach felt ',ne
+' ',ne
+' fun ',hp
+' try ',ne
+' took photo girl ocean ',ne
+' anri idea head test water photo throw moves ',ne
+' funny photo ',hp
+' wanted photo kiteboarders, ',ne
+' =/ guy air ',ne
+' walk sit people ph oto them, action photo ',ne
+' love ',hp
+' lost ',ne
+' anri house cake coffee ',ne
+' cake ^.^ ice-cream ',hp
+' dark chocolate ',hp
+' wanted movies wanted church anri know ',ne
+' sat hour ',ne
+' ',ne
+' hm ',ne
+' sad sit wonder hand god hand movie ',sd
+' (non-christians, worry part thoughts, person, kinda thinking loud people lieve me.) ',ne
+' nice ',hp
+' movies ',ne
+' think it, hey ',sp
+' sat drawing uhm phone rang police ',ne
+' tired ',ne
+' serious question read ',ne
+' no, stupid chick wondering ',dg
+' obvious me. knew gonna die, li ke sooner later, reason ',ne
+' friend gonna die, sooner later, angry choices years cut virtually ',ag
+' tried step minute look ma viewing ',ne
+' athelete ',ne
+' wonderful friends love cherish ',hp
+' virtually ',ne
+' start turn unexpected direction ',sp
+' think constant arguing, lies deception, money mismanagement, ',ag
+' decide join military ',ne
+' world ',ne
+' goes interview ',ne
+' leave sense purpose vow full experienc ',ne
+' office look sadness ',sd
+' think traffic tickets, th ere presented join military ',ne
+' hear bad news plan move ',sd
+' speak planning, "i sorry tell this(ok, move back home back school work degree ',sd
+' ), able welcome forces(or trav eling explore country ',ne
+' ',ne
+' story me, heard pissed ',dg
+' see, knew ',ne
+' lol) ',hp
+' imagine surprise engage lor coming know ',sp
+' tells gonna test gonorrhea, gonna test hiv ',ne
+' like, "for what? ',sp
+' answer ',ne
+' really, think ',sp
+' man, regard me, life bullshit lies ',dg
+' fortunately, test results back negative gonorrhea hiv ',hp
+' course thankful, realized ',hp
+' realized life me. fuck bullshit ',dg
+' reason pissed friend dying fro disease entire friends, knowledge appropriate care person hi ',ag
+' took multi-vitamin ',ne
+' friends athelete, pretty fit part ',ne
+' thought th ',ne
+' wonder changed mind ',sp
+' asked this, answer ',ne
+' think alot, wonder exactly decide ',sp
+' wonder choices nurse diffe rent results ',ne
+' live, ',ne
+' however, so, leave thoughts comments ',ne
+' birthday monday ',ne
+' trashed ',ag
+' tho work monday bday cause shop sucks ',dg
+' bday ',hp
+' seriously dont know ',ne
+' sucks known years ',dg
+' alfkjaslkjfasjflka;sjdf;asjfals;fjlakjsf ',ne
+' myrtle beach ',sd
+' cried home myrtle ',sd
+' reasons ',ne
+' &lt;/3 ',sd
+' myrtle&lt;/ ',ne
+' bad ',ne
+' annoyed ',ag
+' b/c dont money move right ',ne
+' information ',ne
+' wont bad ',ne
+' move ',ne
+' wanted moving 29857938475 miles b/c freaking ',fr
+' ////the look me/// ',ne
+' ',ne
+' well, well, ',ne
+' hahaha ',hp
+' well, surprised ',sp
+' ',ne
+' hahaha ',hp
+' so, drop tell ',ne
+' missed cool people met ',sd
+' religious ritual (like baptism) ritual (like hands), personal ritua ',ne
+' develop rituals life ',ne
+' granted, global, world-issues big picture, big picture ',ne
+' bag american ',ne
+' 40 years purpose ',ne
+' start ',ne
+' surprising ritual easier establish rituals location, home ',sp
+' [it sense concern straight place ther live ',ne
+' ',ne
+' ',ne
+' all-structure, all-the-time ',ne
+' know life ritual ',fr
+' rituals ',ne
+' alas, (yet) ',sd
+' * home work, put ',ne
+' started thinking enjoy, definitely ',hp
+' * saturday, ',ne
+' ',ne
+' * ritual absolutely adore outdoor hollywood forever cemetery summer ',hp
+' * working, known weekends: ust currently enjoying ',hp
+' ends, able start garden ',ne
+' telling ',ne
+' ',sd
+' mind ',ne
+' * happy taste ice cream (i love try flavors!), wh ordering, chip ',hp
+' ',ne
+' * fear keeps bed tired ',fr
+' totally mental ',ne
+' think rituals lives ',ne
+' "the image cartoonist cartoonist sitting tables selling books ruly ',sd
+' ego-crushing buy ',sd
+' - beaty, pleasure meeting show, spx learn european convention ',hp
+' enjoyed spx, rare men women bro ught ',hp
+' it, perception: traveled hour trip saturday american chris (he status agreeing drive), arrived half-hour doors opened, stayed 5:30, right back home ',ne
+' spx, words, full shopping ',ne
+' ',ne
+' met awful lot fine creators, table time; heaven knows afternoon people waiting betwee tables, distractions attend ',dg
+' signs direct whatnot, hard find ask direction ',ne
+' upstairs totes, tables attent ion, folks operating hand stray ',ne
+' building highway, metal vehicles aro ',ne
+' hotel, road ',ne
+' passed parking lot furniture sale, haunted ponies back, decided turn passed ',ne
+' back gray highway center comics people, clo se haunted ponies bought ghost ndependent comics ',ne
+' love walking buy, traveling hours comics spread dreams personal hackles, tell ',hp
+' glad chris me, knew lot faces t; fine guide, occasionally version rabbit?, unsure bob ',hp
+' actually, think spx gether, comics placed concern subject matter ( heard bit prior years, selling rooms all); creators books picture english-language non-superh ero comics, diversity manage ',ne
+' look crowd, imagine question diversity comics-reading ',ne
+' sit former, late, sort ',ne
+' turned "it civil war. ',ne
+' chippendale talk different, highly entertaining, digression-prone artist history procedure, dan nadel extra bonus brian ralph, seated back room ',hp
+' spx, artists, hippendale creator ',ne
+' tried buying trip room, ut hold ',ne
+' books ',ne
+' comics #1-2 steve peters &amp; friends (i origin ago ; walked table, entire convention, suddenl realized forgotten tell steve peters - intellect! ',sp
+' cinema #19 edited robin bougie (new issue funny, comics-heavy pamphl et-format magazine devoted entirely film - creator personality -powered publication, robin bougie real life exactly wa ',ne
+' comics comics #1-2 edited &amp; dan nadel (i mentioned yesterday, hard copy issue #1 ',ne
+' fuzz &amp; pluck #4 (of 5) (surely fuzz &amp; pluck; still, store, table ',ne 
+' 2 #1: heavy metal (from house twelve, free debut, ori ginal movie version magazine ',ne
+' ninja brian chippendale (debuted show, book , already; table, momentarily transfi xed transfixed "i book this!" ',ne
+' project: (debuted show, project series anthologi es, devoted comics ',ne
+' ',ne
+' nice trip ',hp
+' lot have, hands ',hp
+' hope again, add convention experience points ',ne
+' mother ',ne
+' think gulf mexico gulf california, remember which, water ',ne
+' no, alright, lot ',ne
+' girlfriends strange; think reasons break end, anymore reasons ',sp
+' time, sit chair ',ne
+' try this, spend nights reading ',ne
+' ',ne
+' read, dream sex moth er, well, know means ',hp
+' sometimes, reading condition, ',ne
+' problem ',ne
+' think ',ne
+' terrible playing memory ',ne
+' ',ne
+' work tomorrow morning ',ne
+' sunday, tomorrow holiday ',ne
+' think work holiday ',ne
+' days straight ',ne
+' read condition, ',ne
+' tell doctor, doctor ',ne
+' weigh 180 lbs, 5 , 10", wrong me. weird scars neck ',sp
+' kid ',ne
+' ',ne
+' drunken night excess, eithe ',ne
+' oh, drunk, happen forget ',ne
+' remember second, moment leaning toilet ',fr
+' memory, ',ne
+' think problem work, stuff ',ne
+' spend filing, thinking read night before, trying process it, trying figure is/has happening me. night, read lay dying william ',ne
+' ',ne
+' think point ',ne
+' work, left book home ',ne
+' returned library ',ne
+' nice ',ne
+' books days ',ne
+' walk lake calhoun ',ne
+' often, walk ',ne
+' clouds cover sky, calhoun, breeze, ',ne
+' lake frozen, walking top ',ne
+' ',ne
+' lake, people slowly ',ne
+' i, hand, home ',sd
+' brought book me. read ',ne
+' suppose cold annoy me. t. sho ',dg
+' people this, right ',ne
+' water bad ',ne
+' people feet lake october ',sp
+' lake, think thinks wrong me. wrong me, know ',ne
+' person says something, know what, something, ut place tune ',ne
+' think ',ne
+' know ',ne
+' right ',ne
+' throw clothes ',ne
+' neck hit water sink, blowing ',ne
+' life feel completely normal ',ne
+' ',ne
+' suck-ass turned ',dg
+' work fucked ',dg
+' bad trip fucked ',dg
+' borrow ',ne
+' mind you, treated asshole house couple weeks, ',ag
+' played song think mom, suddenly, depressed ball ',sd
+' house home ',ag
+' 1st ',ne
+' now, ',ne
+' school nuts- remember putting hours lab, ass- classes wel feel in- ',ag
+' nice able put head ',ne
+' sure people heard sad murder michelle- gardner quinn, ',sd
+' pretty awful- ',sd
+' boston weekend shocked ',sp
+' change parts prett sad ',sd
+' imagine family friends right situation- th part ',sd
+' anyways, sure add ov er ',ne
+' fun back- ran fun ',hp
+' work school intense it- stay focused ',ne
+' brother turns 16 wednesday (how.weird. ',sp
+' excited haha ',hp
+' busy trashed ',ne
+' mom proud ',hp
+' cold, ',ne
+' took ',ne
+' wednesday surprised find shelter th morning ',sp
+' top trail started head spastic switc turned started jumpy, place, picking ston es, randomly tree roots, etc. wanted play muc room trail trail ',ne
+' surprised sitting still; spastic switch tur ned ',sp
+' started smiley; 2-3 year-old shepard-pitbull mix ',ne
+' bad left eye think vision ',ne
+' run calling lance (since nameless) laying back grass kick legs riding bike; wrote stuff guess name ' ,ne
+' ',ne
+' cake ',ne
+' fun-filled ',hp
+' turned 4 ',ne
+' boy jumped ',ne
+' cried ',sd
+' lol [they cute brothers, no? ',hp
+' scared ',fr
+' smile scared ',fr
+' tore toy car ',ag
+' tore cake ',ne
+' :d yummy ',hp
+' co-workers ',ne
+' think me. ',hp
+' adore heart ',hp
+' &lt; ',ne
+' think wearing left ',ne
+' christina ',ne
+' looked tired ',ne
+' har har ',ne
+' goes bigger heart i, ',hp
+' ',ne
+' xd oh well~ child ',ne
+' ideas ',ne
+' event sooo fun ',hp
+' exciting adventure walked 6 miles cold ',hp
+' 8 morning ',ne
+' try warm ',ne
+' alex, suck ',dg
+' know ',ne
+' anywho, man awesome ',hp
+' so, journey ',ne
+' people ',ne
+' walked ',ne
+' more! ',ne
+' hours kevan, ',ne
+' met ',ne
+' question ',ne
+' sign ',ne
+' check look christina face ',ne
+' anywho, interesting ',hp
+' "someone unexpected resurface. ',sp
+' [and guess ',sp
+' walk ',ne
+' years ',sp
+' then, unexpected too. ',sp
+' eff, "you find road happiness others. ',hp
+' eff likes ',ne
+' pretty ',hp
+' check "little s" face ',ne
+' meet "the nox" ',ne
+' ',ne
+' conversation argument english class ',ag
+' xd people, child, popped ',ne
+' anywho~ today fun ',hp
+' walk fun ',hp
+' interact ton expected ',ne
+' stand barefoot ocean edge, feet slowly, sucked beneath cool, wet ',ne
+' head back ',ne
+' gray clouds, momentarily back-lit silent, random ',ne
+' stretch reach ',ne
+' beach living write ',ne
+' brother likes point wee kend ',ne
+' status brother concerned, moves ah ead ',fr
+' season doctor dvd ',ne
+' no, season, william black white years ago suck doctor season ',dg
+' sorry british television rules ',ne
+' historical society home tour mother wanted ',ne
+' assumed niece york sister working weekend job mother i; know invited sister-in-law ',sp
+' side, home tour put holiday spirit ',hp
+' totally start christmas shopping ',hp
+' halloween return ',ne
+' seeking deals, however, find move quickly ',ne
+' note, enjoy sunday ',hp
+' well, half-way trip ',ne
+' believe ',sp
+' amazing ',hp
+' train evening ',ne
+' france ',ne
+' ',hp
+' church look ',ne
+' (or colosseo) awesome ',hp
+' standing is. well, feel lucky ',hp
+' amazing ',hp
+' enter museums hour wait ',ne
+' october museums close early (1:20pm), lot ',ne
+' ah ',ne
+' ',ne
+' walked pretty entire city ',ne
+' beautiful, full people tour ',hp
+' wait long, ',ne
+' stunning- full people ',sp
+' realized- mass ',sp
+' believe ',sp
+' rude ',dg
+' night met australian couple nice ',hp
+' meet lot people hostels ',ne
+' pretty cool ',hp
+' anyway, rome loud, dirty absolutely chock-full people cars ',dg
+' city human being, morning watch hear ',ne
+' hell back home ',ag
+' job jamie offered me? stay salem ',ne
+' questions completely ',sd
+' discovered (and others) ',sp
+' dream earthquake happen!! ',sp
+' entirely true ',ne
+' mind bed 4.5 ft. 4 hours ',ne
+' bro calls ',ne
+' calls and, knowing international sign "pick th frickin phone," picked wrong ',ag
+' ',ne
+' ',ne
+' huh, news fast ',sp
+' called sister ',ne
+' called me. wanted frickin ',ag
+' back noon, took walk, hours, dar k, read while, power back watch tv ' ,ne
+' all, interesting sunday ',hp
+' plans shot shit cause cell waves packed coul dn touch friends ',dg
+' yeah ',ne
+' useless ',dg
+' ',ne
+' easy ',ag
+' oh, earthquake 6.6 ',ne
+' surprised (geekin up) frequency ',sp
+' definitely range regular ',ne
+' yeah ',ne
+' ',ne
+' movies ',ne
+' amount energy required move mass frequency ridiculous ',sp
+' earlier week, karina invited ',ne
+' 7, project runway playing bravo, asked, "w kubik?" ',ne
+' seat karina, talking, face appea rs window her, ',hp
+' jump, realize kubik ',sp
+' karina plate 3 cheeses, red peppers, crackers, tv project runway ',ne
+' watch it, watch movie reading newspaper, loud, kubik complains, "someone talking trying watch movie!!" karina me, "you talk. ',ne
+' watch project runway, repetition 5 fast ',ne
+' haha, ',hp
+' sunday afternoon, erica, diana, spy museum ',ne
+' ',hp
+' find spy museum surprised number young there, addition usual tourists young ',sp
+' exhibits, lose erica diana, occasiona lly catching slow ',ne
+' carpeted, hard knees, left behin brochure ',ne
+' looking exhibit devices, kid ha nds pamphlet, "you dropped this. ',ne
+' gift shop heading home ',ne
+' outside, diana hard open door, 7 8 bo family pulling pushes ',ne
+' cute ',hp
+' water drank water put close ',ne
+' fly door morning 10 minutes late class, group project, part ',ne
+' think knows line crossed ',ne
+' campus felt ',ne
+' love pictures ',hp
+' favorite video game characters ',hp
+' beat living shit guys heh ',hp
+' ',ne
+' love outfit well, think laughing fight st reet silly, me. kikyo, series, anot favorite ',hp
+' true normal life ',ne
+' lol ',hp
+' *whispers* matt mix ',ne
+' ;) love hun ',hp
+' strong keen, scars ',sd
+' movie loved ',hp
+' wish es.w.a.t ',ne
+' so, hour ',ne
+' decided contacts knowledge free $30 ',ne
+' ',ne
+' office jump drives ',ne
+' special heh ',hp
+' believe $17.88, $18.88, unexpected ',sp
+' 1.0 jump drive, bad deal ',ne
+' feels nice ',hp
+' so, stayed 2 hours home bird ',ne
+' works ',hp
+' thought alot stay dressed ',ne
+' guy 4 months, wanted look nice ',ne
+' *smiles* looked cute ',hp
+' thanks hun ',ne
+' sorry focused ',sd
+' so, song ',ne
+' song: ',ne
+' ',ne
+' ',sd
+' ',ne
+' sorry ',sd
+' sorry lie ',sd
+' ',ne
+' cause se ',ne
+' wanted se ',ne
+' ',ne
+' know ',ne
+' guess theres ',sd
+' *smiles* beat ',hp
+' *huggles ',hp
+' class semester, ticular ones missed ',hp
+' painting donated school students fr osb, testament ',ne
+' entire enterprise surprise (our name father) genuinely surprised affair ',sp
+' session round, session bring seminarians, lay students evening discussion guest ',ne
+' denis osb early church history telling mrangelmeg months ',ne
+' wanted mrangelmeg chance experience fr ',ne
+' discussion spent bar campus called unstable ( vow stability, call bar, unstabl e, it? ',ne
+' much, class ',sd
+' wonderful ',hp
+' extreme home house st. (the town) drove ',ne
+' cool ',hp
+' denis class quiz early church saturday morning happy returning home friday night ',hp
+' forget internet, 75% information ', ne
+' internet missing born ',ne
+' minutes need, glass favorite wine, enjoy newfound knowledge ',hp
+' truly helpful, ',ne
+' welcome world classical music ',ne
+' world, place music endless forms entire life listening pleasure ',hp
+' classical music music existence, study music era ',ne
+' 1 ',ne
+' composers church (surprise!), religion early classical music source ',sp
+' formal system notation, difficult time-consumi ng ',ne
+' 2 ',ne
+' music art science, music printed, acred, secular, music spread ',ne
+' composers era ',ne
+' (1600-1750): era bach, handel, modern today, violin, clarinet, piano ',ne
+' composers counterpoint, dance repetition music ',ne
+' think brief period modern music ',ne
+' kidding ',hp
+' find popular composers era, (both know writing "classical") ',ne
+' 5 ',ne
+' composers era tchaikovsky, brahms, wrote music rang e, variety ',ne
+' 6 ',ne
+' subcategories classical music born year, composers writing music ',ne
+' possible, ',ne
+' composers fall period, copland, stravinsky, ',ne
+' 7 ',ne
+' welcome classical period, subcategories glass, electric john corigliano, twelve-tone works john bilotta, area ',ne
+' painless, ',ne
+' classical music easier ',ne
+' add passion life visit, share world ',ne
+' arguments favor: 2 ',ne
+' 8 "pro" arguments county regon appellate judges ',ne
+' thought measure positions political, positions political, matters tha oregon originally district elections ago, ele ctions district mean judges ave means currently areas (think area) chance appellate courts, ',ne
+' worth saying argument favor written ron saxton ',ne
+' surprised me, know tv ron saxton running somet hing ',sp
+' somewhat-convincing argument one, favor, oregon ',ne
+' personal experience argument, somethi ng present ',ne
+' ',dg
+' again, kerstin proven wants ',ne
+' finding fun finding placing hand dow working',hp
+' :d ',hp
+' lately capable questioning deal ',ne
+' wrong decisions, outcomes!" ',ne
+' mistake ',fr
+' burn bridges, crossed wrong ',fr
+' paranoia knows ',fr
+' mother cut open top left 11 stitches, job mommy :d ',ne
+' talked today, ok. left dad told ',ne
+' amuses ',hp
+' know brother approach women, understand lot bette ',ne
+' dealing w/ ',ne
+' sad, bird home anymore ',sd
+' like/can deal w/ classes ',ne
+' nap ',ne
+' lost u.s. gov. class cut dry worry ',ne
+' lot w/ approach ',ne
+' (well, 1/2 people know ',ne
+' ',ne
+' know one, shocked expression w/ pumpkin guts coming ',sp
+' easy cool~ish looking ',ne
+' pumpkin guts fun esp. person working w/ ',hp
+' hug ',sd
+' laughing lot ',hp
+' laugh here, esp. ',hp
+' major fights w/ roomies, ones ',ne
+' ',ne
+' speaking person amuses kerstin ',hp
+' care guys ',ne
+' dream ',ne
+' ',ne
+' ya clue ',ne
+' ',ne
+' surprising know ',sp
+' dream ',ne
+' held head ',ne
+' dont worry ',ne
+' infact ',ne
+' happened dream real sweet ',hp
+' wanting ',ne
+' peace ',ne
+' scarred, man black heart, fingers painting guitar ',sd
+' eventually, music away, guitar slipped back bag ',ne
+' "oh," said, ',hp
+' seconds turned asked, "are whi le? ',ne
+' "ah, thanks. ',ne
+' ',sd
+' violin took bus spirited music ',ne
+' think amount playing ',ne
+' pretty easy song, suggest sic playing twinkle twinkle ',ne
+' played cello, bring ',ne
+' hard push back in, string peg, real bit ch ',ag
+' pretty sweet ',hp
+' night mike christina bunch people bar drunk 2 coolers ',ne
+' suck drunk, fall asleep, finished makin bar hours couch ',dg
+' wrote bit book, ',ne
+' thats mention right ',ne
+' disgusting ',dg
+' ',ne
+' love learn ',hp
+' today, though, heard commentary lee ',ne
+' depends ',ne
+' markets measure accurately, find disgusting ',dg
+' world markets labour, people mere schedule, regard free ',ag
+' world markets exactly problems world (*ahem* eople war it, know) ',ag
+' dangerous force market mentality ',fr
+' throwing eat ',ne
+' buy sort ',ag
+' *the ones control it* ',ne
+' disgusting 9/11 turn market ',dg
+' destruction life ',ag
+' and, ask, 9/11 place ',ag
+' yes, lee ',ne
+' answers dispicable ',dg
+' comment: "traders, buy sell contracts, bring infor mation political situation ',ne
+' lee throwing ideas elections ',ne
+' plus, government, ',ag
+' selling top killing 150 people ',ag
+' reason encourage afford sort dispicable ',dg
+' sickening ',dg
+' room humanity this, encourage it, ',dg
+' "in years, ',ne
+' ',ne
+' think ',fr
+' threat-ish emerged britain turn comment democrats ',fr
+' terrorists britain iraq (despite terrorists involved civil war), slo exit iraq goal ',ne
+' problem ',ne
+' war iraq fighting terrorists ',ne
+' terrorists iraq ',ne
+' terrorists anything, pull ',ne
+' matters terrorists iraq, means stay ',ne
+' iraq incredibly ',ne
+' "i worried people, out, appreciate th threat american security evil faces us," mr. th event ',fr
+' called threat "more evil, evil, dangerous han communists cold war. ',fr
+' suggest couple disorganized trying 1995 plot evil dangerous off-base, stupid ',dg
+' flat-out disgusting ',dg
+' joe, scraping ',ne
+' vision night: rooms people lying floor covered sheets, separate ',fr
+' people mean faces nasty attitudes turf, telling move ',ag
+' try find comfortable space head smaller ',ne
+' body vehicles - leaving ',ne
+' am, means, art ',ne
+' birthday, jon took center ',ne
+' ',ne
+' ',ne
+' ',ne
+' now, understand, right it, ',ne
+' work - closest gotten watching "teenage ninja turtles" ',ne
+' real alma-tadema ',ne
+' oh, think security nervous - blow forever ruin ',fr
+' ',dg
+' (pretty, no? person! ',ne
+' said, judge art ',ne
+' excited cadavers (blame gross anatomy) real ly wanted shot close anatomy viewing ',hp
+' photobucket - video image hostin ',ne
+' joint ',ne
+' glenoid-humoral joint.") exhibits interesting, soccer player ',hp
+' gross anatomy, cadavers - laying tables deep ',sp
+' body action interesting ',hp
+' interesting cases organs - healthy diseased ',hp
+' odd body worlds goes anatomy exhibit sort cadaver art ',sp
+' again, judge art, exhibit drawn numbers people possibility off-base ',ne
+' now, people organs book ',ne
+' public chance look diseased organs (something usu ally pathologists, who, noticed, *very* excited necrosis. ',hp
+' basic anatomy bodies ',ne
+' however, me, "artistic" exhibits turn - ingly admit cadaver gross, thought bit sick ',dg
+' aside, interesting cadavers exhibits suc body worlds (i guess entire affair "knock-off" exhibits! ',ne
+' country access huge numbers students (someone dirty work) controversies, questions cadavers ',ne
+' however, knock-offs (personally, avoid you. ',ne
+' dislike feeling ill. plans weekend ',dg
+' thought know ',ne
+' smells ',dg
+' constantly congested, ',ne
+' course, feel ',dg
+' that, feeling ',hp
+' able tell teachers school pregnant, een fun hear stories ',hp
+' school starting, eating lot, funny letting saying eating ',hp
+' keeps asking find boy girl ',ne
+' alright, eat dinner, ',ne
+' afternoon, shopping school ',ne
+' eventful ',ne
+' exciting summer patricks, roths, ',hp
+' to, dad brother (as sta ted), mother hates mall hates ',dg
+' ',ne
+' ',ne
+' keeps yelling feet floor ',ag
+' mother asked chris, "how ',ne
+' hot garlic? ',ne
+' "that think. ',ne
+' tell, ',hp
+' looks pinks, ',dg
+' cat, roxie, nervous ',fr
+' eating cat food feet me. brother look her, ran ',ne
+' pretty disgusting ',dg
+' hate bad mood ',dg
+' kinda bunch sad cry reality ',sd
+' ',ne
+' mean know cant put words dont gu ess ',ne
+' trying mean dislike " why" try explain "thats stupid dislike her" pisses ',dg
+' people highly dislike ',dg
+' thats person highly dislike ',dg
+' mean reason dislike shouldnt question cuz dont know ',dg
+' cuz hate ',dg
+' nice person right dislike people ',dg
+' anyways ',ne
+' late ',ne
+' looked jon "hey, feel pass out. ',ne
+' woke jon picking head saying name, hear hi ',ne
+' hope pass sweet, driving operating heavy ',ne
+' know writing 4 ',ne
+' anyway, ago, visited tea house proper tea tea ',ne
+' yesterday ',ne
+' luckily, stopped lesson ',hp
+' bad ',ne
+' school part ',ne
+' love song "absolutely everybody" parade ',hp
+' ',ne
+' uhm ',ne
+' woman, name ',ne
+' mention find incredibly intimidating(sp? ',fr
+' felt drawer ',ne
+' guess feel bit ease ',ne
+' ',fr
+' course proceeded, feel myse lf comfortable ',fr
+' change exact penny, relief lol ',hp
+' today (day three) smoothe ',ne
+' today drawer exact ',ne
+' tomorrow 8 stay 5pm ',ne
+' suck ',dg
+' horrible ',dg
+' hopefully tomorrow smoothe ',ne
+' definately bitching ',dg
+' check-off to-do list, summer classes graded, 4.0 gpa ',ne
+' assume proven able leve things, top classes goal 1 ' ,ne
+' thus, statistics, spanish, public speaking class sum mer classes assumed drop gpa ',fr
+' turned problem- believe 4 quest ions wrong 5 6 tests easily ',ne
+' course, nice know areas difficult ',hp
+' dislike idea ability; balance tha leads trying develop cross-handedness ',dg
+' try body mind ',ne
+' month classes now, move inte rnship job ',ne
+' london area police tomorrow ',ne
+' unfortunate, walking ',sd
+' hadn anyway- watch shop ',ne
+' faith abilities, think wha happen ',fr
+' red face, wonder pass ',sp
+' called woman ',ne
+' learn others, example, people stupid ',hp
+' hours road days, conclusion people concept turn signals, speed limits, restroom ',ne
+' guy piss leave hands ',ne
+' told guys, hands ',ne
+' yelled door "does wash frig ging hands anymore?? ',ag
+' disgusted, hands, walked out, yelled "pigs!" burger king number late lunch ',dg
+' middle eating, holding girl hands hildren ',ne
+' lovely ',hp
+' clean disease free (i attentio cleaning hands; women dating boys th care hands), ca nnot others, hands prior have, toilet seat, lever, door ',fr
+' hey assholes, explain children cold from: "daddy wash hands restroom, cleaned face, yo herpes. ',ag
+' wash hands ',ag
+' unclean!" public restroom ',ne
+' feel dirty shower ',dg
+' "descent" local ghetto theater, local ghetto mall ',ne
+' theater ',ne
+' nice movies holly, ry role "mom", male kid s, hard associate "parents. ',hp
+' ask comedian, bit relate parent vice ',ne
+' erin problem, loves kids works them, neve honestly kid person ',hp
+' clue ',ne
+' beat them, mouth, ignore eithe ',ag
+' territory, children grow-up point, rea lize pissing people ',ag
+' ',ne
+' movie sucked ',dg
+' ',dg
+' plot full loopholes, othe rwise associate hollywood movie stars entire cast women ',ag
+' full plot holes drive ',ag
+' ',ne
+' ok, point find dead moose middle cave system ', ne
+' "oh kill food bring eat. ',ne
+' side cavern, drop-offs feet clinging ',ne
+' fuck cave-dwellers moose ',dg
+' ',ne
+' "hey shelter" think, deal ',ne
+' explore bit, ',sp
+' thought "well, find across? ',ne
+' point ',ne
+' food deep cave ',ne
+' safety ',ne
+' hell ',ag
+' took place africa, worth earth escape human ago, bef ore took cave drawing ',ne
+' movie subsequent discussion retarded, back house watched ',dg
+' alright, american enjoy watch ',hp
+' caught couple episodes lee wanna-be ', ne
+' major entertaining, old-school look him, origin superman ',hp
+' comics subsequent spin-off movies point making: gotten darker, literally ',ne
+' look superman: original television issues, movie human ',ne
+' "our lady peace - superman dead", song ',hp
+' "do worry liked ',fr
+' break ',ne
+' happy cause smile, ',hp
+' yea ok, know refrain, catch tune ',ne
+' head home lunch ',ne
+' nuts, asshole heading canada ',dg
+' biddeford, jumped-ship headed route one, "accident" ikes experienced headed home ',ne
+' scarborough, jumped back on, route pretty packed, idn downtown portland ',ne
+' sucked ',dg
+' back pike, putting traffic, picked th ey been, north lewiston, augu sta, pretty frigging busy ',ag
+' bangor, picked check, home waited erin ',ne
+' blog work ',ne
+' shit absolutely ',dg
+' yes, effect, ',ne
+' proud ',hp
+' pete rose runs indians catcher, ray fosse score winning run 1970 star game ',ne
+' teams---1---2---3---4---5---6----fina ',ne
+' marco----2---2---1---1---7---0----1 ',ne
+' yeah, cocky, marco walking desert years ',dg
+' twelve runs 4th inning marco team ',ne
+' inning ',ne
+' 3rd inning, tried score throw base ',ne
+' joey, blocking home plate, ball arrived plate ' ,ne
+' flying backwards landed huge left-handed box ',ne
+' asked right, proceeded tel knew coming ',ne
+' oh well, collision home plate ',ne
+' forget ray fosse pete rose home plate 12th inning 1970 star game ',ne
+' lines base hit center, plate, base coach, waves pete rose home, throw brings indians catcher, ray fosse feet line, happens ',ne
+' pete rose knocks ray fosse baseball knocks lace ',fr
+' so, end, held win score 18-13 ',ne
+' reason catcher ',ne
+' yes, happen but, catcher, play sports ',hp
+' joe happen bother ',ne
+' hit season ',ne
+' funny ',hp
+' joe gotten ',ne
+' june 5th, 2003 ',ne
+' walking ahsan load ',ne
+' screamed throw ',ne
+' landed ball picked hand ',ne
+' ahsan says remembers play ',ne
+' ahsan told remembers collision game bein played rarely play raining ',ne
+' ball lying ground screamed joe touch home ', ne
+' remember walking disgusted ',dg
+' completely joe home plate joe king base ball ',ne
+' night blog ',ne
+' brother bike ride ',ne
+' liked that, happy able ride ',hp
+' reason check dad deposited 56 dollar government cheque ',ne
+' 62 dollars, precisely 56 dollars ',ne
+' bonus ',hp
+' pretty bummed out, meant put hold cheque, hate that, bloody point ',ag
+' bloody government cheque ',ag
+' bother much, government cheque deposited hold ',ne
+' so, money right hold of, spend furmeet monday ',ne
+' feeling dad weird ',ne
+' pretty fashioned, rude ',ne
+' ignorant, fashioned (which pretty damn rare. ',dg
+' earlier today, put - seasonspeech, mom asked music ymore ',ne
+' pride listening variety music ',hp
+' pride ',hp
+' sad, helped move stuff ',sd
+' despite load stuff took, barely notice house ',ne
+' told mom moving weekend 26th, hold andrea plans formal ',ne
+' find swing it, ',ne
+' love chairs *sniffs ',hp
+' tried timetable, today set timetab ',ne
+' furmeets, jason thing, furmeet ',ne
+' funny, think, love willing schedule ',hp
+' ',hp
+' confused ',ne
+' calls, mom phone wor ks right ',ne
+' deal, number written piece paper forge ',ne
+' put living mother, 6000 year, guarantee accepted osap, pay 8700 ',ne
+' good, living andrea, internet, hy dro, food ',hp
+' well, ',hp
+' pay 300 dollars semester mohawk brantfor mohawk bus ',ne
+' semester, 1044.12 ',ne
+' way, thinking looking pretty ',hp
+' so, tomorrow busy ',ne
+' ticket bitch, volunteer hours experience ',ne
+' try tell impressive resume ',ne
+' looking job brantford sch ool ',ne
+' feel independent ',ne
+' list ',ne
+' mom signature, think mail governmen decide ',ne
+' that, calls mohawk ask money issue, uition ',ne
+' #5 talk people brantford mohawk ',ne
+' opened up, late, open 12 ho urs, september, time, however, wait, site morning ',ne
+' so, tomorrow gonna sad ',sd
+' mention 680 ',ne
+' know, thing, independent ',ne
+' anyway, part says jason s, cash, stronger, ge train leg stronger (like bike. ',ne
+' mean, told july 25th, there, help out, backing ',ne
+' smartest, responsible group part ',sd
+' however, playful, devil-may-care part tells fuck london watch movies ',ag
+' fact, email, responded, know ',ne
+' ',ne
+' people guy know named pisher, ',ne
+' example, wrote ',ne
+' opinion, ',ne
+' people me, disagree me, sagree them, resort insults, know men ig lose man, people fall fight, kn online, war ',dg
+' try stay them, stand level, somet imes silent bob ',ne
+' faces ',ag
+' movies, discussing film bett er, pirates superman ',ne
+' personally enjoyed pirates more, thought superman wi th fantastic story ',hp
+' there, side people constantly saying irates sucked, allowed sucked wa horrible ',dg
+' etc. folks trying tell superman horrible ',dg
+' disgusting feel find thread people discu ssing argument ',dg
+' well, gonna post board try ignore flames ',ne
+' ',ne
+' dont frankly dislike much, dont ask caus tell ',dg
+' know suck (and looking comments ',dg
+' writing stuff writing derstand bette ',ne
+' hate word bette ',dg
+' cant happy ',hp
+' ill happy ',sd
+' ',fr
+' "delight desires heart", mean ',dg
+' suck , completely ',dg
+' feel constantly boyfriend ',ne
+' hate life? ',dg
+' wanna fun happy friends ',hp
+' giggle giggle giggle thats everyday boyfriend laugh ',hp
+' ',ne
+' terrorists sick, detained, believe irst life resort extreme ',dg
+' people listen news ',ag
+' petty, annoy me. absolutely evil, people ',ag
+' imagine, bomb, fashioned sports drink, camera ',fr
+' believe ',sp
+' britain, has, dogs so-called "prime minister" mexico, dealing 3,500 lives lost, 10 ',ag
+' so, thankful alive ',hp
+' ages class cla ss talking stuff home, discovered ',ne
+' night, trying demonstrate boy beat complete change decided slipped carpet trying demo nstrate kick fell backwards hit sickening crack ',dg
+' back head ',ne
+' which, know, fucking hurts ',dg
+' fact, bought toilet paper george bush stupid ',dg
+' political soapbox, find republican regime dista steful, feel free exit ',dg
+' serious note, open paper online news fin *should* you, definitely bothering me! example news ',fr
+' "washington - british terror plot, bush administratio seeking $6 supposed spent homeland technol ogy. ',fr
+' spent dollars human capital homeland security ',ne
+' address loss civil spread kgb-like mentality america ',ag
+' government find matter steps try privacy ',ne
+' alarmist, loss privacy personal freedom name "security" scares me. fine security ',fr
+' fact, night mom asked "scared" flying trip ',fr
+' spread "big brother watching you" concerns me. people "we put years" say, "get job canada! ',ne
+' slight civil annoyance feet riding pride train seats ',dg
+' concerned busy ',ne
+' sadly, current legal pies, issues concerned sitting suc state ',sd
+' knowing speaking out, ride feet seats ually journey ',ag
+' works ',ne
+' feel repercussions, action, alw ays knowing read public ar eas ',fr
+' problem set ',ne
+' as, all, society developed shift blame anger ',ag
+' thank god exam ',hp
+' hate ma ',dg
+' questions ',ne
+' fuck wait live ',dg
+' live girl, bitch clean ',dg
+' home place fucking disgusting ',dg
+' ',ag
+' cleaning saved stuff ',ne
+' hahah ',hp
+' girlfriends random sex junk mail ',ne
+' gotta love ',hp
+' jolt face comments ',ne
+' sad ',sd
+' moments all, ',ne
+' steps ',ne
+' people step, totally ',ne
+' ',hp
+' ',hp
+' deep pool ',ne
+' ',hp
+' final summer people ',ne
+' hate people ',dg
+' tried hard enough, putting ',ne
+' guess continue ',ne
+' pretty freaked piano exam ',fr
+' brain dead able sure thrown me. people minds ',ne
+' wish ',ne
+' dislike negative, non-beneficial (to me) change people ',dg
+' ',dg
+' love ',ne
+' beautiful ',hp
+' enjoy them, live moment ',hp
+' then, ',ne
+' ',sd
+' watched close back young chi ld ',ne
+' life ',ne
+' ',ne
+' 3rd guy sms-ed me, 3 3 days ',ne
+' ',sd
+' him, asking call, ',ne
+' told work regime upcoming ',ne
+' wanted faced work life ',sd
+' theory basic met wanting find purposes ife ',ne
+' establish career ',ne
+' yet, know means achieve ',ne
+' feel lost ',sd
+' dentista, ',ne
+' mouth hurts ',sd
+' hate dentist, hate strong word ',dg
+' dislike dentist ',dg
+' bad ',sd
+' ',ne
+' back ( thought) ',ne
+' healthy teeth ',ne
+' "playing love politic alike, words sure party ',ne
+' reasons dislike politic cause manipulating, people , ',dg
+' parents moving mars, pennsylvania, thursday ',ne
+' minutes pittsburgh, dad works, 6-7 hours swarthmore, school ',ne
+' win win ',hp
+' sister remain michigan, thought coming back occasi onally, vicious, fights summer ',ag
+' spend joyfully packing boxes ',hp
+' christmas presents ',hp
+' ',ne
+' considered coming home family dislike wn ',dg
+' no, true ',ne
+' guy sat leg ',ne
+' ("aren friend maggie s?" maggie ',ne
+' "really? ',sp
+' "you look her, guess ',ne
+' hahaha! ',hp
+' guy sitting started small-talk pick-girl-up-talk ',ne
+' attractive ',ne
+' totally dangerous combination ',fr
+' ',ne
+' because, know, cheesy live ',dg
+' also, door ',ne
+' sure that, allowed happen, ',ne
+' wanted fuck myself, happens anytime feel relat ively okay ',dg
+' ',sd
+' therapy whoa ',ne
+' theres stories tell p2p ',ne
+' 39 kids, 4 leaders, 1 amazing woman named lynn, 3 life experience ',hp
+' mel, sully, steve, adam, gibbs, artur, erin, jacqui, will, leanne, nikki,justi n, jeffy, steph, catherines/katies, kaela, bree, sarah (future 2005 aha), sarah p, love ',hp
+' trip amazing know gonna ',hp
+' back right time, right put ',ne
+' lucky ',hp
+' pretty driving normal car, excited ',hp
+' presents awesome 16th birthday. ',hp
+' happened ',ne
+' stuff know ',ne
+' people columbia expected ',sp
+' loving school columbia ',hp
+' feel ease know life, bu scared feel step ahead me. admi school freaked future ',fr
+' class keeps thinking ',ne
+' scared death job school ',fr
+' wait, nervous hell ',fr
+' goes planned job stuck hate ',fr
+' girls class elevator ',ne
+' saying area spring weird huh ',sp
+' part school jr. ',sp
+' ticket ',ne
+' excited concerts nice fun ',hp
+' definitely shocking experience, ',sp
+' trouble walking straight lot (so grammar), ',ne
+' mother scared death, losing consciousnes, life, remember ',fr
+' goal wake up, 32 ld pills put scars kidney place, death real fast ',fr
+' wanted friend sex afraid ask person ',fr
+' afraid ruin friendship friendship person ',fr
+' afraid hurt ',fr
+' hurt person ',sd
+' hurt person line ',sd
+' hurt world friendship ',sd
+' hurt world dating ',sd
+' hurt bad stay world mind ',sd
+' hurt bad stay room ',sd
+' wanting ',ne
+' night night turned amazing 8:00-9:0 ',sp
+' nice conversation juckett, amazing phil, ',hp
+' definitely night conversation, stay 1 2:30, payed morning 1st period (physics ',hp
+' today hit work ',sp
+' long-term work sure finished wi th band practice night, game friday, saturday ',ne
+' starting argument (which turning fantastic have), finished history charts, plan bit start watching america top model ',hp
+' plus, stuff dad ',ne
+' courts mom mad world hang dad hours ',ag
+' love nfl, love live, sense ',hp
+' nfl live, died ',ne
+' sorry died, mislead inexcusable ',sd
+' definitely ',ne
+' turned guide nfl live ',ne
+' love nfl, love live, sense ',hp
+' sorry died, mislead inexcusable ',sd
+' ',ne
+' afraid weigh subject ',ne
+' right mood, a.k.a : mind portland, rea lly ',hp
+' movies told watch ',ne
+' ',ne
+' stopped talking it, started start ',ne
+' matter ',ne
+' took ',ne
+' worried about, trying steal money card, happen ',fr
+' atm "eat" cards ',ne
+' therapy!! ',ne
+' nervous ',fr
+' says, matter sweet nasty mean spirited ',ag
+' explaining skills wont ',ag
+' stuck, cant think right term lose train thought ',ne
+' pissed willing finish try ing ',ag
+' says cant stumbled sentence 5 minutes prior ',ne
+' cant wait visit portland again, right dont think ill able back payed ',ne
+' sucks, mean birthday ',dg
+' 2 pay check work counted ',ne
+' borrow mom, ive payed off, know dont money left ',ne
+' afraid happen ',fr
+' worried money ',fr
+' worried losing love, cant ight ',fr
+' know cheesy ',ne
+' okay shut ',ag
+' okay ',ne
+' dentist today ',ne
+' bad ',ne
+' handle aches, freak ',fr
+' fucked teeth, hurt (except clamp) , edge, felt hurt, moment hit nerve ',fr
+' ',ne
+' nurse suction, hit mouth (isolating tooth) loud ear, flinched, dentist lik "it big deal, afraid of" freaked out, flinched cried startin crying ',fr
+' ',ne
+' filling, sucks ',dg
+' appear, ',sp
+' enjoying ',hp
+' hi, friends, me, barefoot ',ne
+' ',sp
+' totally true access hollywood says ',ne
+' designhergals.com tell think business ca rds ',ne
+' muscles are, like, know ',ne
+' today work popped advils helped mother daughter figure daughter ',ne
+' turns daughter graduated spring ',sp
+' living home parents feeling abou ',sd
+' no, thinking school nursing, ',ne
+' happen me. think threw back ( advils), ',ne
+' ',ne
+' which, honest, brad nervous ',fr
+' pre-deal excitement ',hp
+' wanted call yohji night, deguchi bus attending ball, returning home morning ',ne
+' 24 hour brad idea ',ne
+' deguchi social function planned tomorrow night ',ne
+' flight home ',ne
+' meantime, free time, deguchi passed room rom desire lf game tomorrow ',ne
+' tuesday evening i, wednesday home, brad automatically, doors balcony open sitting chair looki ng ocean ',hp
+' called yohji, missing him, wanting talk ',sd
+' dear ',ne
+' ',ne
+' instead, shopping wear ',ne
+' two-piece, green stretch ',ne
+' drawing, played ms. fun game ',ne
+' bit fun ',hp
+' fun game involved boxes job boxes ny wanted ',ne
+' waffle-iron ',ne
+' bright ',ne
+' asked help clown, ryan face ',ne
+' offered aaron too, laughed head ',hp
+' laughed lot today ',hp
+' sorry know ',sd
+' drawing, standing ryan locker, leaning back, laughing ',hp
+' bell hour talking bunch ryan po pular football-friends ',ne
+' laughing josh peter, me, fast ' ,hp
+' wanted green-and-purple hands, afraid worse, ',fr
+' ryan standing group, sense, gu ess ',ne
+' mink turned locker crowd, ryan watched ',ne
+' said, "he nervous. ',fr
+' "yeah ',ne
+' feel bad. ',sd
+' "what for? ',ne
+' - know leif carlson? - leif sat guy late class table ',ne
+' "so, ',ne
+' ',ne
+' hurting feelings," ryan finished ',sd
+' nodded, felt guilty ',sd
+' mink exactly reason t, well, anything, ',ne
+' total bullshit, matter ',dg
+' fucking ',dg
+' only, ',ne
+' also, look cat ',ne
+' break heart words ',sd
+' cause tears run fall knees ',sd
+' backing ardest ',sd
+' scared wa nt leave side ',fr
+' home- back reality ',ne
+' coming excited ',hp
+' anyways wont weekend penn state bunch male brother lol bye ',hp
+' ',ne
+' change ',ne
+' kno ',ne
+' talk ',ne
+' know gonna alrigh ',ne
+' real ',ne
+' ask ',ne
+' ',ne
+' money people minds hat ',dg
+' know gonna alrigh ',ne
+' change ',ne
+' change ',ne
+' kno ',ne
+' pictures ma ',ne
+' know know gonna alrigh ',ne
+' -- ',ne
+' capitalism america, gulf have-nots insurmountable broken bodies ',ne
+' ',ne
+' pretty damn sad, ',sd
+' leave human ',dg
+' total ',ne
+' radical thought change ',ne
+' words "terrorist, "anti-semitic", "anti-war", "islamo-fascist", "prot est" "communist" ',ne
+' responsible fear-mongering seat bush administration able years, pret ty order ',fr
+' interesting supposed afrai status quo: fear change ',fr
+' government wants afraid terrorists pass easier control ',fr
+' zionists bad name, zionists u.s. name ',ne
+' scared name freedom, mor ',fr
+' suggest government afraid communism, cause goes government rolling: capitalism ',fr
+' "red scare" communist witch-hunt 50 joe safety security america, current fear so-called communist uch north korea, china, actual communism never, ',fr
+' police-states, actual communism marx ',ne
+' earlier socialists longer-term social reform, marx popular revolution inevitable, path ',ne
+' so-called modern communism, factions, arxist/leninist communists ',ne
+' pages words, ran look revolution look like, truly happened ',ne
+' revolution ',ne
+' pretty idea elected officials turn america hope beco me; people serious selfish, style life ',ne
+' air-conditioned, drive-thru frequenting, can-opener using, meat-ea ting, hands-free restroom-using ',ne
+' work ',ne
+' put schools, teach think question taught, learning orde dollar, enter life-long keeps aw ay wish ',ne
+' dream fight hard work ahead, put money ev entually leave factory human flesh, age 65, live lef life, promise social security plan dear leader, "decider" trying privatize, national system ',ne
+' depression ',sd
+' work scared losing job ',fr
+' know air unfit food unfit eat ',ne
+' sit house, slowly world living smaller, is, "please, leave living rooms ',ne
+' leave alone. ',ne
+' mad ',ag
+' write congressman, know tell write ',ne
+' know depression st reet ',sd
+' know first, mad ',ag
+' gotta say, "i human being, ',ag
+' chairs ',ne
+' "i mad hell ',ag
+' anymore!! ',ag
+' felt longing ',sd
+' mere thought source longing cry, truth heart ',sd
+' longing heart, longing weak heart ',sd
+' alter judgement, longing ',sd
+' started job ',ne
+' store ',ne
+' job nice ',hp
+' knows couple people know ',ne
+' luckily numbers cause deal phon e, oh mention mind aim, check e-mail, lo random stuff online work ',ne
+' pretty sweet feel ',hp
+' oh mentor, pretty ',hp
+' today sucked ',dg
+' ',ne
+' ',dg
+' suppose fault ',ne
+' pay attention class assignments, afraid goi ng forget gonna spring aaaaaah!! ',fr
+' feels brain function ',ne
+' pay attention, think straight, talk ',ne
+' ',ne
+' talking ',ne
+' today, pulled meeting building manager, pan ic ',fr
+' problem turned paint color office space ',ne
+' (why yes, spent rest paint-based ',ne
+' once!" ',ne
+' anyway, paint chip brochure desk, pulled car pet samples, preparing face choice--which turned nea rly office off-white ',ne
+' books library today ',ne
+' crap: disorganized, pseudoscientific, ',dg
+' suppose attitudes women changed lot too, awfu threw hands returned book leaving library ',dg
+' goes years married, fat, ',sd
+' hello, ',ne
+' yeah ',ne
+' do, remember catchy song ',ne
+' time, faith ',ne
+' currently rotation, piece crap time, terrible, terrible, cover "in big country. ',dg
+' heard song covered ',ne
+' (or having, rest lives) ith stupid people, ones bothering ',dg
+' fucking invited group called "sally cooler mom. ',ag
+' okay, cooler anyone, saying cooler mom fucking ',ag
+' again, mom sally ',ne
+' tell sally eat shit ',ag
+' [self-explanatory ',ne
+' angry customers; matter fact, 1 met customers ',ag
+' odd ',sp
+' answer ',ne
+' deal ',hp
+' chick named called asked work ',ne
+' oh know, kids "best dressed" school ',ne
+' hang ',ag
+' fucking clue ',ag
+' find bitch ',ag
+' sure, nice people wanting presence, step line enter stupidity, self-esteem issues self- being, kick fucking baby ',ag
+' laugh ',hp
+' lame lame lame comparison, know ',ne
+' ',ne
+' closest panic!s cover halloween ',ne
+' ',ne
+' worth comment upon??)and share, ',ne
+' tend ideas commentary midday, mood passed ',ne
+' lot thought ',ne
+' church ',ne
+' afraid lots children ',ne
+' know right cause environm ent girls ',ne
+' god opportunities knowledge regard family plann ing ',ne
+' update ',ne
+' phone a)tired b)not mood c)just wanting talk watch movie inst ead conversation me. types choices ard trying friend ',ag
+' me: uh, 12 people watch movie suppos start hour class, kinda planned ',ne
+' say, fucking reasons (once again) pissy ',ag
+' fucking seriously kid ',ag
+' myspace today ',ne
+' sick myspace ',dg
+' ive noticed me, stupid ',dg
+' stopped listening ',ne
+' awhile catch eye read it, part sick tired stupid shit ',dg
+' normal conversation him, basic human right hang so, allowed ',ne
+' gag, crap ',dg
+' anyways, court yesterday ',ne
+' court ',fr
+' story short, learned lot ',ne
+' vehicles fault mine, sentence poss ible ticket ',ne
+' pretty ',hp
+' nice, judge ',hp
+' 9 ive ticket before, fine ',ne
+' exciting part day, cliche sounds car fire ',hp
+' pulled ran ',ne
+' walked "whats on, help? ',ne
+' looked vehicle flames gas tank ',ne
+' told fire dont think heard me, grabbed hi car, stumbled back, dropped shit looked pissed "wh fuck lady" steps vehicle gas popped (not hollywood people) gas flew everywhere, catching rass fire, blowing tires door open, ehicle started flames ',ag
+' driver changed hes "thanks me" "oh god" police fire infor mation ',fr
+' news people up, talked kid telling cop go, late, left ',ne
+' dont think saved life, saved legs lot ',ne
+' point exciting ',hp
+' remain "anonymous" newspaper life goes ',ne
+' hug, ',hp
+' ',ne
+' thinking, earlier comment stuff me. peopl drove past, cars exit lane, stuff just equally everyone, ',ne
+' people drive cars on, sitting side road ',ne
+' know smoke tire, car fire? ' ,fr
+' name, sure forget ',ne
+' homework ',ne
+' broke down, decided fix ',ne
+' uncle saved bunch stuff me. called early birthd ay present, amazing ',hp
+' surprised brian met lunch, ',sp
+' soooo nice ',hp
+' collect continue home ',ne
+' know yet, call ',ne
+' wait night drive brian chill aw hile ',hp
+' feels pretty today ',hp
+' so, friends later, homework, work dirty (all them) think laundry, bed ',ne
+' yesterday eventful, today relaxing ',ne
+' love life ',hp
+' lost vegas grandma time, hoping help canada grandma feel ',hp
+' happy ',hp
+' proud sister ',hp
+' fine ',ne
+' sick looking computer screen ',dg
+' goal tonight ',ne
+' "i relate 99% humanity. ',sd
+' watching middle-aged character, (steve buscemi) "ghost world," help agreeing ',ne
+' relate, try ',ne
+' ',ne
+' lot guys ',ne
+' but, back reasons relate *74%* humanity ',ne
+' sex money ',ne
+' (and know mean, okay, mean drunke like. ',ne
+' (has rolling stone ',ne
+' am, honestly, furious angry letter , care, sure thi nk part "machine" ',ag
+' ahead, care environment, care demeaning women. ', ag
+' drink amounts ',ne
+' - movie "top gun. ',ne
+' - enjoy reading ',hp
+' - think money happiness ',hp
+' think sex happiness ',hp
+' - notice nice days, smells, etc. appreciate it, appreci ate effect me. ',hp
+' - "like" word ',ne
+' ',ne
+' people rude selfish, know too, ike ',dg
+' meh ',ne
+' bag ',ne
+' people step join humanity ',ne
+' intelligent, attractive, guys boys, wear t-shirts $30 shoes, read watch movies ',ne
+' please, exist anywhere, know ',ne
+' walking straight, dog crossed street turned growled, " oh shit jorge, walking. ',ag
+' did, dog too, " run kee walking? ',ag
+' walking dog crossed street back ru nning "ohh sshhiittt!!! ',fr
+' house gate door opened slightly, sumway!! ',sp
+' backpack me!! ',ne
+' damn! ',ag
+' scared!! ',fr
+' "it heart afraid breaking learns dance ',fr
+' dream afraid waking chance ',fr
+' afraid dying learns live ',fr
+' "when night lonely, road ',sd
+' remember, winter, beneath snow ',ne
+' bette middle ',ne
+' caught attention; specifically, fi rst lines: "it heart afraid breaking learns dance./it dream afraid waking chance. ',fr
+' grand, mind you; touch: rash, ',ne
+' considered possibility now, apprehensiv e, act felt ',fr
+' then, day, driving 470 college, li stening 105.5, beautiful song heard ',hp
+' words think thought, thought, know est surprised thought ',sp
+' think wake dream, turn reality ',ne
+' internship pretty awesome today ',hp
+' sat lit practice test bus ride, cool, expected ',sp
+' staff currently process 30-45 made, spent ',ne
+' totally loved it, ',hp
+' thought decided middle broadway, man french told smith movie ',ne
+' love guys work - told ron shift (but ',hp
+' smith (although french prince shit, thin punch heard "switch"), gi rl elevator randomly mike ',ag
+' afternoon - *gulp* - lawler me. heard coming, sp azzed, afraid issue never, know, internship forms ',fr
+' course, in, john said, "you realize, moll y, allowed visitors, lashes. ' ,ne
+' ms. lawler smiling ',hp
+' proceeded call meghan** required chemi cals/safety concerns set questions tried ',hp
+' freaking okay ',fr
+' **as farrell, assume ',ne
+' hey ',ne
+' news ',hp
+' ',hp
+' ',dg
+' back, 6 back bus ',ne
+' bus, dropped resume wet floor dropped mp3 player ',ne
+' there, told waited ',ne
+' point nervous told people lot words "uh" "um" ',fr
+' told set interview calling 2 ',ne
+' looks ',hp
+' 2 thinking placing background video iting, told turn easy lo ng run hoping position learn ',ne
+' decide place them, job, happy ',hp
+' oh, job futureshop, looks starting arou nd november 8th ',ne
+' plans coming ',ne
+' friday: movie 2 rainbow cinema ',ne
+' 21st: free, check brad sucks live ',ne
+' ',ne
+' felt awful ',sd
+' night before, ',ne
+' chick dislike passion think gareth likes ',dg
+' hate ',dg
+' okay ',ne
+' remember gareth password spy whats ',ne
+' 6th page ',fr
+' freak ',fr
+' left it, awful ',sd
+' ',ne
+' home nervous hadn talk gareth 2 days becaus college ',fr
+' scared ',fr
+' tell took forever tell nervous ',fr
+' ',ne
+' ',ne
+' password reason, rom ',ne
+' ',ne
+' like, happy delete friends list ',hp
+' ',ne
+' dislike ',dg
+' yeah wait couple delete ',ne
+' hate mistakes ',dg
+' big ',ne
+' man. hate ',dg
+' ehh ',ne
+' ill forever ',sd
+' complicated ',ne
+' right anymore upset ',sd
+' mother ',ne
+' man know true ',ne
+' night ',ne

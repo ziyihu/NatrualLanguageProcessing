@@ -1,0 +1,2698 @@
+@relation emotions
+
+@attribute sentence string
+@attribute category {hp, sd, fr, sp, ne, dg, ag}
+
+@data
+' summer experienced 000000 ',hp
+' night friends! 000100 ',ne
+' fingers 000000 ',ne
+' tv 000000 ',ne
+' hate fucking pills 200000 ',dg
+' back yesterday california 000000 ',ne
+' blast california hanging family friends 000000 ',hp
+' thank feel home 000000 ',hp
+' :) love ya : 000400 ',hp
+' friend, grandma planned surprise baby shower ailey saturday 000002 ',sp
+' thank 000000 ',hp
+' :) hailey recieved gift cards (because bring plane back home) cute baby clothes toys! 000000 ',hp
+' thank 000000 ',hp
+' wonderful yummy cake, fruit treats 000003 ',hp
+' friend brought cute baby girl, jamie! 000000 ',hp
+' adorable! 000000 ',hp
+' played fun baby games caught 000000 ',hp
+' blast thank friend!!! 000000 ',hp
+' pics!! 000000 ',ne
+' thank guys 000000 ',hp
+' wait ginny, sister friend mom couple months!! 000000 ',sd
+' love yo 000400 ',hp
+' lies talking to, going, doin 000000 ',dg
+' people "hug" puts smile face 000000 ',hp
+' know parents know, matter 000000 ',ne
+' care pretty clothes wear 000000 ',ne
+' amazing 000001 ',sp
+' love 000400 ',hp
+' life falling mean online 000000 ',sd
+' broken toy twelve (i counted) drawn, feel useless 000000 ',sd
+' started aki-sama xd fun 000000 ',hp
+' know know 000000 ',ne
+' article deep-fried coke days ago, itse lf 000000 ',dg
+' (speaking deep-fried shit, know town texas bar, wrap bacon, deep-fry it? 000000 ',dg
+' awesome country 000002 ',hp
+' lovely birthday yesterday alex 000400 ',hp
+' friends cell-phone contacts 000000 ',hp
+' warm 000100 ',hp
+' feel happy feel home 000500 ',hp
+' oh also, listening book "the time-traveler wife" loving 000100 ',hp
+' awesome 000002 ',hp
+' lot family event 000000 ',ne
+' well, sort 000000 ',ne
+' speed pretty fast, fast him, easy 000000 ',ne
+' know stuff moving, 000000 ',ne
+' 23% sold night 000100 ',ne
+' ton couple 000000 ',hp
+' friday saturday nights 000100 ',ne
+' awesome yesterday 000002 ',hp
+' 000000 ',hp
+' mr. dude 000000 ',ne
+' starting lose 000000 ',sd
+' night watched mr. legs watching g.h. terse, ear 000100 ',ne
+' read mr. mike: life work 000000 ',ne
+' head wmd, hard drive night 000100 ',ne
+' sadness dept: heard died 000070 ',sd
+' click york 000000 ',ne
+' (i 04 000000 ',sp
+' strange. 000000 ',sp
+' burn 000000 ',ne
+' franco-era washed-out 000000 ',sd
+' watch click, york minute 000000 ',ne
+' interview man talks latest career develo pments, dad course remake sholay: msn site 000000 ',ne
+' "the wonderful gift dad birthday love ofamitabh-abh ishek09.jpg 000403 ',hp
+' close second. 000200 ',ne
+' "what fabulous gift dad birthday 000000 ',hp
+' fantastic 000001 ',hp
+' well, 000000 ',hp
+' indian cinema west 000000 ',ne
+' precisely that.&quot 000000 ',ne
+' family truly 000000 ',hp
+' matter pride indian dad ci nema-savvy country france. 000200 ',hp
+' "i think wonderful idea remake sholay 000003 ',hp
+' right carry vision area 000000 ',ne
+' "therell 000000 ',ne
+' is, knowing abilities close pretty sure uncle proud film makes. 000200 ',hp
+' coming awesome 000002 ',hp
+' technical work lighting 000000 ', ne 
+' stand know 000000 ',ne
+' rest angry, drunken 100000 ',ag
+' know know understand 000000 ',ne
+' wants call happy answer 000500 ',hp
+' hey ! 000000 ',ne
+' lol 000000 ',hp
+' howland friend danced night away.most friends awsome 000100 ',hp
+' people cool 000000 ',hp
+' slow songs dance friends gradu ated year.hes awsome danced alot together!luvs 000021 ',hp
+' cold tho 000000 ',ne
+' dance awsome.the music cool 000000 ',hp
+' rock taste happy dance floor on.lol 000600 ',hp
+' howland people knew (drew one) pret ty cool 000000 ',hp
+' haha cha cha close 000200 ',hp
+' bigger dance floor 000000 ',ne
+' loved night! 000500 ',hp
+' ha 000000 ',hp
+' lyssa,me,matt,and find eat open 1 mornin giant bought junk food haha 000000 ',hp
+' homecoming 000000 ',ne
+' ammusing.hehehe.but yea fun ong time! 000000 ',hp
+' telling wonderful night lol 000103 ',hp
+' ill pics 000000 ',ne
+' grace born wendsday, october 11, 2006 11:48 000000 ',ne
+' believe here!! 000000 ',sp
+' doctor tuesday, cleaned house, played soccer levi, amanda sit talk moved 000100 ',ne
+' look me. think alot dan iel 000000 ',ne
+' :) levi exciting big brother, thinks sooooo cool 000100 ',hp
+' putting pictures eye amazing grace!! 000001 ',ne
+' ryan school 000000 ',ne
+' graduate career nursing 000000 ',ne
+' life born love love teach people taught 000400 ',hp
+' amazing home 000001 ',hp
+' thats know know 000000 ',ne
+' luckily 000000 ',hp
+' yesterday, tournament 000000 ',ne
+' 000000 ',hp
+' morning beat 000001 ',ne
+' pretty tournament 000000 ',hp
+' guess 000000 ',ne
+' happy 000500 ',hp
+' chill team house 002000 ',hp
+' dog sooo cute 000000 ',ne
+' heh 000000 ',hp
+' 000000 ',ne
+' know 000000 ',ne
+' volleyball 000000 ',sd
+' photobucket - video image hostin 000000 ',ne
+' means screen 000000 ',ne
+' spend night irvine eye place 000100 ',ne
+' woke dream like, "oh crap, no, back" manag back 000200 ',ag
+' o_ 000000 ',ne
+' dream kinda unsure, happy (for hope) 002500 ',hp
+' odd though, care 000000 ',sp
+' hey 000000 ',ne
+' totally wake up, 000000 ',ne
+' yeah, share 000000 ',ne
+' ;_ 000000 ',ne
+' rd, sweet lady hair 000000 ',ne
+' 000000 ',dg
+' reading amazing adventures &amp; 000001 ',sp
+' copy birthday 000000 ',ne
+' enjoying 000600 ',hp
+' hot awesome bit night 000102 ',hp
+' seriously took 4 hours fall asleep half-hour 10 min utes episodes 000000 ',ne
+' hike 000000 ',ne
+' think pain attending reception worth face aga 000000 ',sd
+' danced 000000 ',ne
+' 000000 ',sd
+' missed 000000 ',sd
+' sitting crying help cause run hold night rock 000100 ',sd
+' stuff imagine dream 000000 ',ne
+' home 000000 ',ne
+' 000000 ',sd
+' jubans, awesome 000002 ',hp
+' schedule guy exactly sure job work 000000 ',ne
+' work food eat awesome 000002 ',hp
+' german lit test 000000 ',ne
+' quiz sucks 000000 ',dg
+' oh bad nervous 000010 ',fr
+' truly character orgy shows. 000000 ',fr
+' well, orgy, amusing 000000 ',hp
+' shock 000000 ',sp
+' books classical greek art room, waiting classical 000000 ',ne
+' left library greek table, finished jason 000000 ',ne
+' amanda, latin, "to love" 000400 ',ne
+' 000000 ',ne
+' slight find amusing: jason played year, playing night dream 000100 ',hp
+' sock fun theatre company, 000000 ',hp
+' point 000000 ',ne
+' 000000 ',ne
+' awesome 000002 ',hp
+' bought latin 000000 ',ne
+' spent couple hours trip night/this morning early 000100 ', ne 
+' earth, sky feel real 000000 ',ne
+' heh 000000 ',ne
+' style buddhism, wrong, monkey god, truth 000000 ',ne
+' 000000 ',ne
+' actually, think dropped night 000100 ',ne
+' adam state 000000 ',ne
+' broke whoa, working 000000 ',ne
+' talking phone daily, excited baby 000000 ',hp
+' awesome 000002 ',hp
+' snow october 000000 ',sp
+' snow years october wra head 000000 ',sp
+' missing blue stars, sad leave early 000090 ',sd
+' guys 000000 ',sd
+' trying move upstairs, looks tu esday 000100 ',ne
+' hope worlds 000000 ',ne
+' honestly views world live changed schoo 000000 ',ne
+' remember impressed, youth parishes area , groups, social status person 000100 ',ne
+' compared group 000000 ',ne
+' help local &amp; fishes, volunteer work school ur parish, traveling youth groups 000000 ',ne
+' remember endless 000000 ',ne
+' see, trying develop faith, attending parishes, work group 000000 ',ne
+' sadly 0000100 ',sd
+' gift life 000000 ',ne
+' listening speak, presence known answer looking dawn 000000 ', ne 
+' weight carry, 000010 ',sd
+' happened 000000 ',ne
+' 000000 ',ne
+' band 000000 ',ne
+' 000000 ',ne
+' jolt real loud jump 000000 ',sp
+' afraid 001000 ',fr
+' hope learn play hope enjoying hims elf 000600 ',hp
+' matter pain cause rest family 000000 ',sd
+' happy 000500 ',hp
+' nice hot bottle help 000000 ',ne
+' decided work 000000 ',ne
+' 000000 ',ne
+' vegas lot fun 000000 ',hp
+' reception blast 000000 ',hp
+' champagne, music, trying catch damn 000100 ',hp
+' (didn catch by) imagine this: bro neck teeth "girls wanna fun" background 000100 ',hp
+' shooting regular desert mountain 000000 ',ne
+' (look pics) 000000 ',ne
+' add jack drive real party! 000000 ',hp
+' bro leaving iraq and, well, know goes 000000 ',ne
+' sean put it, 4 5 americans die, put perspective me. know safe home piece, scary thought kinda background mind 002000 ',fr
+' hates everybody, lies, talks shit backs, treats people shit 200000 ',dg
+' mother truly wants murder father, pissed agree 100000 ',ag
+' 000000 ',dg
+' ya, fucked shit 000000 ',dg
+' =) crappy 000000 ',dg
+' know 000000 ',ne
+' basically, focus staying busy staying happy 000500 ',hp
+' so, "make smile" foundation", party 000000 ',hp
+' school home homecoming parade 000000 ',ne
+' w/ v-ball 000000 ',ne
+' sooo fun 000000 ',hp
+' lol 000000 ',hp
+' ;) 000000 ',hp
+' wal-mart walked 000000 ',ne
+' :) game 000000 ',ne
+' totally awesome!!! 000002 ',hp
+' lol 000000 ',hp
+' points 000000 ',hp
+' yay!!! 000000 ',hp
+' lol 000000 ',hp
+' game dance night life!! 000100 ', hp 
+' awesome 000002 ',hp
+' cant explain words fun 000000 ',hp
+' ;) 000000 ',hp
+' honestly ever!!! 000000 ',hp
+' soooo sad b/c 000060 ',sd
+' :( blast!!! 000000 ',hp
+' lol 000000 ',hp
+' yea 000000 ',ne
+' dont know love w/ joe 000400 ',hp
+' :) *sighs* lol 000000 ',hp
+' hanging w/ matt totally awesome 2!! 000002 ',hp
+' love all! 000400 ',hp
+' world 000000 ',ne
+' exciting, 000100 ',hp
+' so, 000000 ',ne
+' leave 000000 ',ne
+' start world is. goin work day, headed hostels berlin pick people tour, bring back gate tour starts 000000 ',ne
+' preparing leave, guy yelled wait, hello 000000 ',ne
+' took backpack tour 000000 ',ne
+' catching up, night 000200 ',hp
+' strange randomly run people years, hole-in-the-walls europe 000000 ',sp
+' fun 000000 ',hp
+' piece play 000000 ',hp
+' incredibly simple, cutting huge cast perfor mers 000000 ',sp
+' moments remind theatre 000000 ',ne
+' lucky able stay friends cut t, side london life 000000 ',hp
+' sooooo fun 000000 ',hp
+' major own, theater nigh 000100 ',ne
+' 000000 ',dg
+' horrible 002000 ',dg
+' horribly acted, horribly directed, weak 103000 ',dg
+' 000000 ',dg
+' hours 000000 ',dg
+' wanted leave intermission, enjoying (should sign) stayed 000600 ',hp
+' guess took know british capable producing awful work 002001 ',dg
+' london theater 000000 ',ne
+' amazing 000001 ',sp
+' performers incredible, played geoffrey, fro fresh prince 000000 ',sp
+' hilarious, love 000600 ',hp
+' time, fun 000000 ',hp
+' loved london 000400 ',hp
+' loved free museums 000400 ',hp
+' british museum 000000 ',ne
+' soooo monuments, statues communist 000000 ',ne 
+' reading this, spent eastern talking communist 000000 ',ne
+' part, statues donated 000000 ',hp
+' 000000 ',sp
+' wellington, watch 000000 ',ne
+' make: world cup entire soccer game start finish 100000 ',ne
+' people change day, instance period 90,000 city, hands german 000000 ',sp
+' brazilians, everywhere, singing-clapping-dancing-taking pi ctures, course brits cock-eyed drinking songs 000000 ',hp
+' loads fun 000000 ',hp
+' tickets games, group friends alway cafe bar playing watch 000000 ',ne
+' french cafe france-swiss game, bar played, drank brazilians, etc. hilarious part fighting 000200 ',hp
+' interesting emerged cup 000100 ',sp
+' explaining: world cup began, german street s, called radical right 000000 ',ne
+' worth agree them, nervous 000000 ',fr
+' 000000 ',ne
+' people genuinely excited supporting national team, pride 000200 ',hp
+' newfound shared 000000 ',hp
+' course idea germans 000000 ',ne
+' june training work lead tours camp, starte month 000000 ',ne
+' dark history place imagine retelling hat information, trying put historical 000010 ',ne
+' july beautiful weather summer adventures, traveled australian friend theater festival cyprus 000000 ',hp
+' friend north texas, jessica, playing title role medea theater festival 000000 ',ne
+' ridiculous amounts fun 000000 ',hp
+' city sweaty, dirty, hole 000000 ',dg
+' squalor-filled mediterranean capital, add imag e: 10 story everywhere, 100 degree heat, cooled wall-mounted air condi tioners, a.k.a. swamp boxes 000000 ',ne
+' imagine swamp box coolers head streets 000000 ',dg
+' add couple poorly placed 000010 ',ne
+' city lovely, 000400 ',hp
+' days back back 000000 ',ne
+' amazing 000001 ',sp
+' took hours there, played rocks hour, pics temple ruin literall clinging cliff face 000000 ',ne
+' watched tourists sun th temple, mediterranean 000000 ',sp
+' sky amazing greece, feels reach ouch it, close 000201 ',sp
+' 000000 ',ne
+' bad 000010 ',ne
+' cyprus amazing 000001 ',sp
+' jessica medea, treated incredibly fest ival 000000 ',sp
+' stayed tiny mountain village called droushia, people brought incredible 000000 ',sp
+' feel welcome, puttin beautiful hotel, pay anything, sure ur stay stories 000000 ',hp
+' tomorrow special. 000000 ',ne
+' morning, festival, drive hicles, took map area blue 000030 ', ne 
+' imagine incredible, cove, blue water, giant stone wate r, wide, color 000030 ',sp
+' brought lunch fresh fruit broke fast cliff gorgeous 000000 ',ne
+' interesting staying mountain village, nd experience bit 000100 ',hp
+' oh food incredible 000000 ',sp
+' feta 000000 ',ne
+' feta 000000 ',ne
+' testament vision world technical gadgetry, fascinated year-old stones 000101 ',hp
+' returning greece berlin passed quickly 000000 ', ne 
+' flew knew it, august est friend lance, berlin 000000 ',ne
+' spent days working final tours, partying, lan ce city love years 000400 ',hp
+' people london paris expensive; 000000 ',ne
+' 000000 ',ne
+' ball 000000 ',hp
+' walking tour, city museum (located castle, cool), relaxing enjoying amazing views 000601 ',hp
+' city incredibly beautiful, right water 000000 ',sp
+' think city, rumors: city dirty, people rude, language insurmounta ble, incomprehensible, stolen, hate american 200000 ',dg
+' called city love light reason 000400 ',ne
+' breathtaking, person cliche fall love 000400 ',hp
+' people absolutely lovely 000400 ',hp
+' genuinely wonderful, helpful, content people 000403 ',hp
+' trying order morning (my terrible) asking talking cabbies, surprised open 003003 ',sp
+' enjoy city 000600 ',hp
+' know beautiful is, appreciate 000000 ',hp
+' man, gorgeous 000000 ',hp
+' people 000000 ',ne
+' fabulous sense community 000000 ',hp
+' favorite part city nap chairs 000200 ',hp
+' people place, lots chairs 000000 ',ne
+' thought: "that strange, about? 000000 ',sp
+' headed chairs shade , 000000 ',ne
+' looked noticed lots people park, nap chairs, 000000 ',ne
+' 000000 ',ne
+' city tax dollars chairs public park 000000 ',ne
+' france 000000 ',hp
+' ball paris 000000 ',hp
+' versailles, dame, fabulous bike tour 000000 ',hp
+' interesting learned bike tour revol utionaries bastille, 7 left 000100 ',sp
+' montmartre, artist district, minutes cathedral 000000 ',ne
+' cathedral point paris, point, entire city spread feet 100000 ',ne
+' pretty breathtaking sight 000000 ',hp
+' steps sort party performers ity-watchers bottle wine spirit 000000 ',hp
+' steps favorite paris 000200 ',hp
+' incredible incredible journey 000000 ',sp
+' thus, tour 000000 ',ne
+' returned fresh start, side 000000 ',ne
+' lucky direct school, sunday 102000 ',hp
+' piece red hat, extremely 000000 ',hp
+' nice stretch theater muscles 000000 ',hp
+' european adventure (for moment) american star ts tomorrow 000000 ',ne
+' excited move, opportunities 000100 ',hp
+' lot 000000 ',ne
+' hope well; summer, excited upcoming (rapidly approaching) holiday season 000000 ',hp
+' wish fabulous week, warm safe start season 000100 ',hp
+' meet 000000 ',ne
+' school 000000 ',ne
+' classes fine 000000 ',ne
+' sucks, accepted 000000 ',dg
+' teachers amazing, know ama zing 000001 ',sp
+' so, all-in-all, pretty good, right 000100 ',hp
+' honestly, dating child, barely school 000000 ',ne
+' brandon break up, is. unlikely, ope 000200 ',ne
+' junior year, will, fact, bitch 000000 ',dg
+' world hardest (academically, anyway) 000000 ',ne 
+' strong woman handle bit mental talks 000000 ',ne
+' handle school drama.") also, friends, hem true, caring, trustworthy friends love supporting 100% 000720 ',hp
+' triumphantly grace 0001100 ',hp
+' looked 000000 ',ne
+' happy 000500 ',hp
+' try succeed 000000 ',hp
+' test myself: mind, body, 000000 ',ne
+' loving 000100 ',hp
+' junior year, will, fact, bitch 000000 ',dg
+' recieved homework classes 000000 ',ne
+' ah, 000000 ',ne
+' ("you deal this, nyssa 000000 ',ne
+' handle school drama.") also, friends, hem true, caring, trustworthy friends love supporting 100% 000720 ',hp
+' triumphantly grace 0001100 ',hp
+' happens 000000 ',ne
+' happy 000500 ',hp
+' try succeed 000000 ',hp
+' truly nyssa 000000 ',ne
+' loving 000100 ',hp
+' look learning am, loving inch 000100 ',hp
+' believe nerve man. god 000000 ',sp
+' 000000 ',ne
+' kill 000000 ',ag
+' think talk right 000000 ',ne
+' holes it) lab course "book. 000000 ',ne
+' worse, poorly inch right side page cut off, try read lab tomorrow try ing complete sense all, left 000010 ',ag
+' again, angry 100000 ',ag
+' like, meals 000200 ',ne
+' meals europe 000000 ',ne
+' poopy poopy poopy 000000 ',ag
+' pay room board, tuition 000000 ',ne
+' guess 000000 ',ne
+' *cries* life spose 000000 ',sd
+' bad mood playing blame game head, ang ry people 000010 ',ag
+' forgot demeaning classes 000000 ',ag
+' 000000 ',ne
+' asking questions completely people jus answers 000000 ',sp
+' wonder world in, wonder 000002 ',sp
+' mean, 133 (ish) hours graduate which, non college people, 8-10 engineering major non engineering major 000000 ',ne
+' find time/place pray 000000 ',ne
+' feel privacy talk god cry figure 000000 ',sd
+' church too, reasons 000000 ',sd
+' love god brings people 000400 ',hp
+' ok. feeling 000000 ',ne
+' girls, highly shoes, sister enjoying 000600 ',hp
+' think spent part hours reading today 000000 ',ne
+' spose 000000 ',ne
+' remind that, sense concept, dying 000000 ',sd
+' expensive, cushiony, 000000 ',sd
+' sitting fall, catch stray ca parking lot, drunk, inattentive, careless, fortunate driver home 000100 ',fr
+' unlikely, happen 000200 ',ne
+' new, constantly desire take, achieve, feel life 100000 ',ne
+' 000000 ',ne
+' saved 000000 ',ne
+' wrote 000000 ',ne
+' live average american life ston cemetery, forgotten reletaves, children, grand children 300000 ',sd
+' live house environment family, cars, boat, back 000000 ',ne
+' sink money trying live parade house wi th vehicles front, boat huge rack, list',ne 
+' 000000 ',ne
+' exist 000000 ',ne
+' start god, being, hopes heaven 000000 ',ne
+' constant rainbow 000000 ',fr
+' wonder writers able amazing feeling thought 000003 ',sp
+' distractions 000000 ',ne
+' thoughts moment melancholy, completely forgo tten push button xbox, dvd player, 000130 ',sd
+' words mind "in closing" "to conclude", quickly write summary finished writing 000000 ',ne
+' proud father 000000 ',hp
+' official, friday 000000 ',ne
+' sweet thing, totally depends 000000 ',hp
+' funny game life, think step closer understanding ts purpose 000200 ',ne
+' hard look life 14 days, honest pt 000000 ',sd
+' wept mistakes put feelings feelings 000000 ',sd
+' wept "f*ck you" "thank you" 000000 ',sd
+' couple vices, strong coffee noodles, smoking, runk couple feeling life 000000 ',hp
+' job well, kick work coming home 000100 ',hp
+' phone call police hospital plant telling worst, hopes tomorrow 000000 ',fr
+' buy 000000 ',ne
+' back tank gas 000000 ',ne
+' essentially person 000000 ',ne
+' 000000 ',ne
+' (a brain) theory 000000 ',ne
+' brain amazing purpose 000001 ',sp
+' people mental energy required train thought 100000 ',ne
+' met fully developed brain 000000 ',ne
+' head thought deep 000000 ',ne
+' know lucky - find contentment looking 000500 ',hp
+' find bring worry 000100 ',sd
+' sky lifetime panic worry 003100 ',fr
+' thought - extreme 000000 ',ne
+' life finding balance 000000 ',ne
+' saying happy - balance 000500 ',hp
+' combination people balanced 000000 ',ne
+' balanced 000000 ',ne
+' happiness - brain factory 000100 ',hp
+' try mental - alter feelings - balance 000000 ',ne
+' producing testosterone testoster system 000000 ',ne
+' body lazy - - stops 000000 ',ne
+' cliche true 000020 ',ne
+' "happiness lies within" - truly happy people 000600 ',hp
+' happiness bring temporary 000100 ',hp
+' temporary happiness intense balanced contentment 000600 ',hp
+' equal sadness - life endless swing life 000070 ',sd
+' mad called back 100000 ',ag
+' laughing put dog drugs dog learned open window li kes temple road 000000 ',hp
+' starts asking posted pics, dear sister, 000000 ',ne
+' figure couple extra amount 000000 ',ne
+' bought cool glass "tumbler up" 000000 ',ne
+' ok, alignment bought tires 100000 ',ne
+' tend think 000000 ',ne
+' called 000000 ',ne
+' car, alignment 000000 ',ne
+' started questioning drives school bus living kn ows safe vehicle is. bitch 000000 ',ag
+' bitch 000000 ',ag
+' $500.00 back 000000 ',ne
+' bitch 000000 ',ag
+' lunch work yesterday 000000 ',ne
+' meant started eating 000000 ',ne
+' tell, success 000000 ',hp
+' 000000 ',hp
+' is. guy kitchen, liked e, hahaha 000200 ',hp
+' well, say, kitchen, stuff, ven cook 000000 ',ne
+' guy think world 000000 ',hp
+' figure throw move desk middle room 2 rooms upstairs 000100 ',ne
+' emotions gift god 000000 ',ne
+' listening emotions asking feeling particu lar discover satisfied 000100 ',ne
+' instance, feel sad family connection met 000060 ',sd
+' otherhand, feel happy spent family connection met 000500 ',hp
+' felt angry insulted, judged, criticized, hu rt 100000 ',ag
+' live society stuff emotions society part feelings 000000 ',sd
+' so, 000000 ',ne
+' 000000 ',ne
+' rosenberg, author nonviolent communication, four-step process com munication identifying feelings model 000100 ',ne
+' rosenberg calls step process "giraffe language. 000000 ',ne
+' heart 3 feet 3 000100 ',ne
+' feelings avoid 000000 ',ag
+' help 000000 ',ne
+' angry upset 100000 ',ag
+' correct correct closer identifyin finding situation 000300 ',ne
+' list feelings look 000000 ',ne
+' instance, feel furious hour calm 300000 ',ag
+' calm, focus feelings 000000 ',ne
+' feel angry 100000 ',ag
+' information nonviolent communication click 000000 ',ne
+' - hell hard rock cafe, lets moment 000000 ',hp
+' - rome fun friend hanz, managed run money dinner 000000 ',hp
+' - yoga awesome, leave 000002 ',hp
+' sun, beach, tan, 000000 ',hp
+' meals, beautiful sunset, manage pull yoga 000000 ', hp 
+' - felt sick eating crappy food, back bad coffee, shift wor k, eating rd 020010 ',dg
+' - coming visit nov, mom dad decided along, str ess restaurants, depressed 000040 ',sd
+' - help bouremouth, conservative party, takin mr. cameron 000000 ',ne
+' - training wait pissed graduate 100000 ',dg
+' sorry crappy update, try proper 000060 ',dg
+' yay!! 000000 ',hp
+' - (it 9-5, weekends) hope pick me, guest days 000000 ',ne
+' know point title neh >> sick today tears._.; know 020000 ',sd
+' talked earlier msn yeah, fun guess 000000 ',hp
+' head, dad woke early brought home, back bed 000000 ',ne
+' called dad minutes ago cell house gues hospital 000000 ',ne
+' know why, energy cry constantly know 000000 ',sd
+' neh 000000 ',ne
+' know happened happiness, woke feeling inf act 000100 ',sd
+' losing love thats sign 000400 ',sd
+' feel right force update 000000 ',ne
+' conversation funny, mentioned word pla ns escape earth avoid police, holy/hold, military yeah xd j.c. suggested try suggested sneak steal 000000 ',hp
+' hilarious 000200 ',hp
+' literally, girls 000000 ',ne
+' gaia, lot n.n fun 000000 ',hp
+' neh 000000 ',ne
+' cassy back sunday night 000100 ',ne
+' live that, wish though._.; feel lonely 000000 ', sd 
+' 000000 ',ne
+' dunno shocking early 100000 ',sp
+' move etc. eh, cassy 000100 ',sd
+' t_t 000000 ',ne
+' heh, thats basically 000000 ',ne
+' 000000 ',ne
+' white man subject socialists revolutionarie saying hey, hold second! 000000 ',ne
+' yes, veils muslim women world wear 000000 ',ne
+' listen 000000 ',ne
+' 000000 ',ne
+' veil ninja outfit, completely covered eyes, cases 100000 ',ne
+' called nikab 000000 ',ne
+' hijab islam means privacy 000000 ',ne
+' actual headscarf 000000 ',ne
+' islam women modest, wear hijab, headscarf 000000 ',ne
+' fatwa, islamic legal women wear nikab - bu issue conservative radical islam (just west christian right wackies) 000000 ',ne
+' anti-muslim sentiment anti-french se ntiment non-christian communities 000000 ',ag
+' germans passed laws, turkish-muslim population 000000 ',sd
+' brits, true status europeans, wat er 000020 ',ne
+' 000000 ',ne
+' integrated, muslim community happy 000500 ',ag
+' afraid ugly 003000 ',fr
+' stated feels veils -- ver period muslim community 000000 ',ne
+' mention muslim women saying women thank jack 000000 ',ne
+' know many, woman absolutely willingly cover headscarf religious purposes 000000 ',ne
+' true muslim world women wear veil 000020 ',ne
+' france says head scarves, -- look sexy french school girl belly button hanging 000000 ',ne
+' issue 000000 ',ne
+' population coming study wear wis 000000 ',ne
+' islam secular, european leaders model exa mple islam taught number 000000 ',ne
+' hijab accepted tolerated, nikab (which extremely mall muslim women) 000000 ',ne
+' muslims seriously address fears concerns white westerners - opened doors worlds 005200 ',fr
+' door swing 000000 ',ne
+' muslims understand fears concerns secular westerners wh deal islamic rules communities 005200 ',fr
+' women run naked, eastern women completely cover themsel ves 000000 ',ne
+' black white friends 000000 ',ne
+' look eye eye 000000 ',ne
+' extremely sad looks skyline thursday 000060 ',sd
+' essentially, christian direction, musically, wants (whether skyline not), light confustion, (mike) deci ded leave project 102000 ',ne
+' that, songs posted shortly th ose hear 000000 ',ne
+' sorry letdown, speak else, hav happen 000080 ',sd
+' (our individual pages "members" section) 000000 ',ne
+' skyline updates and/or updates (past seudo-present) 000000 ',ne
+' well, mil arrived yesterday 000000 ',ne
+' bad news morning 21 y/o kitty, aun becky, passed night 000110 ',sd
+' knew kitty (she now, ke pt rallying), shock all, sad 000060 ',sd
+' think aunt becky waiting mil leave yesterday trip 000000 ',ne
+' aagii, mil neighbor, 000000 ',ne
+' niece yesterday afternoon collect great-nephew, brando 000100 ',ne
+' wanted stay today play 000000 ',ne
+' sure kidney appears " peeling onion", feeling 000100 ', hp 
+' hey, lately 000000 ',ne
+' 000000 ',ne
+' know feeling 000000 ',ne
+' weekend sooo 000000 ',hp
+' sister back university (surprisingly) nice spend ti again! 000003 ',sp
+' lol kidding 000100 ',hp
+' anyways, monday people fun ell :) inc. 000000 ',hp
+' believe god amazing opportunity reason turning 000001 ',sp
+' pray trip people (i sure 000000 ',ne
+' lol) 000000 ',hp
+' feel caught life (hehe funny rm) wanted guys forget 000001 ',hp
+' sometimes, 000000 ',ne
+' :d lol 000000 ',hp
+' random addition hope know trying at, know me, is. guys help th rough 000000 ',ne
+' all, proud 000000 ',hp
+' today, 000000 ',ne
+' walked period find sub 000000 ',ne
+' asked sub mind over, course 000000 ',ne
+' bell rang, sub took 000000 ',ne
+' allowed 10-15 minutes finish work yesterday gan piece 000020 ',ne
+' reading class read ing 000000 ',ne
+' period ran direction me. liked thrown situation prior knowledge 102200 ',sp
+' hand, know today teach full period lesson 3 &amp; 6 000000 ',ne
+' lesson explaining term "mood" meant 000000 ',ne
+' understanding "mood" works, presented paragraph wrote 200000 ',ne
+' reading paragraph, students tell mood 200000 ',ne
+' today story 000000 ',ne
+' brief background author story 000000 ',ne
+' spots, plot summary sure 000000 ',ne
+' discussion, asked piece paper 000000 ',ne
+' papers, shared class 000000 ',ne
+' wow, plans 000000 ',sp
+' ovac volleyball tournament morning, day, skating friends tonight 000100 ',ne
+' 000000 ',ne
+' parents club decided pay breakfasts, free 000000 ',hp
+' tried pay back, me. free sweet green tie-dyed ovac shirt, 000000 ',hp
+' today rocks 000000 ',hp
+' gonna call friend wanted go, th ere 000000 ',ne
+' skating-type person, 000000 ',ne
+' days, lol 000000 ',hp
+' love skating 000400 ',hp
+' fall ass minutes, 000000 ',ne
+' skates, 000000 ',ne
+' o___ 000000 ',ne
+' 000000 ',ne
+' amazing 000001 ',hp
+' like, top favorite authors list 000400 ',hp
+' fact, authors books buy, matter 000000 ',ne
+' yes, read hundreds, books people 000000 ',ne
+' 000000 ',ne
+' love stories, retelling stories, writing 000400 ',hp
+' know 000000 ',ne
+' reading story real characters 000000 ',ne
+' pretty 000000 ',sd
+' story leads me, people grace page 000000 ',ne
+' eat, music like, etc. t! 000200 ',hp
+' 000000 ',sd
+' well, know lot friends writers, 000000 ',ne
+' hm 000000 ',ne
+' well, writing 000000 ',hp
+' ordering tonic, mean coke 000000 ',ne
+' enjoy driving 000600 ',hp
+' know worcester, billerica, haverhill, 000000 ',ne
+' know brothers, 000000 ',dg
+' know sell 000000 ',ne
+' find boston 000000 ',ne
+' know guy named sean, pat, whitey, red, 000000 ',ne
+' 000000 ',ne
+' taught public schools 000000 ',dg
+' "yankees suck" shirt hat 000000 ',dg
+' think 000000 ',ne
+' pray red win world series season, life 000000 ',ne
+' know "big dig" ice cream 000000 ',ne
+' "cape cod", "down cape" 000020 ',ne
+' town, massachusetts, named outdoor market world 000000 ',ne
+' know mass pike sort strange weather line 000000 ',ne
+' letter "r" part english language 000000 ',ne
+' brakes know s, frankie paranoia donuts, atm 000000 ',ne
+' try order burger king order coffee kno drive 45 minutes $5 tax pulled side treet car traffic left 000100 ',ne
+' money saved christmas tree shop know "regular" coffee is. pass friends rom massachusetts 000000 ',hp
+' so, ok, happened last, thought funny mention today 000000 ',hp
+' brandon night home, night, decided step patio smoke 000100 ',hp
+' well, dog; louis, running patio storm, stuck head out, sat stupid young dude trying break nei ghbor (across street) car 000001 ',ag
+' 911 asked "is white guy latin guy" 000000 ',ne
+' cop came, talked seconds drove street 000000 ',ne
+' time, unfortunately, broken car 000000 ',sd
+' pick phone balcony call cops walking 000000 ', dg 
+' cops 000000 ',sp
+' 12 cops car break 000000 ',ne
+' basically met neighbors community watch oing 000000 ',ne
+' feel safer, neighbors love me. mention 2am break-in 000400 ',hp
+' love me, woke butt-crack dawn 000400 ',hp
+' beautiful 000000 ',hp
+' =o) feel bad law &amp; order 000010 ',sd
+' moments lives find 000000 ',ne
+' afraid, confused, road map 001000 ',fr
+' course, faced turn run back 000000 ',fr
+' while, people push 000000 ',ne
+' 000000 ',hp
+' pain ta kes in, 000000 ',sd
+' discover 000000 ',ne
+' fears 005000 ',fr
+' 000000 ',ne
+' 000000 ',ne
+' know anytime 60 days 000000 ',fr
+' change situation 000000 ',ne
+' woot ipod video (30g) 000000 ',hp
+' kinda bad feeling sad/unhappy 0005100 ',sd
+' wanting now, money, ne ver wanted 000000 ',ne
+' oh bad girl put buy card 000010 ',sd
+' black one, sexy 000000 ',hp
+' case it, sheets 000000 ',ne
+' full case too, lil black snug, force lil bitch 000000 ',dg
+' hey 000000 ',ne
+' ~apple ipod sock 000000 ',ne
+' lost 3 000000 ',ne
+' 000000 ',sp
+' hey 000000 ',hp
+' season 000000 ',ne
+' snowfall day, final ly stopped falling lame dog ta ke shit bed 000000 ',fr
+' lot happened months, beginnin summer 000000 ',ne
+' dear friends lost people lives , strong 000000 ',sd
+' mind tiny bit odd me. rarely strong 000000 ',sp
+' laying big green couch position eating nd crying 000000 ',sd
+' turns question pretty thought knew 000000 ',ne
+' coming 000000 ',sp
+' well, 000000 ',ne
+' scares 003000 ',fr
+' talk life change 000000 ',ne
+' love forever, definately 000400 ',hp
+' find again, stuck place 000000 ', ne 
+' word, lost 000000 ',sd
+' feel lost 000000 ',sd
+' everything, sure 000000 ',sd
+' admit 000000 ',ne
+' stay 000000 ',ne
+' words you: john 000000 ',ne
+' gotta quarter-life worth 000000 ',sd
+' 25 years 000000 ',ne
+' idea 000000 ',hp
+' snowfall 000000 ',ne
+' well, 000000 ',ne
+' mean hurt person 000000 ',sd
+' scared 004000 ',fr
+' scared future 004000 ',fr
+' look ahead missionary/psychologist, married, wi th kids, life 000100 ',hp
+' however, decisions 000000 ',ne
+' un-happy people 000500 ',sd
+' people divorces, commit 000000 ',ne
+' hurt 000000 ',sd
+' *sighs* bad hurting people hurt me. thin hurt hurt 000010 ',sd
+' think commit person only, missing 000000 ',fr
+' right person huge mistake 000000 ',fr
+' think right person 000000 ',ne
+' people say, "katrina, this," say, "katrina, that. 000000 ',ne
+' know!!!!!!!!! 000000 ',ne
+' wait god wants 000000 ',ne
+' moments start trying god tha works 000000 ',ne
+' post back 000000 ',ne
+' today lol 000000 ',hp
+' lay pretty fast hes sl eep crib find crib 000000 ',ne
+' doctor says belly thats onl 000000 ',hp
+' lol 000000 ',hp
+' nap tell lol 000000 ',hp
+' lol 000000 ',hp
+' night 000100 ',ne
+' oh know baby lol 000000 ',hp
+' glad mom wal-mart ome back home nap 000500 ',hp
+' 000000 ',ne
+' lol,and 000000 ',hp
+' haha 000000 ',hp
+' thats face 21 not! 000000 ',ne
+' lol 000000 ',hp
+' anniversary, month,david birthday today,other famil members month,halloween stuff lol 000120 ',hp
+' laundry mayb lay bit lol oh wa nts baby nice coming house cold weather,i sick baby problems lol,that visit grandpas,other s.o.l il lol 020000 ',hp
+' is, dunno 100000 ',ne
+' whore, originally buy gun (springfiled xd40 subcompact) 000000 ',ne
+' pay time, buy fun 000000 ',dg
+' gas down, $1.99 street 000020 ',ne
+' job 000000 ',ne
+' i, post shortly 000000 ',ne
+' 3 months 8th, night (she brought pumpkin , pretty sweet) 000100 ',hp
+' moved "together" nights, puts 000201 ',sd
+' oh well, work lots 000000 ',ne
+' kinda am, worth 000000 ',ne
+' shooting part 8a 10p 000000 ',ne
+' odd hour me. also, 25 outdoor range, whic variety loads (shotgun, magnum, etc) 000000 ',hp
+' part is, pretty there, lighting 000000 ',hp
+' interested, club, (just nam e) 000100 ',ne
+' write 000000 ',ne
+' starting interesting 000100 ',hp
+' contact types deal specifically stand dow concerts variety military california 000000 ',ne
+' knows playing 2007 000000 ',ne
+' mean huge party music festival june 000000 ',ne
+' wants 000000 ',ne
+' ha 000000 ',hp
+' gig! 000000 ',ne
+' leaving irvine 18th 000000 ',ne
+' penn state weekend 000000 ',ne
+' love 000400 ',hp
+' people street night excitement 000200 ',hp
+' lots people sex 000000 ',ne
+' tonight michigan vs. game 000100 ',ne
+' put 000000 ',ne
+' 000000 ',hp
+' night discussion 4:30am 000100 ',ne
+' drink anymore 000000 ',ne
+' hair 000000 ',ne
+' saying 000000 ',ne
+' hair looks shit mary 000000 ',dg
+' 4 boys staying attend west point 000000 ',ne
+' cute 000000 ',hp
+' right 000000 ',ne
+' cleaned up, buttons, tak hot shower, put adorable coat, downtown 000020 ', hp
+' 000000 ',fr
+' died 000000 ',fr
+' look me! straight television 000000 ',ne
+' oh ps. 000000 ',ne
+' totally 000000 ',ne
+' company crack house 000000 ',ne
+' "how bacon? 000000 ',ne
+' nevermind, test 000000 ',ne
+' ones worth retelling 000000 ',ne
+' 14 cookie 000000 ',hp
+' cute think control 000000 ',hp 
+' arrived 000000 ',ne
+' lady post office starting laugh me. pu 000000 ',hp
+' bad experience ebay 000010 ',sd
+' cookie packed 000000 ',ne
+' broken 000000 ',ne
+' told rude 000000 ',ag
+' well, packing job 000000 ',ne
+' told f----ing a--hole negative rating 000000 ',ag
+' turn negative rating 000000 ',ag
+' man. trouble 000000 ',ne
+' negative rating bummed awhile 000000 ',sd
+' sold ebay 000000 ',ne
+' frankie electric 000000 ',ne
+' work enterprise 000000 ',ne
+' staying pretty close home 000200 ',hp
+' cooled bit big relief 000000 ',hp
+' 000000 ',ne
+' love "nap story booboo afternoon. 000400 ',hp
+' means couch book lunch booboo cat 000000 ',ne
+' wants put system plant grass 000000 ',ne
+' money 000000 ',ne
+' well, put dinner 000000 ',ne
+' today food cake chocolate chip 000000 ',ne
+' night 000100 ',ne
+' oh shit, update 000000 ',dg
+' so, love 4 school, 000400 ',hp
+' thursday 000000 ',ne
+' hung 12 000000 ',ne
+' chels cleaned room, 000000 ',ne
+' home stuff kid camp 000100 ',ne
+' off, hike place, worth shit dark 000010 ',dg
+' awhile how, ryan fell back scraping up, hurts ha 000000 ',sd
+' cutting damn tree down, go, tried sneak 000020 ',ag
+' guess walked ryan right swung huge ass swung right face 000000 ',ag
+' that, calling aubrey, baby, ally 000000 ',sd
+' phone her, forever 000000 ',sd
+' plus, eat yesterday, ck 000000 ',ne
+' real lame 000000 ',dg
+' ehh 000000 ',hp
+' today, chels loves me, feel 000400 ',hp 
+' tonight, gonna stay 000100 ',ne
+' started month ago class (at part sounds cool. 000000 ',ne
+' yeah, know, right laughing indians 000000 ',hp
+' anyway, home notice feels kinda 000000 ',ne
+' month, happened 000000 ',ne
+' g.p., stuff phone, starts throwing aro words "orthopedic," "surgery," "x-rays" start thinking, "oh hit! 000100 ',dg
+' course says words ("degenerative arthritis" "not age" ) total brain hear pretty 000000 ',ne
+' girl 000000 ',hp
+' old, cute 000000 ',hp
+' pool lie pretty lake rarely tho ught 000000 ',hp
+' well, know 000000 ',ne
+' years 000000 ',ne
+' job, wife, kids, house, car 000100 ',ne
+' path society people 000000 ',ne
+' felt free, alive 000000 ',hp
+' best, 000000 ',hp
+' line page act 000000 ',ne
+' read backwards 000000 ',ne
+' set fire 100000 ',ag
+' me, self-fashioned 000000 ',ne
+' happened today 000000 ',ne
+' sucks drive anyways 000000 ',dg
+' plus, means means 65 years! 000000 ',dg
+' know drive problem study written 000000 ',ne
+' happy birthday jamie! 000500 ',hp
+' free aug. 31st 000000 ',ne
+' call me. letting know suck tests 000000 ',dg
+' first: heh heh heh, appropriate 000000 ',hp
+' "i dunno, button find out. 100000 ',ne
+' leave london days 000000 ',ne
+' fucking terrorists decide caught, know, landed 001000 ',ag
+' stupid terrorists think minds change world 001001 ',ag
+' convert islam, blow fucking plan e, train, 000020 ',ag
+' current current world population 000000 ',ne
+' fuck 000000 ',ag
+' far, cause international annoyance sure baby drinking 200000 ',ag
+' people years 1916 000000 ',ag
+' fuck 000000 ',ag
+' read history fucking god damn realize capable raining destruction manner, thank ver 000000 ',ag
+' 000000 ',ne
+' ignore us, ignore you, heaven evil 100000 ',ag
+' state 000000 ',ne
+' care bad 000010 ',ag
+' drop 45 000000 ',ne
+' here, sure point 000000 ',dg
+' oh right, forgot, area 000000 ',ne
+' think yer winning, yer 000000 ',ne
+' annoying 200000 ',ag
+' pissing 000000 ',ag
+' piss off, restraint 000000 ',ag
+' 000000 ',ne
+' annoy care restraint 100000 ',ag
+' fuck fucki ng teeth plane bad food 000010 ',ag
+' power spread annoyance 200000 ',ag
+' rational, intelligent, informed individual 000000 ',ne
+' annoyed 300000 ',ag
+' days spend 5-6 hours aiports, whereas, 10 years ago 000000 ',ne
+' hours early flight 000000 ',ne
+' fault, is. standing line, waiting around, thinking 000000 ',ag
+' trying rational mind bad thoughts stupid human religion trouble 000011 ',ag
+' try ahead wait line 000000 ',sd
+' fuck 000000 ',ag
+' job today 000000 ',dg
+' well, actually, be, 000000 ',ne
+' annoying 200000 ',ag
+' 000000 ',ne
+' check 3 ago 000000 ',ne
+' look address 5 months 000000 ',ne
+' throw fit 5 minutes 100000 ',ag
+' hang 000000 ',ne
+' equally call 000000 ',ag
+' happened amount today 000000 ',dg
+' 000000 ',ne
+' really, ive job 000000 ',ne
+' happened 000000 ',ne
+' pissy wrong 000000 ',ag
+' phil 000000 ',ne
+' sat 000000 ',ne
+' talking running traffic killing himself, 000000 ',ag
+' sheldon told shut 000000 ',ag
+' ang ry me. bitch 000000 ',ag
+' tried control 000000 ',ne
+' good-looking 000100 ',hp
+' eye 000000 ',ne
+' words phil smiling, look straight sheldon, ay "shut up" 000000 ',ag
+' comments 000000 ',ne
+' hell, 000000 ',ag
+' knew 000000 ',ne
+' couple sheldon angry ell shut 100000 ',ag
+' haha 000000 ',hp
+' 000000 ',ne
+' eye contact me, eye contact lot 000000 ',ne
+' brief, time, smile 000000 ',hp
+' try touch 000000 ',ne
+' friend (who along) punch nuts phil 000000 ',ag
+' asked phil, "what hell doing?" looked me. nything wrong 000000 ',ag
+' wrong that? 000000 ',sp
+' 000000 ',ne
+' started talking mad, "you called etarded", explained prick 100000 ',ag
+' started drugs, prick 000000 ',ag
+' 000000 ',ne
+' "whatever"ed me. 200000 ',ag
+' told lose me, looked word 000000 ',ne 
+' anymore. 000000 ',ne
+' phil walked quickly 000000 ',ne
+' followed, daniel took minutes look back me. angry 100020 ',ag 
+' expression hurt 000000 ',sd
+' "yeah, home. 000000 ',ne
+' "no, go. 000000 ',ne
+' "is hard tell? 000000 ',ne
+' know thought fucking obvious 000000 ',ag
+' called home mom ride busy, crying "busy" 000000 ',sd
+' 10 minutes walking home aaron pulled drive home 000000 ',ne
+' hung car rest talking laughing 000000 ',hp
+' ive missed 000000 ',sd
+' trip fantastic, real live everywhere, salem cute adorable touristy, ithaca gorgeous adorable happy trip, beautiful boring falls, home, think wonderful place ive dont leave 000504 ',hp
+' well, now, 000000 ',hp
+' wonderful home wonderful back 000003 ',hp
+' lot car 000000 ',ne
+' felt hours left ithaca finished st garden reading book 000000 ',hp
+' share day, wont 000000 ',ne
+' sure moment life beautiful satisfied content 000500 ',hp
+' experience fabulous night sky smells 000100 ',hp
+' bye : 000000 ',ne
+' work suppose, people nice ones avoid 000000 ',hp
+' starting put parts store, 000000 ',hp
+' random fears lately, happens 005000 ',fr
+' suppose amount drama, ex 000000 ',sd
+' house couple days ago easily back , number 000000 ',ne
+' turn 000000 ',ne
+' 000000 ',ne
+' woot 000000 ',hp
+' yeah 000000 ',ne
+' 000000 ',ne
+' i, mad skills, able convert color space image, 100000 ',ag
+' 10 minutes 000000 ',ne
+' man 000000 ',hp
+' p.s. understand exactly (it bit technical), impressive rock 000100 ',hp
+' friday night computer screen 000100 ',ne
+' decided watch episodes promise non computer 000000 ',ne
+' anyway, watched tv morning 4pm by, decid laundry play 3; beat ass 000001 ',hp
+' lol 000000 ',hp
+' then, parents home 000000 ',ne
+' guess today fun, considering spent brother 000000 ', hp
+' that, feel right friday home 000000 ',sd
+' mad told mys elf summer university sept ember 100000 ',ag
+' gosh, exactly month school start boy nervous 000000 ',fr
+' job well- speak 000000 ',ne
+' congratulations- welcome corporate america- vice hibernate-- walk 000000 ',hp
+' love 000400 ',hp
+' focused 000000 ',ne
+' 99 average class 300000 ',hp
+' loving call center 000100 ',hp
+' trainer room smiles lunch move level- (from abt trainer 1 abt trainer 2) $10,000 000100 ',hp
+' think stay aflac 000000 ',ne
+' sick trainer 24 020000 ',dg
+' 4 years 000000 ',ne
+' opportunities awesome 000002 ',hp
+' stipulation: 000000 ',ne
+' spend 1 calls spread- free where-ever eart desires 100000 ',hp
+' move 000100 ',ne
+' 000000 ',ne
+' family 000000 ',ne
+' staying mary house keeps telling awesome ommy 000002 ',hp
+' yeah- 000000 ',ne
+' everyday company 000000 ',hp
+' (the aflac all-american baseball classic) 000000 ',ne
+' laugh- ca 000000 ',hp
+' back me- origin slipped mind, "we dreams. 000000 ',ne
+' corporate world 000000 ',ne
+' talked person life- 000000 ', ne
+' killing 000000 ',sd
+' starting ends- step break- gotta pul ling 000000 ',sd
+' know 000000 ',ne
+' tired broken promises- dreams 100000 ',sd
+' thread relationship wearing thin- strand- think cool says hes to- coo 000100 ',sd
+' part is- love 000400 ',sd
+' love am- try might- 000400 ',sd
+' 000000 ',ne
+' together- opportunity right - - - person- close 5 years now- wearin thin 000201 ',sd
+' married 23 000000 ',ne
+' yes, today 000000 ',hp
+' happy talking 000500 ',hp
+' anyway, (and troop) stay 16 mon ths, home 5 days leave training (and post) 000000 ',ne
+' rest troop thought 1 2 months 000000 ',ne
+' thought 12 wayne thought 10 nd staying 16 000000 ',sp
+' furious 300000 ',ag
+' wayne says 000000 ',ag
+' now, know be, care 000000 ',ne
+' thought "will cut rnr?" 000000 ',ne
+' alley pups 000000 ',ne
+' told ball looked hat yes, lol 000000 ',hp
+' shot 000000 ',ne
+' 000000 ',ne
+' wayne wanted know "hows alley, sh pups" think loves dogs me! forget tail (it tail) 000401 ',hp
+' proud 000000 ',hp
+' watched job 000000 ',hp
+' now, help image 000000 ',ne
+' sooooo excited 5 days!!!!!!! 000000 ',hp
+' start class monday 000000 ',ne
+' "i love s" site 000400 ',hp
+' feel 000000 ',sd
+' try boring ugly 002000 ',dg
+' decide pay blog 000000 ',ne
+' 000000 ',ag
+' currently angry 100000 ',ag
+' laying couch watching csi:ny 000000 ',ne
+' star brady bunch 000000 ',ne
+' brady bunch 000000 ',ne
+' car right 000000 ',ne
+' oh oh oh yelling me, "are go, already! 000000 ',ag
+' holding 000000 ',ne
+' people office hour 000000 ',ag
+' back course return work, staff anymo 000000 ',ne
+' agency 3 000000 ',ne
+' 000000 ',sd
+' plan agency party/reunion august 000000 ',ne
+' &gt;sigh&lt 000000 ',sd
+' 000000 ',ne
+' barely online 000000 ',ne
+' 000000 ',ne
+' excited move 000100 ',hp
+' basically packed clothes 000000 ',ne
+' load stuff 000000 ',ne
+' thats lot 000000 ',ne
+' 000000 ',ne
+' band 000000 ',ne
+' called (i name 000000 ',ne
+' pretty 000000 ',hp
+' lol jk 000000 ',hp
+' 000000 ',ne
+' despite terror 101000 ',fr
+' thats all, 000000 ',ne
+' fun 000000 ',hp
+' haha algebra, today , &amp; today 000000 ',hp
+' joke joke 000000 ',hp
+' ew, crappy sub 000000 ',dg
+' u.s. history ! love class [: walking home fun 000400 ',hp
+' reason i`d name online 000000 ',ne
+' pain ass &amp; yeeah, sucks 000000 ',dg
+' subject, thursday &amp; friday 000000 ',ne
+' thursday like, fun 000200 ',hp
+' tired 100000 ',ne
+' noticed natalie, ryan, &amp; fun 000000 ',hp
+' hahah 000000 ',hp
+' friday fun [: asb &amp; yeah 000000 ',hp
+' know talking asb alot that`s pretty whats happeni ng 000000 ',ne
+' ew 000000 ',dg
+' hahah 000000 ',hp
+' janel, madilyn, desiree(sp) &amp; [note:they graders] janel house 200000 ',ne
+' love house 000400 ',hp
+' cool stuff wanna take, hahah 000000 ',hp
+' that, jason, &amp; josh &amp; guess vetera ns &amp; 000000 ',ne
+' pretty money buying 2 water 000000 ',dg
+' people headed veterans park 000000 ',ne
+' jk 000000 ',ne
+' hung monkey &amp; acted kids swing ag ain 000100 ',ne
+' fun fun fun 000000 ',hp
+' sucks bring camera yeeah 000000 ',dg
+' &amp; think tomorrow friend`s coming ? sure who, haha bye 000000 ',hp
+' posted 8/11/2006 8:53 pm - email 000000 ',ne
+' summer eye 000000 ',sp
+' 4 months 000000 ',ne
+' blame summer fun 000000 ',ne
+' love worry sort 000500 ',hp
+' 2 000000 ',ne
+' interview 2 000000 ',ne
+' interesting 000100 ',hp
+' worry put term 000100 ',fr
+' school thought 000000 ',ne
+' started dream, working it, anymo 000000 ',ne
+' hey individual 000000 ',hp
+' 000000 ',hp
+' money ;) 000000 ',hp
+' opportunity chance 000000 ',ne
+' degree back true desire law enf orcement, 100020 ',ne
+' lazy thought b/c bother 100000 ',ne
+' worry minutes life 000100 ',fr
+' stress 000000 ',sd
+' blame 000000 ',ne
+' society big stress pool 000000 ',sd
+' family, friends, co-workers etc., crappy ay is, been, be, 000000 ',dg
+' plan, know run 000000 ',ne
+' day, 000000 ',ne
+' love family unconditionally, cherish moment them, sister, pushes edge, developed deal 000400 ',hp
+' look life perspective, break heart 000100 ',sd
+' control, st olen chance normal life 000000 ',sd
+' alienated, 000000 ',sd
+' job know amazing people poten tial, put choices life 000001 ',sp
+' work 000000 ',hp
+' thinking term 000000 ',ne
+' happy casual, serious, relationship 000600 ',hp
+' frankly happy 000500 ',hp
+' 000000 ',ne
+' 000000 ',ne
+' hopefully right 000000 ',ne
+' list time, add someth ing 000000 ',ne
+' lol, lets hope run complete 000000 ',hp
+' says lot, written comedian 000000 ',ne
+' guess fit group article to, regards 2 3 frien ds fall "support mechanism" category, 100100 ',ne
+' 3 moving fall, awful lot goin lives, addition shot 002001 ',sd
+' definitely feel like, life, operating ground floor regards friendships interact ith friends 000300 ',ne
+' lot bridges decisions ability friends, likewise, ability fully engage people well, 000200 ',sp
+' older, lot work-related matters personal lives pretty complicated 000500 ',ne
+' "big picture" scale, believe hold syste held 18 years old, scary half-a-lifetime ago 002000 ',fr
+' all, satisfied bigger picture angry fuck sma ller details, keeps going, 100100 ',ag
+' desire currently am, hav living 100000 ',ne
+' "support mechanisms" go, people- best, act help people reach able reach 000000 ',ne
+' home hang hat, happiness home place look 000100 ',hp
+' think easy lose track idea happiness completely separate guarantee equal th (some time, 000100 ',hp
+' goes back journey vs. idea, people success goal, capable enjoying efforts required reach goal 100600 ',hp
+' 000000 ',ne
+' friendship works way- people appreciate friendships goal-oriented, friendships way, moment interesting ones 000100 ',hp
+' know guilty 000020 ',sd
+' realize lost difficult 000000 ',sd
+' healed, amnesia, nd wonder happened 000002 ',sd
+' sucks, effort friendship heading sor paths, effort 000000 ',dg
+' mean 000000 ',ne
+' change mind, efforts met sort equal efforts process goes entire 100000 ',dg
+' worth it, play hand look ew deal 000000 ',ne
+' guess have, th was, case, know tried 000000 ',ne
+' late, parents do, annoy e. parents 100000 ',ag
+' love 000400 ',hp
+' god annoying 200000 ',ag
+' here, yelling tea rs 000000 ',ag
+' thinking today dinner wondering hel turns 000002 ',ag
+' 000000 ',ne
+' now, know reach place enough, damn feels forever 000000 ',ag
+' know normal college living parents , wish independent free 000000 ',ne
+' fucked 000000 ',dg
+' lots angry finished work, boss pays furniture idea run business 100000 ',ag
+' oh yeah, part 000000 ',ne
+' pissed 100000 ',ag
+' trying post days, bloody issues (error pages) - boss post posted thursday ! 000000 ',ag
+' way, speak " food feel healthy" - considering meals it, dinner, friday lunch frie nd 000000 ',hp
+' $250 eat food, eat 000000 ',ne
+' asked cook himself, doe sn 000000 ',sp
+' look face think 000000 ',sp
+' man office 10:30am, 3pm, 20minutes office, dry clothes, cleaner, wife family - time?i explained 1.5 hours , work, does, cook meals, hav life, house look 000000 ',sp
+' - golf, sitting beach drinking coffee, bitching money, eing complete 000000 ',dg
+' life choices right 000000 ',dg
+' wonder look ing 000002 ',ne
+' 000000 ',dg
+' think though, pisses food issue - easy "i anything" option 000000 ',ag
+' option, me, ncept weight problem - lazy 000010 ',dg
+' easily cook food - kitchen cost house 000000 ',ne
+' aarrgghh!! 000000 ',ag
+' sorry post, annoyed am, struggling wit weight loss, this, concept struggl e, pay lose 300070 ',ag
+' brakes, stops car, right me, middle treet, 000000 ',ag
+' starts yelling 000000 ',ag
+' "you hit omg." said, hair horse, 000000 ',ag
+' nice, death 000000 ',ag
+' "omfg 000000 ',ag
+' " 000000 ',ag
+' admit, fascinated eyes, black eyeliner, managed stay open 000100 ',sp
+' minute 000000 ',ne
+' 000000 ',dg
+' write plate 000000 ',ne
+' turned sort hell 000000 ',dg
+' grabbed bike, tried push 000000 ',ag
+' now, people stuff daddy blocking intersec tion 000000 ',ag
+' struggling bike 000000 ',ne
+' mad 100000 ',ag
+' hit bitch hard 000000 ',ag
+' hey, me. middle intersection 000000 ',ag
+' fucking bike 000000 ',ag
+' fucking 000000 ',ag
+' job bad 000010 ',ag
+' annoying 200000 ',dg
+' woke wednesday morning, bright early (as do) work/uni 000000 ',ne
+' walked call surprised oh! ouldn turn 000003 ',sp
+' housemates, up, informed no, working house 000000 ',ne
+' - spent 10 minutes turning house, safety switch back on, turning back safety 000000 ',ag
+' tried sure plug/circuit 000000 ',ne
+' thought do, able afford eithe fridge fix 000000 ',ne
+' housemates thought buying fridge hemselves, idea sadly left issues 0000100 ',sd
+' lovely (love babes! 000400 ',hp
+' offered fridge (woooo!) 000000 ',hp
+' so, 48 hours fridge (hate think food there! 200000 ',dg
+' joyfully picking today 0001200 ',hp
+' 000000 ',hp
+' yay 000000 ',hp
+' wrote posting, political democratic candidates fac turning base voters 000000 ',ne
+' despite democrats bush administration republican vernance, real signs (at county) vote november 100000 ',ag
+' argument goes anger gas care costs, protracted, expensive war conclusion sight, perception religious george w. bush social issues base voters 300000',ag
+' well, 000000 ',ne
+' latest issue news &amp; world report, republican feeli ng pretty turning folks fall, vote return party elected officials power 000000 ',hp
+' true 000020 ',ne
+' words, democratic candidates political season: can, turn base, assume guy usual folks vot 000000 ',ne
+' feel fly 000000 ',ne
+' smile 000000 ',hp
+' anything, relationship, compa red 000100 ',ne
+' other, shows, pays 000000 ',ne
+' friends 000000 ',hp
+' already, know hope 000000 ',ne
+' ive learned relationship wa tching 000100 ',ne
+' duno, kinda losing track 100000 ',ne
+' wont head ass it, sit think/dread everyday 004000 ',fr
+' cherish love know care ev eryday 000400 ',hp
+' 000000 ',ne
+' abusive, words feelings directed / feel bad 102010 ',sd
+' chris problem words too,and anger 300000 ',ag
+' car everythin alright 000000 ',ne
+' pissed ignorant 100000 ',ag
+' stupid ass hole 000001 ',ag
+' gudam, sorry ass 000060 ',ag
+' oh yeh, sub-conciously waiting jamie >:) 000000 ',ne
+' church friend house lunch 000000 ',ne
+' guy dance back school house 000000 ', ne
+' ages 000000 ',sp
+' goes figure 000000 ',ne
+' hm, bit weird 000000 ',sp
+' lunch genelli ice-cream 000000 ',hp
+' (however genelli part) ah, talked anri ex mom menti oned anri angry dad ex visited, dad ke pt busy 100000 ',ag
+' oh ya talking 000000 ',ne
+' dad asked table angry dad 100000 ',ag
+' "whahahaha" think 000000 ',hp
+' funny 000000 ',hp
+' table 000000 ',hp
+' w0rd dead tired 100000 ',ne
+' anri wanted beach, visited weekend back ocean 000000 ',ne
+' car, music 000000 ',ne
+' reason, scared driving me. >.> ask 004000 ',fr
+' sat beach felt 000000 ',ne
+' 000000 ',ne
+' fun 000000 ',hp
+' try 000000 ',ne
+' took photo girl ocean 000000 ',ne
+' anri idea head test water photo throw moves 000100 ',ne
+' funny photo 000000 ',hp
+' wanted photo kiteboarders, 000000 ',ne
+' =/ guy air 000000 ',ne
+' walk sit people ph oto them, action photo 000000 ',ne
+' love 000400 ',hp
+' lost 000000 ',ne
+' anri house cake coffee 000000 ',ne
+' cake ^.^ ice-cream 000000 ',hp
+' dark chocolate 000010 ',hp
+' wanted movies wanted church anri know 000000 ',ne
+' sat hour 000000 ',ne
+' 000000 ',ne
+' hm 000000 ',ne
+' sad sit wonder hand god hand movie 000062 ',sd
+' (non-christians, worry part thoughts, person, kinda thinking loud people lieve me.) 000100 ',ne
+' nice 000000 ',hp
+' movies 000000 ',ne
+' think it, hey 000000 ',sp
+' sat drawing uhm phone rang police 000000 ',ne
+' tired 100000 ',ne
+' serious question read 000000 ',ne
+' no, stupid chick wondering 000003 ',dg
+' obvious me. knew gonna die, li ke sooner later, reason 000000 ',ne
+' friend gonna die, sooner later, angry choices years cut virtually 100000 ',ag
+' tried step minute look ma viewing 000000 ',ne
+' athelete 000000 ',ne
+' wonderful friends love cherish 000403 ',hp
+' virtually 000000 ',ne
+' start turn unexpected direction 102000 ',sp
+' think constant arguing, lies deception, money mismanagement, 000000 ',ag
+' decide join military 000000 ',ne
+' world 000000 ',ne
+' goes interview 000000 ',ne
+' leave sense purpose vow full experienc 000000 ',ne
+' office look sadness 000070 ',sd
+' think traffic tickets, th ere presented join military 000000 ',ne
+' hear bad news plan move 000110 ',sd
+' speak planning, "i sorry tell this(ok, move back home back school work degree 000160 ',sd
+' ), able welcome forces(or trav eling explore country 000000 ',ne
+' 000000 ',ne
+' story me, heard pissed 100000 ',dg
+' see, knew 000000 ',ne
+' lol) 000000 ',hp
+' imagine surprise engage lor coming know 000002 ',sp
+' tells gonna test gonorrhea, gonna test hiv 000000 ',ne
+' like, "for what? 000200 ',sp
+' answer 000000 ',ne
+' really, think 000000 ',sp
+' man, regard me, life bullshit lies 000100 ',dg
+' fortunately, test results back negative gonorrhea hiv 000000 ',hp
+' course thankful, realized 000000 ',hp
+' realized life me. fuck bullshit 000000 ',dg
+' reason pissed friend dying fro disease entire friends, knowledge appropriate care person hi 200000 ',ag
+' took multi-vitamin 000000 ',ne
+' friends athelete, pretty fit part 100000 ',ne
+' thought th 000000 ',ne
+' wonder changed mind 000002 ',sp
+' asked this, answer 000000 ',ne
+' think alot, wonder exactly decide 000002 ',sp
+' wonder choices nurse diffe rent results 000002 ',ne
+' live, 000000 ',ne
+' however, so, leave thoughts comments 000000 ',ne
+' birthday monday 000000 ',ne
+' trashed 000000 ',ag
+' tho work monday bday cause shop sucks 000000 ',dg
+' bday 000000 ',hp
+' seriously dont know 000000 ',ne
+' sucks known years 000000 ',dg
+' alfkjaslkjfasjflka;sjdf;asjfals;fjlakjsf 000000 ',ne
+' myrtle beach 000000 ',sd
+' cried home myrtle 000000 ',sd
+' reasons 000000 ',ne
+' &lt;/3 000000 ',sd
+' myrtle&lt;/ 000000 ',ne
+' bad 000010 ',ne
+' annoyed 300000 ',ag
+' b/c dont money move right 000100 ',ne
+' information 000000 ',ne
+' wont bad 000010 ',ne
+' move 000100 ',ne
+' wanted moving 29857938475 miles b/c freaking 000000 ',fr
+' ////the look me/// 000000 ',ne
+' 000000 ',ne
+' well, well, 000000 ',ne
+' hahaha 000000 ',hp
+' well, surprised 000003 ',sp
+' 000000 ',ne
+' hahaha 000000 ',hp
+' so, drop tell 000000 ',ne
+' missed cool people met 000000 ',sd
+' religious ritual (like baptism) ritual (like hands), personal ritua 000200 ',ne
+' develop rituals life 000000 ',ne
+' granted, global, world-issues big picture, big picture 000000 ',ne
+' bag american 000000 ',ne
+' 40 years purpose 000000 ',ne
+' start 000000 ',ne
+' surprising ritual easier establish rituals location, home 000001 ',sp
+' [it sense concern straight place ther live 000200 ',ne
+' 000000 ',ne
+' 000000 ',ne
+' all-structure, all-the-time 000000 ',ne
+' know life ritual 000000 ',fr
+' rituals 000000 ',ne
+' alas, (yet) 000000 ',sd
+' * home work, put 000000 ',ne
+' started thinking enjoy, definitely 000600 ',hp
+' * saturday, 000000 ',ne
+' 000000 ',ne
+' * ritual absolutely adore outdoor hollywood forever cemetery summer 000000 ',hp
+' * working, known weekends: ust currently enjoying 000600 ',hp
+' ends, able start garden 000000 ',ne
+' telling 000000 ',ne
+' 000000 ',sd
+' mind 000000 ',ne
+' * happy taste ice cream (i love try flavors!), wh ordering, chip 0001000 ',hp
+' 000000 ',ne
+' * fear keeps bed tired 105000 ',fr
+' totally mental 000000 ',ne
+' think rituals lives 000000 ',ne
+' "the image cartoonist cartoonist sitting tables selling books ruly 000000 ',sd
+' ego-crushing buy 000200 ',sd
+' - beaty, pleasure meeting show, spx learn european convention 000001 ',hp
+' enjoyed spx, rare men women bro ught 000600 ',hp
+' it, perception: traveled hour trip saturday american chris (he status agreeing drive), arrived half-hour doors opened, stayed 5:30, right back home 000000 ',ne
+' spx, words, full shopping 000000 ',ne
+' 000000 ',ne
+' met awful lot fine creators, table time; heaven knows afternoon people waiting betwee tables, distractions attend 002001 ',dg
+' signs direct whatnot, hard find ask direction 102000 ',ne
+' upstairs totes, tables attent ion, folks operating hand stray 000000 ',ne
+' building highway, metal vehicles aro 000000 ',ne
+' hotel, road 000000 ',ne
+' passed parking lot furniture sale, haunted ponies back, decided turn passed 000000 ',ne
+' back gray highway center comics people, clo se haunted ponies bought ghost ndependent comics 000000 ',ne
+' love walking buy, traveling hours comics spread dreams personal hackles, tell 100400 ',hp
+' glad chris me, knew lot faces t; fine guide, occasionally version rabbit?, unsure bob 002500 ',hp
+' actually, think spx gether, comics placed concern subject matter ( heard bit prior years, selling rooms all); creators books picture english-language non-superh ero comics, diversity manage 000201 ',ne
+' look crowd, imagine question diversity comics-reading 000000 ',ne
+' sit former, late, sort 000000 ',ne
+' turned "it civil war. 000000 ',ne
+' chippendale talk different, highly entertaining, digression-prone artist history procedure, dan nadel extra bonus brian ralph, seated back room 000000 ',hp
+' spx, artists, hippendale creator 000000 ',ne
+' tried buying trip room, ut hold 000000 ',ne
+' books 000000 ',ne
+' comics #1-2 steve peters &amp; friends (i origin ago ; walked table, entire convention, suddenl realized forgotten tell steve peters - intellect! 100000 ',sp
+' cinema #19 edited robin bougie (new issue funny, comics-heavy pamphl et-format magazine devoted entirely film - creator personality -powered publication, robin bougie real life exactly wa 100100 ',ne
+' comics comics #1-2 edited &amp; dan nadel (i mentioned yesterday, hard copy issue #1 000000 ',ne
+' fuzz &amp; pluck #4 (of 5) (surely fuzz &amp; pluck; still, store, table 000000 ',ne 
+' 2 #1: heavy metal (from house twelve, free debut, ori ginal movie version magazine 000000 ',ne
+' ninja brian chippendale (debuted show, book , already; table, momentarily transfi xed transfixed "i book this!" 000000 ',ne
+' project: (debuted show, project series anthologi es, devoted comics 000100 ',ne
+' 000000 ',ne
+' nice trip 000000 ',hp
+' lot have, hands 000000 ',hp
+' hope again, add convention experience points 000000 ',ne
+' mother 000000 ',ne
+' think gulf mexico gulf california, remember which, water 000000 ',ne
+' no, alright, lot 000000 ',ne
+' girlfriends strange; think reasons break end, anymore reasons 000000 ',sp
+' time, sit chair 000000 ',ne
+' try this, spend nights reading 000100 ',ne
+' 000000 ',ne
+' read, dream sex moth er, well, know means 000000 ',hp
+' sometimes, reading condition, 000000 ',ne
+' problem 000000 ',ne
+' think 000000 ',ne
+' terrible playing memory 003000 ',ne
+' 000000 ',ne
+' work tomorrow morning 000000 ',ne
+' sunday, tomorrow holiday 000000 ',ne
+' think work holiday 000000 ',ne
+' days straight 000000 ',ne
+' read condition, 000000 ',ne
+' tell doctor, doctor 000000 ',ne
+' weigh 180 lbs, 5 , 10", wrong me. weird scars neck 000000 ',sp
+' kid 000100 ',ne
+' 000000 ',ne
+' drunken night excess, eithe 000100 ',ne
+' oh, drunk, happen forget 000001 ',ne
+' remember second, moment leaning toilet 000000 ',fr
+' memory, 000000 ',ne
+' think problem work, stuff 000000 ',ne
+' spend filing, thinking read night before, trying process it, trying figure is/has happening me. night, read lay dying william 000100 ',ne
+' 000000 ',ne
+' think point 000000 ',ne
+' work, left book home 000000 ',ne
+' returned library 000000 ',ne
+' nice 000000 ',ne
+' books days 000000 ',ne
+' walk lake calhoun 000000 ',ne
+' often, walk 000000 ',ne
+' clouds cover sky, calhoun, breeze, 000000 ',ne
+' lake frozen, walking top 000000 ',ne
+' 000000 ',ne
+' lake, people slowly 000020 ',ne
+' i, hand, home 000000 ',sd
+' brought book me. read 000000 ',ne
+' suppose cold annoy me. t. sho 100000 ',dg
+' people this, right 000000 ',ne
+' water bad 000010 ',ne
+' people feet lake october 000000 ',sp
+' lake, think thinks wrong me. wrong me, know 000000 ',ne
+' person says something, know what, something, ut place tune 000000 ',ne
+' think 000000 ',ne
+' know 000000 ',ne
+' right 000000 ',ne
+' throw clothes 000000 ',ne
+' neck hit water sink, blowing 000020 ',ne
+' life feel completely normal 000000 ',ne
+' 000000 ',ne
+' suck-ass turned 000000 ',dg
+' work fucked 000000 ',dg
+' bad trip fucked 000010 ',dg
+' borrow 000000 ',ne
+' mind you, treated asshole house couple weeks, 000000 ',ag
+' played song think mom, suddenly, depressed ball 000040 ',sd
+' house home 000000 ',ag
+' 1st 000000 ',ne
+' now, 000000 ',ne
+' school nuts- remember putting hours lab, ass- classes wel feel in- 000000 ',ag
+' nice able put head 000000 ',ne
+' sure people heard sad murder michelle- gardner quinn, 000060 ',sd
+' pretty awful- 002001 ',sd
+' boston weekend shocked 000000 ',sp
+' change parts prett sad 000060 ',sd
+' imagine family friends right situation- th part 000000 ',sd
+' anyways, sure add ov er 000000 ',ne
+' fun back- ran fun 000000 ',hp
+' work school intense it- stay focused 000000 ',ne
+' brother turns 16 wednesday (how.weird. 000000 ',sp
+' excited haha 000000 ',hp
+' busy trashed 000000 ',ne
+' mom proud 000000 ',hp
+' cold, 000000 ',ne
+' took 000000 ',ne
+' wednesday surprised find shelter th morning 000003 ',sp
+' top trail started head spastic switc turned started jumpy, place, picking ston es, randomly tree roots, etc. wanted play muc room trail trail 000000 ',ne
+' surprised sitting still; spastic switch tur ned 000003 ',sp
+' started smiley; 2-3 year-old shepard-pitbull mix 000000 ',ne
+' bad left eye think vision 000010 ',ne
+' run calling lance (since nameless) laying back grass kick legs riding bike; wrote stuff guess name 000100 ',ne
+' 000000 ',ne
+' cake 000000 ',ne
+' fun-filled 000000 ',hp
+' turned 4 000000 ',ne
+' boy jumped 000000 ',ne
+' cried 000000 ',sd
+' lol [they cute brothers, no? 000000 ',hp
+' scared 004000 ',fr
+' smile scared 004000 ',fr
+' tore toy car 000000 ',ag
+' tore cake 000000 ',ne
+' :d yummy 000000 ',hp
+' co-workers 000000 ',ne
+' think me. 000000 ',hp
+' adore heart 000100 ',hp
+' &lt; 000000 ',ne
+' think wearing left 000000 ',ne
+' christina 000000 ',ne
+' looked tired 100000 ',ne
+' har har 000000 ',ne
+' goes bigger heart i, 000100 ',hp
+' 000000 ',ne
+' xd oh well~ child 000000 ',ne
+' ideas 000000 ',ne
+' event sooo fun 000000 ',hp
+' exciting adventure walked 6 miles cold 000100 ',hp
+' 8 morning 000000 ',ne
+' try warm 000100 ',ne
+' alex, suck 000000 ',dg
+' know 000000 ',ne
+' anywho, man awesome 000002 ',hp
+' so, journey 000000 ',ne
+' people 000000 ',ne
+' walked 000000 ',ne
+' more! 000000 ',ne
+' hours kevan, 000000 ',ne
+' met 000000 ',ne
+' question 000000 ',ne
+' sign 000000 ',ne
+' check look christina face 000000 ',ne
+' anywho, interesting 000100 ',hp
+' "someone unexpected resurface. 000000 ',sp
+' [and guess 000000 ',sp
+' walk 000000 ',ne
+' years 000000 ',sp
+' then, unexpected too. 000000 ',sp
+' eff, "you find road happiness others. 000100 ',hp
+' eff likes 000200 ',ne
+' pretty 000000 ',hp
+' check "little s" face 000000 ',ne
+' meet "the nox" 000000 ',ne
+' 000000 ',ne
+' conversation argument english class 000000 ',ag
+' xd people, child, popped 000000 ',ne
+' anywho~ today fun 000000 ',hp
+' walk fun 000000 ',hp
+' interact ton expected 000000 ',ne
+' stand barefoot ocean edge, feet slowly, sucked beneath cool, wet 000020 ',ne
+' head back 000000 ',ne
+' gray clouds, momentarily back-lit silent, random 000000 ',ne
+' stretch reach 000000 ',ne
+' beach living write 000000 ',ne
+' brother likes point wee kend 000200 ',ne
+' status brother concerned, moves ah ead 000300 ',fr
+' season doctor dvd 000000 ',ne
+' no, season, william black white years ago suck doctor season 000000 ',dg
+' sorry british television rules 000060 ',ne
+' historical society home tour mother wanted 000000 ',ne
+' assumed niece york sister working weekend job mother i; know invited sister-in-law 000000 ',sp
+' side, home tour put holiday spirit 000000 ',hp
+' totally start christmas shopping 000000 ',hp
+' halloween return 000020 ',ne
+' seeking deals, however, find move quickly 000100 ',ne
+' note, enjoy sunday 000600 ',hp
+' well, half-way trip 000000 ',ne
+' believe 000000 ',sp
+' amazing 000001 ',hp
+' train evening 000000 ',ne
+' france 000000 ',ne
+' 000000 ',hp
+' church look 000000 ',ne
+' (or colosseo) awesome 000002 ',hp
+' standing is. well, feel lucky 000000 ',hp
+' amazing 000001 ',hp
+' enter museums hour wait 000000 ',ne
+' october museums close early (1:20pm), lot 000200 ',ne
+' ah 000000 ',ne
+' 000000 ',ne
+' walked pretty entire city 100000 ',ne
+' beautiful, full people tour 000000 ',hp
+' wait long, 000000 ',ne
+' stunning- full people 000001 ',sp
+' realized- mass 000000 ',sp
+' believe 000000 ',sp
+' rude 000000 ',dg
+' night met australian couple nice 000100 ',hp
+' meet lot people hostels 000000 ',ne
+' pretty cool 000000 ',hp
+' anyway, rome loud, dirty absolutely chock-full people cars 000000 ',dg
+' city human being, morning watch hear 000000 ',ne
+' hell back home 000000 ',ag
+' job jamie offered me? stay salem 000000 ',ne
+' questions completely 000000 ',sd
+' discovered (and others) 000000 ',sp
+' dream earthquake happen!! 000000 ',sp
+' entirely true 100020 ',ne
+' mind bed 4.5 ft. 4 hours 000000 ',ne
+' bro calls 000000 ',ne
+' calls and, knowing international sign "pick th frickin phone," picked wrong 000000 ',ag
+' 000000 ',ne
+' 000000 ',ne
+' huh, news fast 000000 ',sp
+' called sister 000000 ',ne
+' called me. wanted frickin 000000 ',ag
+' back noon, took walk, hours, dar k, read while, power back watch tv 000000 ',ne
+' all, interesting sunday 000100 ',hp
+' plans shot shit cause cell waves packed coul dn touch friends 000000 ',dg
+' yeah 000000 ',ne
+' useless 000000 ',dg
+' 000000 ',ne
+' easy 000000 ',ag
+' oh, earthquake 6.6 000000 ',ne
+' surprised (geekin up) frequency 000003 ',sp
+' definitely range regular 000000 ',ne
+' yeah 000000 ',ne
+' 000000 ',ne
+' movies 000000 ',ne
+' amount energy required move mass frequency ridiculous 100100 ',sp
+' earlier week, karina invited 000000 ',ne
+' 7, project runway playing bravo, asked, "w kubik?" 000000 ',ne
+' seat karina, talking, face appea rs window her, 000000 ',hp
+' jump, realize kubik 000000 ',sp
+' karina plate 3 cheeses, red peppers, crackers, tv project runway 000000 ',ne
+' watch it, watch movie reading newspaper, loud, kubik complains, "someone talking trying watch movie!!" karina me, "you talk. 000000 ',ne
+' watch project runway, repetition 5 fast 000000 ',ne
+' haha, 000000 ',hp
+' sunday afternoon, erica, diana, spy museum 000000 ',ne
+' 000000 ',hp
+' find spy museum surprised number young there, addition usual tourists young 000003 ',sp
+' exhibits, lose erica diana, occasiona lly catching slow 000120 ',ne
+' carpeted, hard knees, left behin brochure 000000 ',ne
+' looking exhibit devices, kid ha nds pamphlet, "you dropped this. 000100 ',ne
+' gift shop heading home 000000 ',ne
+' outside, diana hard open door, 7 8 bo family pulling pushes 000000 ',ne
+' cute 000000 ',hp
+' water drank water put close 000200 ',ne
+' fly door morning 10 minutes late class, group project, part 000000 ',ne
+' think knows line crossed 000000 ',ne
+' campus felt 000000 ',ne
+' love pictures 000400 ',hp
+' favorite video game characters 000200 ',hp
+' beat living shit guys heh 000001 ',hp
+' 000000 ',ne
+' love outfit well, think laughing fight st reet silly, me. kikyo, series, anot favorite 100600 ',hp
+' true normal life 000020 ',ne
+' lol 000000 ',hp
+' *whispers* matt mix 000000 ',ne
+' ;) love hun 000400 ',hp
+' strong keen, scars 000000 ',sd
+' movie loved 000400 ',hp
+' wish es.w.a.t 000000 ',ne
+' so, hour 000000 ',ne
+' decided contacts knowledge free $30 000000 ',ne
+' 000000 ',ne
+' office jump drives 000000 ',ne
+' special heh 000000 ',hp
+' believe $17.88, $18.88, unexpected 000000 ',sp
+' 1.0 jump drive, bad deal 000010 ',ne
+' feels nice 000000 ',hp
+' so, stayed 2 hours home bird 000000 ',ne
+' works 000000 ',hp
+' thought alot stay dressed 000000 ',ne
+' guy 4 months, wanted look nice 000000 ',ne
+' *smiles* looked cute 000000 ',hp
+' thanks hun 000000 ',ne
+' sorry focused 000060 ',sd
+' so, song 000000 ',ne
+' song: 000000 ',ne
+' 000000 ',ne
+' 000000 ',sd
+' 000000 ',ne
+' sorry 000060 ',sd
+' sorry lie 000060 ',sd
+' 000000 ',ne
+' cause se 000000 ',ne
+' wanted se 000000 ',ne
+' 000000 ',ne
+' know 000000 ',ne
+' guess theres 000000 ',sd
+' *smiles* beat 000001 ',hp
+' *huggles 000000 ',hp
+' class semester, ticular ones missed 000000 ',hp
+' painting donated school students fr osb, testament 000000 ',ne
+' entire enterprise surprise (our name father) genuinely surprised affair 100003 ',sp
+' session round, session bring seminarians, lay students evening discussion guest 000000 ',ne
+' denis osb early church history telling mrangelmeg months 000000 ',ne
+' wanted mrangelmeg chance experience fr 000000 ',ne
+' discussion spent bar campus called unstable ( vow stability, call bar, unstabl e, it? 000000 ',ne
+' much, class 000000 ',sd
+' wonderful 000003 ',hp
+' extreme home house st. (the town) drove 000000 ',ne
+' cool 000000 ',hp
+' denis class quiz early church saturday morning happy returning home friday night 000600 ',hp
+' forget internet, 75% information 000001 ', ne
+' internet missing born 000000 ',ne
+' minutes need, glass favorite wine, enjoy newfound knowledge 000800 ',hp
+' truly helpful, 000000 ',ne
+' welcome world classical music 000000 ',ne
+' world, place music endless forms entire life listening pleasure 100000 ',hp
+' classical music music existence, study music era 000000 ',ne
+' 1 000000 ',ne
+' composers church (surprise!), religion early classical music source 000002 ',sp
+' formal system notation, difficult time-consumi ng 000000 ',ne
+' 2 000000 ',ne
+' music art science, music printed, acred, secular, music spread 000000 ',ne
+' composers era 000000 ',ne
+' (1600-1750): era bach, handel, modern today, violin, clarinet, piano 000000 ',ne
+' composers counterpoint, dance repetition music 000000 ',ne
+' think brief period modern music 000000 ',ne
+' kidding 000100 ',hp
+' find popular composers era, (both know writing "classical") 000000 ',ne
+' 5 000000 ',ne
+' composers era tchaikovsky, brahms, wrote music rang e, variety 000000 ',ne
+' 6 000000 ',ne
+' subcategories classical music born year, composers writing music 000000 ',ne
+' possible, 000000 ',ne
+' composers fall period, copland, stravinsky, 000000 ',ne
+' 7 000000 ',ne
+' welcome classical period, subcategories glass, electric john corigliano, twelve-tone works john bilotta, area 000000 ',ne
+' painless, 000000 ',ne
+' classical music easier 000000 ',ne
+' add passion life visit, share world 000000 ',ne
+' arguments favor: 2 000200 ',ne
+' 8 "pro" arguments county regon appellate judges 000000 ',ne
+' thought measure positions political, positions political, matters tha oregon originally district elections ago, ele ctions district mean judges ave means currently areas (think area) chance appellate courts, 000000 ',ne
+' worth saying argument favor written ron saxton 000200 ',ne
+' surprised me, know tv ron saxton running somet hing 000003 ',sp
+' somewhat-convincing argument one, favor, oregon 000200 ',ne
+' personal experience argument, somethi ng present 000000 ',ne
+' 000000 ',dg
+' again, kerstin proven wants 000000 ',ne
+' finding fun finding placing hand dow working',hp 
+' 000000 ',hp
+' :d 000000 ',hp
+' lately capable questioning deal 000000 ',ne
+' wrong decisions, outcomes!" 000000 ',ne
+' mistake 000000 ',fr
+' burn bridges, crossed wrong 000000 ',fr
+' paranoia knows 000000 ',fr
+' mother cut open top left 11 stitches, job mommy :d 000000 ',ne
+' talked today, ok. left dad told 000000 ',ne
+' amuses 000000 ',hp
+' know brother approach women, understand lot bette 000000 ',ne
+' dealing w/ 000000 ',ne
+' sad, bird home anymore 000060 ',sd
+' like/can deal w/ classes 000200 ',ne
+' nap 000000 ',ne
+' lost u.s. gov. class cut dry worry 000100 ',ne
+' lot w/ approach 000000 ',ne
+' (well, 1/2 people know 000000 ',ne
+' 000000 ',ne
+' know one, shocked expression w/ pumpkin guts coming 000000 ',sp
+' easy cool~ish looking 000000 ',ne
+' pumpkin guts fun esp. person working w/ 000000 ',hp
+' hug 000000 ',sd
+' laughing lot 000000 ',hp
+' laugh here, esp. 000000 ',hp
+' major fights w/ roomies, ones 000000 ',ne
+' 000000 ',ne
+' speaking person amuses kerstin 000000 ',hp
+' care guys 000000 ',ne
+' dream 000000 ',ne
+' 000000 ',ne
+' ya clue 000000 ',ne
+' 000000 ',ne
+' surprising know 000001 ',sp
+' dream 000000 ',ne
+' held head 000000 ',ne
+' dont worry 000100 ',ne
+' infact 000000 ',ne
+' happened dream real sweet 000000 ',hp
+' wanting 000000 ',ne
+' peace 000000 ',ne
+' scarred, man black heart, fingers painting guitar 000100 ',sd
+' eventually, music away, guitar slipped back bag 000000 ',ne
+' "oh," said, 000000 ',hp
+' seconds turned asked, "are whi le? 000000 ',ne
+' "ah, thanks. 000000 ',ne
+' 000000 ',sd
+' violin took bus spirited music 000000 ',ne
+' think amount playing 000000 ',ne
+' pretty easy song, suggest sic playing twinkle twinkle 000000 ',ne
+' played cello, bring 000000 ',ne
+' hard push back in, string peg, real bit ch 000000 ',ag
+' pretty sweet 000000 ',hp
+' night mike christina bunch people bar drunk 2 coolers 000100 ',ne
+' suck drunk, fall asleep, finished makin bar hours couch 000000 ',dg
+' wrote bit book, 000000 ',ne
+' thats mention right 000000 ',ne
+' disgusting 060000 ',dg
+' 000000 ',ne
+' love learn 000400 ',hp
+' today, though, heard commentary lee 000000 ',ne
+' depends 000000 ',ne
+' markets measure accurately, find disgusting 060000 ',dg
+' world markets labour, people mere schedule, regard free 000100 ',ag
+' world markets exactly problems world (*ahem* eople war it, know) 000000 ',ag
+' dangerous force market mentality 300000 ',fr
+' throwing eat 000000 ',ne
+' buy sort 000000 ',ag
+' *the ones control it* 000000 ',ne
+' disgusting 9/11 turn market 060000 ',dg
+' destruction life 000000 ',ag
+' and, ask, 9/11 place 000000 ',ag
+' yes, lee 000000 ',ne
+' answers dispicable 000000 ',dg
+' comment: "traders, buy sell contracts, bring infor mation political situation 000000 ',ne
+' lee throwing ideas elections 000000 ',ne
+' plus, government, 000000 ',ag
+' selling top killing 150 people 000000 ',ag
+' reason encourage afford sort dispicable 300000 ',dg
+' sickening 060000 ',dg
+' room humanity this, encourage it, 300000 ',dg
+' "in years, 000000 ',ne
+' 000000 ',ne
+' think 000000 ',fr
+' threat-ish emerged britain turn comment democrats 000000 ',fr
+' terrorists britain iraq (despite terrorists involved civil war), slo exit iraq goal 101000 ',ne
+' problem 000000 ',ne
+' war iraq fighting terrorists 001000 ',ne
+' terrorists iraq 001000 ',ne
+' terrorists anything, pull 001000 ',ne
+' matters terrorists iraq, means stay 001000 ',ne
+' iraq incredibly 000000 ',ne
+' "i worried people, out, appreciate th threat american security evil faces us," mr. th event 100000 ',fr
+' called threat "more evil, evil, dangerous han communists cold war. 400000 ',fr
+' suggest couple disorganized trying 1995 plot evil dangerous off-base, stupid 400001 ',dg
+' flat-out disgusting 060000 ',dg
+' joe, scraping 000000 ',ne
+' vision night: rooms people lying floor covered sheets, separate 000100 ',fr
+' people mean faces nasty attitudes turf, telling move 000100 ',ag
+' try find comfortable space head smaller 000200 ',ne
+' body vehicles - leaving 000000 ',ne
+' am, means, art 000000 ',ne
+' birthday, jon took center 000000 ',ne
+' 000000 ',ne
+' 000000 ',ne
+' 000000 ',ne
+' now, understand, right it, 000000 ',ne
+' work - closest gotten watching "teenage ninja turtles" 000200 ',ne
+' real alma-tadema 000000 ',ne
+' oh, think security nervous - blow forever ruin 000020 ',fr
+' 000000 ',dg
+' (pretty, no? person! 000000 ',ne
+' said, judge art 000000 ',ne
+' excited cadavers (blame gross anatomy) real ly wanted shot close anatomy viewing 000200 ',hp
+' photobucket - video image hostin 000000 ',ne
+' joint 000000 ',ne
+' glenoid-humoral joint.") exhibits interesting, soccer player 000100 ',hp
+' gross anatomy, cadavers - laying tables deep 000000 ',sp
+' body action interesting 000100 ',hp
+' interesting cases organs - healthy diseased 000100 ',hp
+' odd body worlds goes anatomy exhibit sort cadaver art 000000 ',sp
+' again, judge art, exhibit drawn numbers people possibility off-base 000000 ',ne
+' now, people organs book 000000 ',ne
+' public chance look diseased organs (something usu ally pathologists, who, noticed, *very* excited necrosis. 000000 ',hp
+' basic anatomy bodies 000000 ',ne
+' however, me, "artistic" exhibits turn - ingly admit cadaver gross, thought bit sick 020000 ',dg
+' aside, interesting cadavers exhibits suc body worlds (i guess entire affair "knock-off" exhibits! 100100 ',ne
+' country access huge numbers students (someone dirty work) controversies, questions cadavers 000000 ',ne
+' however, knock-offs (personally, avoid you. 000000 ',ne
+' dislike feeling ill. plans weekend 000200 ',dg
+' thought know 000000 ',ne
+' smells 000000 ',dg
+' constantly congested, 000000 ',ne
+' course, feel 000000 ',dg
+' that, feeling 000000 ',hp
+' able tell teachers school pregnant, een fun hear stories 000000 ',hp
+' school starting, eating lot, funny letting saying eating 000000 ',hp
+' keeps asking find boy girl 000000 ',ne
+' alright, eat dinner, 000000 ',ne
+' afternoon, shopping school 000000 ',ne
+' eventful 000000 ',ne
+' exciting summer patricks, roths, 000100 ',hp
+' to, dad brother (as sta ted), mother hates mall hates 200000 ',dg
+' 000000 ',ne
+' 000000 ',ne
+' keeps yelling feet floor 000000 ',ag
+' mother asked chris, "how 000000 ',ne
+' hot garlic? 000000 ',ne
+' "that think. 000000 ',ne
+' tell, 000000 ',hp
+' looks pinks, 000000 ',dg
+' cat, roxie, nervous 000000 ',fr
+' eating cat food feet me. brother look her, ran 000000 ',ne
+' pretty disgusting 060000 ',dg
+' hate bad mood 200010 ',dg
+' kinda bunch sad cry reality 000060 ',sd
+' 000000 ',ne
+' mean know cant put words dont gu ess 000000 ',ne
+' trying mean dislike " why" try explain "thats stupid dislike her" pisses 000201 ',dg
+' people highly dislike 000200 ',dg
+' thats person highly dislike 000200 ',dg
+' mean reason dislike shouldnt question cuz dont know 000200 ',dg
+' cuz hate 200000 ',dg
+' nice person right dislike people 000200 ',dg
+' anyways 000000 ',ne
+' late 000000 ',ne
+' looked jon "hey, feel pass out. 000000 ',ne
+' woke jon picking head saying name, hear hi 000000 ',ne
+' hope pass sweet, driving operating heavy 000000 ',ne
+' know writing 4 000000 ',ne
+' anyway, ago, visited tea house proper tea tea 000000 ',ne
+' yesterday 000000 ',ne
+' luckily, stopped lesson 000000 ',hp
+' bad 000010 ',ne
+' school part 000000 ',ne
+' love song "absolutely everybody" parade 000400 ',hp
+' 000000 ',ne
+' uhm 000000 ',ne
+' woman, name 000000 ',ne
+' mention find incredibly intimidating(sp? 003000 ',fr
+' felt drawer 000002 ',ne
+' guess feel bit ease 000000 ',ne
+' 000000 ',fr
+' course proceeded, feel myse lf comfortable 000200 ',fr
+' change exact penny, relief lol 000000 ',hp
+' today (day three) smoothe 000000 ',ne
+' today drawer exact 000002 ',ne
+' tomorrow 8 stay 5pm 000000 ',ne
+' suck 000000 ',dg
+' horrible 002000 ',dg
+' hopefully tomorrow smoothe 000000 ',ne
+' definately bitching 000000 ',dg
+' check-off to-do list, summer classes graded, 4.0 gpa 000000 ',ne
+' assume proven able leve things, top classes goal 1 000000 ',ne
+' thus, statistics, spanish, public speaking class sum mer classes assumed drop gpa 000000 ',fr
+' turned problem- believe 4 quest ions wrong 5 6 tests easily 000000 ',ne
+' course, nice know areas difficult 000000 ',hp
+' dislike idea ability; balance tha leads trying develop cross-handedness 000200 ',dg
+' try body mind 000000 ',ne
+' month classes now, move inte rnship job 000100 ',ne
+' london area police tomorrow 000000 ',ne
+' unfortunate, walking 000000 ',sd
+' hadn anyway- watch shop 000000 ',ne
+' faith abilities, think wha happen 000000 ',fr
+' red face, wonder pass 000002 ',sp
+' called woman 000000 ',ne
+' learn others, example, people stupid 000001 ',hp
+' hours road days, conclusion people concept turn signals, speed limits, restroom 000000 ',ne
+' guy piss leave hands 000000 ',ne
+' told guys, hands 000000 ',ne
+' yelled door "does wash frig ging hands anymore?? 000000 ',ag
+' disgusted, hands, walked out, yelled "pigs!" burger king number late lunch 060100 ',dg
+' middle eating, holding girl hands hildren 000000 ',ne
+' lovely 000400 ',hp
+' clean disease free (i attentio cleaning hands; women dating boys th care hands), ca nnot others, hands prior have, toilet seat, lever, door 000000 ',fr
+' hey assholes, explain children cold from: "daddy wash hands restroom, cleaned face, yo herpes. 000000 ',ag
+' wash hands 000000 ',ag
+' unclean!" public restroom 000000 ',ne
+' feel dirty shower 000000 ',dg
+' "descent" local ghetto theater, local ghetto mall 000000 ',ne
+' theater 000000 ',ne
+' nice movies holly, ry role "mom", male kid s, hard associate "parents. 000100 ',hp
+' ask comedian, bit relate parent vice 000200 ',ne
+' erin problem, loves kids works them, neve honestly kid person 000500 ',hp
+' clue 000000 ',ne
+' beat them, mouth, ignore eithe 000001 ',ag
+' territory, children grow-up point, rea lize pissing people 000000 ',ag
+' 000000 ',ne
+' movie sucked 000000 ',dg
+' 000000 ',dg
+' plot full loopholes, othe rwise associate hollywood movie stars entire cast women 100000 ',ag
+' full plot holes drive 000000 ',ag
+' 000000 ',ne
+' ok, point find dead moose middle cave system 000000 ', ne
+' "oh kill food bring eat. 000000 ',ne
+' side cavern, drop-offs feet clinging 000000 ',ne
+' fuck cave-dwellers moose 000000 ',dg
+' 000000 ',ne
+' "hey shelter" think, deal 000000 ',ne
+' explore bit, 000000 ',sp
+' thought "well, find across? 000000 ',ne
+' point 000000 ',ne
+' food deep cave 000000 ',ne
+' safety 000000 ',ne
+' hell 000000 ',ag
+' took place africa, worth earth escape human ago, bef ore took cave drawing 000000 ',ne
+' movie subsequent discussion retarded, back house watched 000000 ',dg
+' alright, american enjoy watch 000600 ',hp
+' caught couple episodes lee wanna-be 000000 ', ne
+' major entertaining, old-school look him, origin superman 000000 ',hp
+' comics subsequent spin-off movies point making: gotten darker, literally 000010 ',ne
+' look superman: original television issues, movie human 000000 ',ne
+' "our lady peace - superman dead", song 000000 ',hp
+' "do worry liked 000300 ',fr
+' break 000000 ',ne
+' happy cause smile, 000500 ',hp
+' yea ok, know refrain, catch tune 000100 ',ne
+' head home lunch 000000 ',ne
+' nuts, asshole heading canada 000000 ',dg
+' biddeford, jumped-ship headed route one, "accident" ikes experienced headed home 000000 ',ne
+' scarborough, jumped back on, route pretty packed, idn downtown portland 000020 ',ne
+' sucked 000000 ',dg
+' back pike, putting traffic, picked th ey been, north lewiston, augu sta, pretty frigging busy 000000 ',ag
+' bangor, picked check, home waited erin 000100 ',ne
+' blog work 000000 ',ne
+' shit absolutely 000000 ',dg
+' yes, effect, 000000 ',ne
+' proud 000000 ',hp
+' pete rose runs indians catcher, ray fosse score winning run 1970 star game 100100 ',ne
+' teams---1---2---3---4---5---6----fina 000000 ',ne
+' marco----2---2---1---1---7---0----1 000000 ',ne
+' yeah, cocky, marco walking desert years 000000 ',dg
+' twelve runs 4th inning marco team 000000 ',ne
+' inning 000000 ',ne
+' 3rd inning, tried score throw base 100000 ',ne
+' joey, blocking home plate, ball arrived plate 000000 ',ne
+' flying backwards landed huge left-handed box 000000 ',ne
+' asked right, proceeded tel knew coming 000000 ',ne
+' oh well, collision home plate 000000 ',ne
+' forget ray fosse pete rose home plate 12th inning 1970 star game 000001 ',ne
+' lines base hit center, plate, base coach, waves pete rose home, throw brings indians catcher, ray fosse feet line, happens 000100 ',ne
+' pete rose knocks ray fosse baseball knocks lace 000000 ',fr
+' so, end, held win score 18-13 100000 ',ne
+' reason catcher 000100 ',ne
+' yes, happen but, catcher, play sports 000100 ',hp
+' joe happen bother 100000 ',ne
+' hit season 000000 ',ne
+' funny 000000 ',hp
+' joe gotten 000000 ',ne
+' june 5th, 2003 000000 ',ne
+' walking ahsan load 000000 ',ne
+' screamed throw 000000 ',ne
+' landed ball picked hand 000000 ',ne
+' ahsan says remembers play 000000 ',ne
+' ahsan told remembers collision game bein played rarely play raining 000000 ',ne
+' ball lying ground screamed joe touch home 000000 ', ne
+' remember walking disgusted 060000 ',dg
+' completely joe home plate joe king base ball 000000 ',ne
+' night blog 000100 ',ne
+' brother bike ride 000000 ',ne
+' liked that, happy able ride 000700 ',hp
+' reason check dad deposited 56 dollar government cheque 000000 ',ne
+' 62 dollars, precisely 56 dollars 000000 ',ne
+' bonus 000000 ',hp
+' pretty bummed out, meant put hold cheque, hate that, bloody point 200000 ',ag
+' bloody government cheque 000000 ',ag
+' bother much, government cheque deposited hold 100000 ',ne
+' so, money right hold of, spend furmeet monday 000000 ',ne
+' feeling dad weird 000000 ',ne
+' pretty fashioned, rude 000000 ',ne
+' ignorant, fashioned (which pretty damn rare. 000000 ',dg
+' earlier today, put - seasonspeech, mom asked music ymore 000000 ',ne
+' pride listening variety music 000200 ',hp
+' pride 000200 ',hp
+' sad, helped move stuff 000160 ',sd
+' despite load stuff took, barely notice house 100000 ',ne
+' told mom moving weekend 26th, hold andrea plans formal 000000 ',ne
+' find swing it, 000000 ',ne
+' love chairs *sniffs 000400 ',hp
+' tried timetable, today set timetab 000000 ',ne
+' furmeets, jason thing, furmeet 000000 ',ne
+' funny, think, love willing schedule 000400 ',hp
+' 000000 ',hp
+' confused 000000 ',ne
+' calls, mom phone wor ks right 000000 ',ne
+' deal, number written piece paper forge 000000 ',ne
+' put living mother, 6000 year, guarantee accepted osap, pay 8700 000000 ',ne
+' good, living andrea, internet, hy dro, food 000100 ',hp
+' well, 000000 ',hp
+' pay 300 dollars semester mohawk brantfor mohawk bus 000000 ',ne
+' semester, 1044.12 000000 ',ne
+' way, thinking looking pretty 000000 ',hp
+' so, tomorrow busy 000000 ',ne
+' ticket bitch, volunteer hours experience 000000 ',ne
+' try tell impressive resume 000100 ',ne
+' looking job brantford sch ool 000000 ',ne
+' feel independent 000000 ',ne
+' list 000000 ',ne
+' mom signature, think mail governmen decide 000000 ',ne
+' that, calls mohawk ask money issue, uition 000000 ',ne
+' #5 talk people brantford mohawk 000000 ',ne
+' opened up, late, open 12 ho urs, september, time, however, wait, site morning 000000 ',ne
+' so, tomorrow gonna sad 000060 ',sd
+' mention 680 000000 ',ne
+' know, thing, independent 000000 ',ne
+' anyway, part says jason s, cash, stronger, ge train leg stronger (like bike. 000200 ',ne
+' mean, told july 25th, there, help out, backing 000000 ',ne
+' smartest, responsible group part 000000 ',sd
+' however, playful, devil-may-care part tells fuck london watch movies 200000 ',ag
+' fact, email, responded, know 000000 ',ne
+' 000000 ',ne
+' people guy know named pisher, 000000 ',ne
+' example, wrote 000000 ',ne
+' opinion, 000000 ',ne
+' people me, disagree me, sagree them, resort insults, know men ig lose man, people fall fight, kn online, war 000000 ',dg
+' try stay them, stand level, somet imes silent bob 000000 ',ne
+' faces 000000 ',ag
+' movies, discussing film bett er, pirates superman 000000 ',ne
+' personally enjoyed pirates more, thought superman wi th fantastic story 000601 ',hp
+' there, side people constantly saying irates sucked, allowed sucked wa horrible 002020 ',dg
+' etc. folks trying tell superman horrible 002000 ',dg
+' disgusting feel find thread people discu ssing argument 060000 ',dg
+' well, gonna post board try ignore flames 000000 ',ne
+' 000000 ',ne
+' dont frankly dislike much, dont ask caus tell 000200 ',dg
+' know suck (and looking comments 000000 ',dg
+' writing stuff writing derstand bette 000000 ',ne
+' hate word bette 200000 ',dg
+' cant happy 000500 ',hp
+' ill happy 000500 ',sd
+' 000000 ',fr
+' "delight desires heart", mean 100100 ',dg
+' suck , completely 000000 ',dg
+' feel constantly boyfriend 000000 ',ne
+' hate life? 200000 ',dg
+' wanna fun happy friends 000500 ',hp
+' giggle giggle giggle thats everyday boyfriend laugh 000000 ',hp
+' 000000 ',ne
+' terrorists sick, detained, believe irst life resort extreme 021000 ',dg
+' people listen news 000000 ',ag
+' petty, annoy me. absolutely evil, people 200000 ',ag
+' imagine, bomb, fashioned sports drink, camera 000000 ',fr
+' believe 000000 ',sp
+' britain, has, dogs so-called "prime minister" mexico, dealing 3,500 lives lost, 10 000000 ',ag
+' so, thankful alive 000000 ',hp
+' ages class cla ss talking stuff home, discovered 000000 ',ne
+' night, trying demonstrate boy beat complete change decided slipped carpet trying demo nstrate kick fell backwards hit sickening crack 060201 ',dg
+' back head 000000 ',ne
+' which, know, fucking hurts 000000 ',dg
+' fact, bought toilet paper george bush stupid 000001 ',dg
+' political soapbox, find republican regime dista steful, feel free exit 000000 ',dg
+' serious note, open paper online news fin *should* you, definitely bothering me! example news 100000 ',fr
+' "washington - british terror plot, bush administratio seeking $6 supposed spent homeland technol ogy. 001100 ',fr
+' spent dollars human capital homeland security 000100 ',ne
+' address loss civil spread kgb-like mentality america 000200 ',ag
+' government find matter steps try privacy 000000 ',ne
+' alarmist, loss privacy personal freedom name "security" scares me. fine security 007000 ',fr
+' fact, night mom asked "scared" flying trip 004100 ',fr
+' spread "big brother watching you" concerns me. people "we put years" say, "get job canada! 000201 ',ne
+' slight civil annoyance feet riding pride train seats 200200 ',dg
+' concerned busy 000200 ',ne
+' sadly, current legal pies, issues concerned sitting suc state 0002100 ',sd
+' knowing speaking out, ride feet seats ually journey 000000 ',ag
+' works 000000 ',ne
+' feel repercussions, action, alw ays knowing read public ar eas 000000 ',fr
+' problem set 000000 ',ne
+' as, all, society developed shift blame anger 300000 ',ag
+' thank god exam 000000 ',hp
+' hate ma 200000 ',dg
+' questions 000000 ',ne
+' fuck wait live 000000 ',dg
+' live girl, bitch clean 000000 ',dg
+' home place fucking disgusting 060000 ',dg
+' 000000 ',ag
+' cleaning saved stuff 000000 ',ne
+' hahah 000000 ',hp
+' girlfriends random sex junk mail 000000 ',ne
+' gotta love 000400 ',hp
+' jolt face comments 000000 ',ne
+' sad 000060 ',sd
+' moments all, 000000 ',ne
+' steps 000000 ',ne
+' people step, totally 000000 ',ne
+' 000000 ',hp
+' 000000 ',hp
+' deep pool 000000 ',ne
+' 000000 ',hp
+' final summer people 000000 ',ne
+' hate people 200000 ',dg
+' tried hard enough, putting 000000 ',ne
+' guess continue 000000 ',ne
+' pretty freaked piano exam 000000 ',fr
+' brain dead able sure thrown me. people minds 000000 ',ne
+' wish 000000 ',ne
+' dislike negative, non-beneficial (to me) change people 000300 ',dg
+' 000000 ',dg
+' love 000400 ',ne
+' beautiful 000000 ',hp
+' enjoy them, live moment 000600 ',hp
+' then, 000000 ',ne
+' 000000 ',sd
+' watched close back young chi ld 000200 ',ne
+' life 000000 ',ne
+' 000000 ',ne
+' 3rd guy sms-ed me, 3 3 days 000000 ',ne
+' 000000 ',sd
+' him, asking call, 000000 ',ne
+' told work regime upcoming 000000 ',ne
+' wanted faced work life 000000 ',sd
+' theory basic met wanting find purposes ife 000000 ',ne
+' establish career 000000 ',ne
+' yet, know means achieve 000000 ',ne
+' feel lost 000000 ',sd
+' dentista, 000000 ',ne
+' mouth hurts 000000 ',sd
+' hate dentist, hate strong word 200000 ',dg
+' dislike dentist 000200 ',dg
+' bad 000010 ',sd
+' 000000 ',ne
+' back ( thought) 000000 ',ne
+' healthy teeth 000000 ',ne
+' "playing love politic alike, words sure party 000600 ',ne
+' reasons dislike politic cause manipulating, people , 000200 ',dg
+' parents moving mars, pennsylvania, thursday 000000 ',ne
+' minutes pittsburgh, dad works, 6-7 hours swarthmore, school 000000 ',ne
+' win win 000000 ',hp
+' sister remain michigan, thought coming back occasi onally, vicious, fights summer 000000 ',ag
+' spend joyfully packing boxes 0001200 ',hp
+' christmas presents 000000 ',hp
+' 000000 ',ne
+' considered coming home family dislike wn 000200 ',dg
+' no, true 000020 ',ne
+' guy sat leg 000000 ',ne
+' ("aren friend maggie s?" maggie 000000 ',ne
+' "really? 000000 ',sp
+' "you look her, guess 000000 ',ne
+' hahaha! 000000 ',hp
+' guy sitting started small-talk pick-girl-up-talk 000000 ',ne
+' attractive 000000 ',ne
+' totally dangerous combination 300000 ',fr
+' 000000 ',ne
+' because, know, cheesy live 000000 ',dg
+' also, door 000000 ',ne
+' sure that, allowed happen, 000020 ',ne
+' wanted fuck myself, happens anytime feel relat ively okay 000000 ',dg
+' 000000 ',sd
+' therapy whoa 000000 ',ne
+' theres stories tell p2p 000000 ',ne
+' 39 kids, 4 leaders, 1 amazing woman named lynn, 3 life experience 000101 ',hp
+' mel, sully, steve, adam, gibbs, artur, erin, jacqui, will, leanne, nikki,justi n, jeffy, steph, catherines/katies, kaela, bree, sarah (future 2005 aha), sarah p, love 000400 ',hp
+' trip amazing know gonna 000001 ',hp
+' back right time, right put 000000 ',ne
+' lucky 000000 ',hp
+' pretty driving normal car, excited 000000 ',hp
+' presents awesome 16th birthday. 000002 ',hp
+' happened 000000 ',ne
+' stuff know 000000 ',ne
+' people columbia expected 000000 ',sp
+' loving school columbia 000100 ',hp
+' feel ease know life, bu scared feel step ahead me. admi school freaked future 004000 ',fr
+' class keeps thinking 000000 ',ne
+' scared death job school 004000 ',fr
+' wait, nervous hell 000000 ',fr
+' goes planned job stuck hate 200000 ',fr
+' girls class elevator 000000 ',ne
+' saying area spring weird huh 000000 ',sp
+' part school jr. 000000 ',sp
+' ticket 000000 ',ne
+' excited concerts nice fun 000000 ',hp
+' definitely shocking experience, 000000 ',sp
+' trouble walking straight lot (so grammar), 000000 ',ne
+' mother scared death, losing consciousnes, life, remember 004000 ',fr
+' goal wake up, 32 ld pills put scars kidney place, death real fast 000100 ',fr
+' wanted friend sex afraid ask person 001000 ',fr
+' afraid ruin friendship friendship person 001000 ',fr
+' afraid hurt 001000 ',fr
+' hurt person 000000 ',sd
+' hurt person line 000000 ',sd
+' hurt world friendship 000000 ',sd
+' hurt world dating 000000 ',sd
+' hurt bad stay world mind 000010 ',sd
+' hurt bad stay room 000010 ',sd
+' wanting 000000 ',ne
+' night night turned amazing 8:00-9:0 000101 ',sp
+' nice conversation juckett, amazing phil, 000001 ',hp
+' definitely night conversation, stay 1 2:30, payed morning 1st period (physics 000100 ',hp
+' today hit work 000000 ',sp
+' long-term work sure finished wi th band practice night, game friday, saturday 000100 ',ne
+' starting argument (which turning fantastic have), finished history charts, plan bit start watching america top model 000001 ',hp
+' plus, stuff dad 000000 ',ne
+' courts mom mad world hang dad hours 100000 ',ag
+' love nfl, love live, sense 000400 ',hp
+' nfl live, died 000000 ',ne
+' sorry died, mislead inexcusable 000060 ',sd
+' definitely 000000 ',ne
+' turned guide nfl live 000000 ',ne
+' love nfl, love live, sense 000400 ',hp
+' sorry died, mislead inexcusable 000060 ',sd
+' 000000 ',ne
+' afraid weigh subject 001000 ',ne
+' right mood, a.k.a : mind portland, rea lly 000000 ',hp
+' movies told watch 000000 ',ne
+' 000000 ',ne
+' stopped talking it, started start 000000 ',ne
+' matter 000000 ',ne
+' took 000000 ',ne
+' worried about, trying steal money card, happen 000000 ',fr
+' atm "eat" cards 000000 ',ne
+' therapy!! 000000 ',ne
+' nervous 000000 ',fr
+' says, matter sweet nasty mean spirited 000000 ',ag
+' explaining skills wont 000000 ',ag
+' stuck, cant think right term lose train thought 000000 ',ne
+' pissed willing finish try ing 100000 ',ag
+' says cant stumbled sentence 5 minutes prior 000000 ',ne
+' cant wait visit portland again, right dont think ill able back payed 000000 ',ne
+' sucks, mean birthday 000000 ',dg
+' 2 pay check work counted 000000 ',ne
+' borrow mom, ive payed off, know dont money left 000000 ',ne
+' afraid happen 001000 ',fr
+' worried money 000000 ',fr
+' worried losing love, cant ight 000400 ',fr
+' know cheesy 000000 ',ne
+' okay shut 000000 ',ag
+' okay 000000 ',ne
+' dentist today 000000 ',ne
+' bad 000010 ',ne
+' handle aches, freak 000000 ',fr
+' fucked teeth, hurt (except clamp) , edge, felt hurt, moment hit nerve 000000 ',fr
+' 000000 ',ne
+' nurse suction, hit mouth (isolating tooth) loud ear, flinched, dentist lik "it big deal, afraid of" freaked out, flinched cried startin crying 001000 ',fr
+' 000000 ',ne
+' filling, sucks 000000 ',dg
+' appear, 000000 ',sp
+' enjoying 000600 ',hp
+' hi, friends, me, barefoot 000000 ',ne
+' 000000 ',sp
+' totally true access hollywood says 000020 ',ne
+' designhergals.com tell think business ca rds 000000 ',ne
+' muscles are, like, know 000200 ',ne
+' today work popped advils helped mother daughter figure daughter 000000 ',ne
+' turns daughter graduated spring 000000 ',sp
+' living home parents feeling abou 000000 ',sd
+' no, thinking school nursing, 000000 ',ne
+' happen me. think threw back ( advils), 000000 ',ne
+' 000000 ',ne
+' which, honest, brad nervous 000000 ',fr
+' pre-deal excitement 000100 ',hp
+' wanted call yohji night, deguchi bus attending ball, returning home morning 000100 ',ne
+' 24 hour brad idea 000000 ',ne
+' deguchi social function planned tomorrow night 000100 ',ne
+' flight home 000000 ',ne
+' meantime, free time, deguchi passed room rom desire lf game tomorrow 100000 ',ne
+' tuesday evening i, wednesday home, brad automatically, doors balcony open sitting chair looki ng ocean 000000 ',hp
+' called yohji, missing him, wanting talk 000000 ',sd
+' dear 000000 ',ne
+' 000000 ',ne
+' instead, shopping wear 000000 ',ne
+' two-piece, green stretch 000000 ',ne
+' drawing, played ms. fun game 000000 ',ne
+' bit fun 000000 ',hp
+' fun game involved boxes job boxes ny wanted 000000 ',ne
+' waffle-iron 000000 ',ne
+' bright 000000 ',ne
+' asked help clown, ryan face 000020 ',ne
+' offered aaron too, laughed head 000000 ',hp
+' laughed lot today 000000 ',hp
+' sorry know 000060 ',sd
+' drawing, standing ryan locker, leaning back, laughing 000000 ',hp
+' bell hour talking bunch ryan po pular football-friends 000000 ',ne
+' laughing josh peter, me, fast 000000 ',hp
+' wanted green-and-purple hands, afraid worse, 001000 ',fr
+' ryan standing group, sense, gu ess 000000 ',ne
+' mink turned locker crowd, ryan watched 000000 ',ne
+' said, "he nervous. 000000 ',fr
+' "yeah 000000 ',ne
+' feel bad. 000010 ',sd
+' "what for? 000000 ',ne
+' - know leif carlson? - leif sat guy late class table 000000 ',ne
+' "so, 000000 ',ne
+' 000000 ',ne
+' hurting feelings," ryan finished 000000 ',sd
+' nodded, felt guilty 000020 ',sd
+' mink exactly reason t, well, anything, 000000 ',ne
+' total bullshit, matter 000000 ',dg
+' fucking 000000 ',dg
+' only, 000000 ',ne
+' also, look cat 000000 ',ne
+' break heart words 000100 ',sd
+' cause tears run fall knees 000000 ',sd
+' backing ardest 000000 ',sd
+' scared wa nt leave side 004000 ',fr
+' home- back reality 000000 ',ne
+' coming excited 000000 ',hp
+' anyways wont weekend penn state bunch male brother lol bye 000000 ',hp
+' 000000 ',ne
+' change 000000 ',ne
+' kno 000000 ',ne
+' talk 000000 ',ne
+' know gonna alrigh 000000 ',ne
+' real 000000 ',ne
+' ask 000000 ',ne
+' 000000 ',ne
+' money people minds hat 000000 ',dg
+' know gonna alrigh 000000 ',ne
+' change 000000 ',ne
+' change 000000 ',ne
+' kno 000000 ',ne
+' pictures ma 000000 ',ne
+' know know gonna alrigh 000000 ',ne
+' -- 000000 ',ne
+' capitalism america, gulf have-nots insurmountable broken bodies 000000 ',ne
+' 000000 ',ne
+' pretty damn sad, 000060 ',sd
+' leave human 000000 ',dg
+' total 000000 ',ne
+' radical thought change 000000 ',ne
+' words "terrorist, "anti-semitic", "anti-war", "islamo-fascist", "prot est" "communist" 001000 ',ne
+' responsible fear-mongering seat bush administration able years, pret ty order 005000 ',fr
+' interesting supposed afrai status quo: fear change 005100 ',fr
+' government wants afraid terrorists pass easier control 002000 ',fr
+' zionists bad name, zionists u.s. name 000010 ',ne
+' scared name freedom, mor 004000 ',fr
+' suggest government afraid communism, cause goes government rolling: capitalism 001000 ',fr
+' "red scare" communist witch-hunt 50 joe safety security america, current fear so-called communist uch north korea, china, actual communism never, 008000 ',fr
+' police-states, actual communism marx 000000 ',ne
+' earlier socialists longer-term social reform, marx popular revolution inevitable, path 000000 ',ne
+' so-called modern communism, factions, arxist/leninist communists 000000 ',ne
+' pages words, ran look revolution look like, truly happened 000200 ',ne
+' revolution 000000 ',ne
+' pretty idea elected officials turn america hope beco me; people serious selfish, style life 000000 ',ne
+' air-conditioned, drive-thru frequenting, can-opener using, meat-ea ting, hands-free restroom-using 000000 ',ne
+' work 000000 ',ne
+' put schools, teach think question taught, learning orde dollar, enter life-long keeps aw ay wish 000000 ',ne
+' dream fight hard work ahead, put money ev entually leave factory human flesh, age 65, live lef life, promise social security plan dear leader, "decider" trying privatize, national system 000000 ',ne
+' depression 000030 ',sd
+' work scared losing job 004000 ',fr
+' know air unfit food unfit eat 100000 ',ne
+' sit house, slowly world living smaller, is, "please, leave living rooms 000020 ',ne
+' leave alone. 000000 ',ne
+' mad 100000 ',ag
+' write congressman, know tell write 000000 ',ne
+' know depression st reet 000030 ',sd
+' know first, mad 100000 ',ag
+' gotta say, "i human being, 000000 ',ag
+' chairs 000000 ',ne
+' "i mad hell 100000 ',ag
+' anymore!! 000000 ',ag
+' felt longing 000000 ',sd
+' mere thought source longing cry, truth heart 000100 ',sd
+' longing heart, longing weak heart 000100 ',sd
+' alter judgement, longing 000000 ',sd
+' started job 000000 ',ne
+' store 000000 ',ne
+' job nice 000000 ',hp
+' knows couple people know 000000 ',ne
+' luckily numbers cause deal phon e, oh mention mind aim, check e-mail, lo random stuff online work 000000 ',ne
+' pretty sweet feel 000000 ',hp
+' oh mentor, pretty 000000 ',hp
+' today sucked 000000 ',dg
+' 000000 ',ne
+' 000000 ',dg
+' suppose fault 000000 ',ne
+' pay attention class assignments, afraid goi ng forget gonna spring aaaaaah!! 001001 ',fr
+' feels brain function 000000 ',ne
+' pay attention, think straight, talk 000000 ',ne
+' 000000 ',ne
+' talking 000000 ',ne
+' today, pulled meeting building manager, pan ic 000000 ',fr
+' problem turned paint color office space 000000 ',ne
+' (why yes, spent rest paint-based 000000 ',ne
+' once!" 000000 ',ne
+' anyway, paint chip brochure desk, pulled car pet samples, preparing face choice--which turned nea rly office off-white 000000 ',ne
+' books library today 000000 ',ne
+' crap: disorganized, pseudoscientific, 000000 ',dg
+' suppose attitudes women changed lot too, awfu threw hands returned book leaving library 000000 ',dg
+' goes years married, fat, 000000 ',sd
+' hello, 000000 ',ne
+' yeah 000000 ',ne
+' do, remember catchy song 000100 ',ne
+' time, faith 000000 ',ne
+' currently rotation, piece crap time, terrible, terrible, cover "in big country. 003000 ',dg
+' heard song covered 000000 ',ne
+' (or having, rest lives) ith stupid people, ones bothering 100001 ',dg
+' fucking invited group called "sally cooler mom. 000000 ',ag
+' okay, cooler anyone, saying cooler mom fucking 000000 ',ag
+' again, mom sally 000000 ',ne
+' tell sally eat shit 000000 ',ag
+' [self-explanatory 000000 ',ne
+' angry customers; matter fact, 1 met customers 100000 ',ag
+' odd 000000 ',sp
+' answer 000000 ',ne
+' deal 000000 ',hp
+' chick named called asked work 000000 ',ne
+' oh know, kids "best dressed" school 000100 ',ne
+' hang 000000 ',ag
+' fucking clue 000000 ',ag
+' find bitch 000000 ',ag
+' sure, nice people wanting presence, step line enter stupidity, self-esteem issues self- being, kick fucking baby 000201 ',ag
+' laugh 000000 ',hp
+' lame lame lame comparison, know 000000 ',ne
+' 000000 ',ne
+' closest panic!s cover halloween 003220 ',ne
+' 000000 ',ne
+' worth comment upon??)and share, 000000 ',ne
+' tend ideas commentary midday, mood passed 000000 ',ne
+' lot thought 000000 ',ne
+' church 000000 ',ne
+' afraid lots children 001000 ',ne
+' know right cause environm ent girls 000000 ',ne
+' god opportunities knowledge regard family plann ing 000100 ',ne
+' update 000000 ',ne
+' phone a)tired b)not mood c)just wanting talk watch movie inst ead conversation me. types choices ard trying friend 100000 ',ag
+' me: uh, 12 people watch movie suppos start hour class, kinda planned 000000 ',ne
+' say, fucking reasons (once again) pissy 000000 ',ag
+' fucking seriously kid 000100 ',ag
+' myspace today 000000 ',ne
+' sick myspace 020000 ',dg
+' ive noticed me, stupid 000001 ',dg
+' stopped listening 000000 ',ne
+' awhile catch eye read it, part sick tired stupid shit 120101 ',dg
+' normal conversation him, basic human right hang so, allowed 000020 ',ne
+' gag, crap 000000 ',dg
+' anyways, court yesterday 000000 ',ne
+' court 000000 ',fr
+' story short, learned lot 000000 ',ne
+' vehicles fault mine, sentence poss ible ticket 000000 ',ne
+' pretty 000000 ',hp
+' nice, judge 000000 ',hp
+' 9 ive ticket before, fine 000000 ',ne
+' exciting part day, cliche sounds car fire 100100 ',hp
+' pulled ran 000000 ',ne
+' walked "whats on, help? 000000 ',ne
+' looked vehicle flames gas tank 000000 ',ne
+' told fire dont think heard me, grabbed hi car, stumbled back, dropped shit looked pissed "wh fuck lady" steps vehicle gas popped (not hollywood people) gas flew everywhere, catching rass fire, blowing tires door open, ehicle started flames 200120 ',ag
+' driver changed hes "thanks me" "oh god" police fire infor mation 100000 ',fr
+' news people up, talked kid telling cop go, late, left 000100 ',ne
+' dont think saved life, saved legs lot 000000 ',ne
+' point exciting 000100 ',hp
+' remain "anonymous" newspaper life goes 000000 ',ne
+' hug, 000000 ',hp
+' 000000 ',ne
+' thinking, earlier comment stuff me. peopl drove past, cars exit lane, stuff just equally everyone, 000000 ',ne
+' people drive cars on, sitting side road 000000 ',ne
+' know smoke tire, car fire? 100000 ',fr
+' name, sure forget 000001 ',ne
+' homework 000000 ',ne
+' broke down, decided fix 000020 ',ne
+' uncle saved bunch stuff me. called early birthd ay present, amazing 000001 ',hp
+' surprised brian met lunch, 000003 ',sp
+' soooo nice 000000 ',hp
+' collect continue home 000000 ',ne
+' know yet, call 000000 ',ne
+' wait night drive brian chill aw hile 002100 ',hp
+' feels pretty today 000000 ',hp
+' so, friends later, homework, work dirty (all them) think laundry, bed 000000 ',ne
+' yesterday eventful, today relaxing 000000 ',ne
+' love life 000400 ',hp
+' lost vegas grandma time, hoping help canada grandma feel 000000 ',hp
+' happy 000500 ',hp
+' proud sister 000000 ',hp
+' fine 000000 ',ne
+' sick looking computer screen 020000 ',dg
+' goal tonight 000100 ',ne
+' "i relate 99% humanity. 000200 ',sd
+' watching middle-aged character, (steve buscemi) "ghost world," help agreeing 000000 ',ne
+' relate, try 000200 ',ne
+' 000000 ',ne
+' lot guys 000000 ',ne
+' but, back reasons relate *74%* humanity 000200 ',ne
+' sex money 000000 ',ne
+' (and know mean, okay, mean drunke like. 000200 ',ne
+' (has rolling stone 000000 ',ne
+' am, honestly, furious angry letter , care, sure thi nk part "machine" 400000 ',ag
+' ahead, care environment, care demeaning women. 000000 ', ag
+' drink amounts 000000 ',ne
+' - movie "top gun. 000000 ',ne
+' - enjoy reading 000600 ',hp
+' - think money happiness 000100 ',hp
+' think sex happiness 000100 ',hp
+' - notice nice days, smells, etc. appreciate it, appreci ate effect me. 000000 ',hp
+' - "like" word 000200 ',ne
+' 000000 ',ne
+' people rude selfish, know too, ike 000000 ',dg
+' meh 000000 ',ne
+' bag 000000 ',ne
+' people step join humanity 000000 ',ne
+' intelligent, attractive, guys boys, wear t-shirts $30 shoes, read watch movies 000000 ',ne
+' please, exist anywhere, know 000000 ',ne
+' walking straight, dog crossed street turned growled, " oh shit jorge, walking. 000000 ',ag
+' did, dog too, " run kee walking? 000000 ',ag
+' walking dog crossed street back ru nning "ohh sshhiittt!!! 000000 ',fr
+' house gate door opened slightly, sumway!! 000000 ',sp
+' backpack me!! 000000 ',ne
+' damn! 000000 ',ag
+' scared!! 004000 ',fr
+' "it heart afraid breaking learns dance 001100 ',fr
+' dream afraid waking chance 001000 ',fr
+' afraid dying learns live 001000 ',fr
+' "when night lonely, road 000100 ',sd
+' remember, winter, beneath snow 000000 ',ne
+' bette middle 000000 ',ne
+' caught attention; specifically, fi rst lines: "it heart afraid breaking learns dance./it dream afraid waking chance. 001100 ',fr
+' grand, mind you; touch: rash, 000000 ',ne
+' considered possibility now, apprehensiv e, act felt 000000 ',fr
+' then, day, driving 470 college, li stening 105.5, beautiful song heard 000000 ',hp
+' words think thought, thought, know est surprised thought 000003 ',sp
+' think wake dream, turn reality 000000 ',ne
+' internship pretty awesome today 000002 ',hp
+' sat lit practice test bus ride, cool, expected 000000 ',sp
+' staff currently process 30-45 made, spent 100000 ',ne
+' totally loved it, 000400 ',hp
+' thought decided middle broadway, man french told smith movie 000000 ',ne
+' love guys work - told ron shift (but 000400 ',hp
+' smith (although french prince shit, thin punch heard "switch"), gi rl elevator randomly mike 000000 ',ag
+' afternoon - *gulp* - lawler me. heard coming, sp azzed, afraid issue never, know, internship forms 001000 ',fr
+' course, in, john said, "you realize, moll y, allowed visitors, lashes. 000020 ',ne
+' ms. lawler smiling 000000 ',hp
+' proceeded call meghan** required chemi cals/safety concerns set questions tried 100200 ',hp
+' freaking okay 000000 ',fr
+' **as farrell, assume 000000 ',ne
+' hey 000000 ',ne
+' news 000000 ',hp
+' 000000 ',hp
+' 000000 ',dg
+' back, 6 back bus 000000 ',ne
+' bus, dropped resume wet floor dropped mp3 player 000000 ',ne
+' there, told waited 000000 ',ne
+' point nervous told people lot words "uh" "um" 000000 ',fr
+' told set interview calling 2 000000 ',ne
+' looks 000000 ',hp
+' 2 thinking placing background video iting, told turn easy lo ng run hoping position learn 000000 ',ne
+' decide place them, job, happy 000500 ',hp
+' oh, job futureshop, looks starting arou nd november 8th 000000 ',ne
+' plans coming 000000 ',ne
+' friday: movie 2 rainbow cinema 000000 ',ne
+' 21st: free, check brad sucks live 000000 ',ne
+' 000000 ',ne
+' felt awful 002001 ',sd
+' night before, 000100 ',ne
+' chick dislike passion think gareth likes 000200 ',dg
+' hate 200000 ',dg
+' okay 000000 ',ne
+' remember gareth password spy whats 000000 ',ne
+' 6th page 000000 ',fr
+' freak 000000 ',fr
+' left it, awful 002001 ',sd
+' 000000 ',ne
+' home nervous hadn talk gareth 2 days becaus college 000000 ',fr
+' scared 004000 ',fr
+' tell took forever tell nervous 000000 ',fr
+' 000000 ',ne
+' 000000 ',ne
+' password reason, rom 000000 ',ne
+' 000000 ',ne
+' like, happy delete friends list 000700 ',hp
+' 000000 ',ne
+' dislike 000200 ',dg
+' yeah wait couple delete 000000 ',ne
+' hate mistakes 200000 ',dg
+' big 000000 ',ne
+' man. hate 200000 ',dg
+' ehh 000000 ',ne
+' ill forever 000000 ',sd
+' complicated 000000 ',ne
+' right anymore upset 000000 ',sd
+' mother 000000 ',ne
+' man know true 000020 ',ne
+' night 000100 ',ne

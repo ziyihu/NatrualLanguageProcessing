@@ -1,0 +1,3723 @@
+@relation emotions @attribute sentence string @attribute category {hp, sd, fr, s
+p, ne, dg, ag} @data ' this was the best summer i have ever experienced ',hp
+' good night friends! ',ne
+' the of my fingers ',ne
+' almost past the tv ',ne
+' i hate fucking pills ',dg
+' i just came back yesterday from california ',ne
+' i had a blast in california hanging out with my family and friends ',hp
+' thank you to everyone who made me feel at home ',hp
+' :) i love ya : ',hp
+' my best friend, her grandma and my planned a surprise baby shower for me and h
+ailey on saturday ',sp
+' thank you so much for everyone who came ',hp
+' :) hailey recieved many gift cards (because i couldn t bring that much on the 
+plane back home) and cute baby clothes and toys! ',hp
+' thank you everyone ',hp
+' we had a wonderful yummy cake, fruit and treats ',hp
+' my friend brought her cute new baby girl, jamie! ',hp
+' she is so adorable! ',hp
+' we played fun baby games and caught up on some old times ',hp
+' i had a blast thank you friend!!! ',hp
+' here are some pics!! ',ne
+' thank you guys ',hp
+' i miss you so much and can t wait to see ginny, sister friend and my mom in a 
+couple months!! ',sd
+' love yo ',hp
+' so many lies about who you re talking to, where you re going, what you re doin
+g ',dg
+' the people that just have to send a "hug" and it puts a smile on your face ',h
+p
+' yet you know things about them that not even their parents know, and it doesn 
+t matter ',ne
+' they don t care how pretty you are or what clothes you wear ',ne
+' they are amazing ',sp
+' and i love them ',hp
+' my life is falling and i don t mean online ',sd
+' i m becoming a broken toy and now that i have had twelve (i counted) of drawn,
+ i just feel like i m useless ',sd
+' i started myself aki-sama xd it s fun ',hp
+' i want to get to know him and know more about him ',ne
+' the this article about deep-fried coke a few days ago, which is enough by itse
+lf ',dg
+' (speaking of deep-fried shit, did you know there was a town in texas where the
+y take a bar, wrap it in bacon, and then deep-fry it? ',dg
+' how awesome is this country ',hp
+' had a lovely birthday yesterday with alex and ',hp
+' been seeing so many good friends and my cell-phone contacts ',hp
+' was like a warm ',hp
+' is also making me feel more happy than i feel at home ',hp
+' oh and also, i m listening to an book of "the time-traveler s wife" and loving
+ it ',hp
+' was awesome ',hp
+' did a lot of family time this event ',ne
+' well, sort of ',ne
+' the speed was pretty fast, but i was too fast for him, and had it easy ',ne
+' all i know was stuff is moving, do this ',ne
+' i made 23% of what i sold last night ',ne
+' i also got a ton of including from a couple of that weren t even mine ',hp
+' this is how most friday and saturday nights go ',ne
+' what a awesome time i had yesterday ',hp
+' it must have been all your good and have that did it ',hp
+' and mr. dude has to let me take some of him ',ne
+' really starting to lose it ',sd
+' last night i watched s mr. no legs on my while watching g.h. s terse, the of f
+ear on the ',ne
+' to in those few i read s mr. mike: the life and work of o ',ne
+' my head is a wmd, and my hard drive is but night ',ne
+' sadness dept: just heard on that died ',sd
+' click here for the new york times ',ne
+' (i it at in 04 for my and they seemed by it ',sp
+' strange. ',sp
+' burn ',ne
+' is a franco-era and all the more for its and washed-out ',sd
+' get em and watch click, or new york minute ',ne
+' here is a recent interview of and the man talks about his latest career develo
+pments, his dad and of course the remake sholay: some from the msn site ',ne
+' "the most wonderful gift that dad got this birthday was the love ofamitabh-abh
+ishek09.jpg his that he gets every year ',hp
+' but the of comes a close second. ',ne
+' "what a fabulous gift for dad on his birthday ',hp
+' its fantastic ',hp
+' well, great ',hp
+' it just shows that indian cinema is making into the west ',ne
+' and they are doing precisely that.&quot ',ne
+' we as a family are truly ',hp
+' its a matter of pride for every indian when a like this comes to dad from a ci
+nema-savvy country like france. ',hp
+' "i think its a wonderful idea to remake sholay ',hp
+' every has the right to carry his vision into whatever area he chooses ',ne
+' "therell always be ',ne
+' all i can say is, knowing abilities from close im pretty sure even uncle will 
+be very proud of the film makes. ',hp
+' the show is coming together awesome ',hp
+' it will also be very technical as we work out in the show with and lighting ',
+ne
+' i stand by what i said in that i don t know if i m going to be ever again ',ne
+' but the rest of it came across as a really angry, drunken ',ag
+' i don t know when or if i will end up seeing anyone again but please know that
+ i can understand if you don t want to see me again ',ne
+' if anyone wants to give me a call i d be more than happy to answer it ',hp
+' hey all ! ',ne
+' lol ',hp
+' my howland friend came with me and we danced the night away.most of my friends
+ went which was awsome ',hp
+' there was only a few of us single people there but it was cool ',hp
+' which is one of the slow songs i got to dance with one of my friends who gradu
+ated last year.hes awsome we danced alot together!luvs ',hp
+' it was really cold tho ',ne
+' the dance was awsome.the music was really cool ',hp
+' too much and not enough rock for my taste but it was all good i was just happy
+ getting out on the dance floor and getting my on.lol ',hp
+' i also got to see some howland people i once knew (drew was one) that was pret
+ty cool ',hp
+' haha we did the cha cha and we were all so close together ',hp
+' they need a bigger dance floor ',ne
+' i just loved last night! ',hp
+' ha ',hp
+' then lyssa,me,matt,and couldn t find good to eat that was open 1 in the mornin
+g so we all went in to giant and bought junk food haha ',hp
+' we were all in our homecoming still ',ne
+' it was ammusing.hehehe.but yea overall i haven t had that much fun in a very l
+ong time! ',hp
+' im done telling you about my wonderful night lol ',hp
+' ill be pics up soon ',ne
+' grace was born wendsday, october 11, 2006 at 11:48 am ',ne
+' i can t believe she is finally here!! ',sp
+' after the doctor on tuesday, i cleaned house, played and soccer with levi, the
+n went to amanda s to sit and talk with her while she moved in ',ne
+' except she t look a thing like me. everyone seems to think she has alot of dan
+iel in her ',ne
+' :) levi is really exciting to be a big brother, he thinks she is sooooo cool '
+,hp
+' i ll be putting more pictures up probably sometime this week so keep your eye 
+out for the amazing grace!! ',ne
+' i go to ryan high school ',ne
+' i want to go to when i graduate and take up a career in either nursing or ',ne
+' my life on the is do its what i was born to do i love i there i love to teach 
+people who want to be taught ',hp
+' everyone there is amazing its like my second home ',hp
+' thats about it if you want to know anything else about me just let me know ',n
+e
+' luckily we won that one ',hp
+' then yesterday, the tournament in ',ne
+' it was ',hp
+' this morning we beat ',ne
+' overall it was a pretty good tournament ',hp
+' and about me i guess ',ne
+' i m always happy with those ',hp
+' had a good chill time with team at s house ',hp
+' his dog was sooo cute ',ne
+' heh ',hp
+' anyway ',ne
+' i don t know why ',ne
+' however i do miss volleyball ',sd
+' photobucket - video and image hostin ',ne
+' even it maybe means i won t see you screen again ',ne
+' so i went to spend the night at irvine s eye s place ',ne
+' i woke up once during the dream and was like, "oh crap, no, go back" and manag
+ed to get back to it somehow ',ag
+' o_ ',ne
+' so in the dream there were times where we were both kinda unsure, but it was s
+till happy (for the both of us i hope) ',hp
+' that s odd though, as i don t usually care for ',sp
+' but hey ',ne
+' i totally didn t want to wake up, i can say that ',ne
+' so yeah, i just had to share that ',ne
+' ;_ ',ne
+' rd, sweet and someone else while that lady was doing my hair ',ne
+' ',dg
+' i m finally reading the amazing adventures of &amp; ',sp
+' i got a copy for my birthday ',ne
+' i m not very far along but i m quite enjoying it ',hp
+' i m in at these hot and it should be awesome but i didn t sleep one little bit
+ last night ',hp
+' it seriously took my 4 hours to fall asleep for like one half-hour then 10 min
+utes in between each of those little episodes ',ne
+' i don t want to go on a hike or anything at all ',ne
+' i think the pain and of attending your reception is worth seeing your face aga
+in ',sd
+' i could have danced with you ',ne
+' i miss you so much ',sd
+' i ve never missed anyone so much as you ',sd
+' i m sitting here in this thing and crying and it s very but i can t help it be
+cause i just want you and me to run away and i want you to hold me for one whole
+ night and rock me to sleep ',sd
+' all that stuff i just have to imagine or dream up for now ',ne
+' i want to go home ',ne
+' i miss you ',sd
+' well im up my first week at jubans, its really awesome ',hp
+' they schedule me for is like guy im not exactly sure what my job is but i work
+ the whole time im there ',ne
+' we get after work too and the food i can eat is awesome ',hp
+' i got a b on my german lit test ',ne
+' up a quiz in which sucks ',dg
+' oh well its nothing too too bad but its making me nervous ',fr
+' truly of a character orgy at one of their shows. ',fr
+' well, not so much an orgy, but really rather amusing ',hp
+' i just there in shock ',sp
+' various books on classical greek art are about my room, waiting to be used for
+ my classical ',ne
+' i ve left my library of greek on my table, having just finished jason and the 
+',ne
+' amanda, latin, the "to love" ',ne
+' ',ne
+' another slight i find amusing: jason played in last year, just as i am playing
+ in a night s dream ',hp
+' sock n is a really fun theatre company, i m my ',hp
+' the point of this ',ne
+' and by ',ne
+' this awesome ',hp
+' i had bought him a with the latin on it ',ne
+' i spent a couple of hours on a trip last night/this morning in the early am ',
+ne
+' i spoke with the earth, the sky and everything i feel is real ',ne
+' heh ',ne
+' in style of buddhism, i say that we are all wrong, the monkey is god, and are 
+the truth ',ne
+' ',ne
+' actually, i think i dropped it in a last night ',ne
+' so adam and i went to state to go ',ne
+' i m broke like whoa, but i m still working ',ne
+' i ve been talking to on the phone almost daily, and we re both very excited to
+ see that little baby inside of her ',hp
+' that would be so awesome ',hp
+' snow in october ',sp
+' i haven t even seen snow in years and to have it in october it too much to wra
+p around my little head ',sp
+' i m missing everyone in with the blue stars, and sad that i had to leave early
+ ',sd
+' miss you guys ',sd
+' other than all of this i m still trying to move upstairs, and it looks like tu
+esday will be the day ',ne
+' hope all is well in your worlds ',ne
+' i can honestly say my views of the world i live in changed while in high schoo
+l ',ne
+' i remember being so impressed, with the youth of the other parishes in my area
+, and the that everyone had their own groups, regardless of the social status of
+ each person ',ne
+' which was such a when compared to the small group i to ',ne
+' we began to help at the local &amp; fishes, volunteer work for the school at o
+ur parish, for other traveling youth groups ',ne
+' i remember doing endless for almost everything we did ',ne
+' see, the whole time that i was trying to develop my own faith, attending with 
+other parishes, and all the work i did with my own group ',ne
+' and sadly ',sd
+' everyone has been given a gift in life ',ne
+' simply by just listening to them speak, and more often just being in presence 
+has been known to have the answer someone is looking for to just dawn on them ',
+ne
+' it was too much weight for me to carry, my own plus everyone ',sd
+' and then it happened ',ne
+' my ',ne
+' this is his first year in band ',ne
+' every now and then ',ne
+' i get a jolt of something real loud and it makes me jump ',sp
+' she is afraid to ',fr
+' i hope that he can learn to play well and i really do hope he is enjoying hims
+elf ',hp
+' no matter the pain is may cause the rest of the family ',sd
+' as long as he is happy ',hp
+' perhaps a nice hot and a bottle of would help ',ne
+' decided to go to work ',ne
+' but ',ne
+' vegas was a lot of fun ',hp
+' the reception was a blast ',hp
+' champagne, music, and me trying to catch those damn ',hp
+' (didn t catch em by the by) imagine this: my bro taking his neck off of s with
+ his teeth while "girls just wanna have fun" in the background ',hp
+' we went shooting in our regular out in the desert behind this mountain ',ne
+' (look at my pics) ',ne
+' add some jack and and a s drive through and it s a real party! ',hp
+' my bro is leaving for iraq again and, well, you know how that goes ',ne
+' as sean put it, it s not like where 4 of 5 americans will die, so that really 
+put it into perspective for me. i know he ll be safe and come home in one piece,
+ but the scary thought still kinda in the background of my mind ',fr
+' everybody hates everybody, everybody lies, talks shit behind backs, and treats
+ people like shit ',dg
+' my mother truly wants to murder my father, and then gets pissed off when i don
+ t agree with her ',ag
+' ugh ',dg
+' ya, i d say that s some fucked up shit ',dg
+' =) it was the end to a crappy day ',dg
+' well you know ',ne
+' basically, i just want to focus on staying busy and staying happy ',hp
+' so, if you would like to to the "make me smile" foundation", let s party ',hp
+' after school i went home and got ready to go the the homecoming parade ',ne
+' i on the w/ the and v-ball ',ne
+' that was sooo fun ',hp
+' lol ',hp
+' ;) ',hp
+' after that we went to wal-mart and walked around ',ne
+' :) at the game ',ne
+' we were totally awesome!!! ',hp
+' lol ',hp
+' we won by several of points ',hp
+' yay!!! ',hp
+' lol ',hp
+' after the game we went to the dance where i had the best night of my life!! ',
+hp
+' was so awesome ',hp
+' i cant even explain in words how much fun i had ',hp
+' ;) ',hp
+' i can honestly say that was the best ever!!! ',hp
+' its soooo sad b/c it was my last one ',sd
+' :( at least i had a blast!!! ',hp
+' lol ',hp
+' but yea ',ne
+' i dont know what else to say except that i love time w/ joe ',hp
+' :) *sighs* lol ',hp
+' and hanging out w/ and matt was totally awesome 2!! ',hp
+' love u all! ',hp
+' this time from the new world ',ne
+' exciting, no ',hp
+' so, to the ',ne
+' where did we leave off ',ne
+' i ll start my with a little about how small the world really is. so i was goin
+g to work one day, headed to one of the hostels around berlin to pick people up 
+for the tour, and then bring them back to the gate where the tour starts ',ne
+' as i was preparing to leave, one guy over at the yelled out for me to wait, me
+ and said hello ',ne
+' so he just took his backpack with him and came on my tour ',ne
+' we had a great time catching up, and went out that night together as well ',hp
+' but it s certainly strange how you randomly run in to people you haven t seen 
+in years, in little hole-in-the-walls in europe ',sp
+' fun times ',hp
+' and this particular piece was by far the best play i have ever seen ',hp
+' it was also incredibly simple, cutting the huge cast down to only seven perfor
+mers ',sp
+' it s moments like that that remind me why i ve chosen theatre as a ',ne
+' i was lucky enough to be able to stay with some friends to cut down on the cos
+t, and see a different side of london life ',hp
+' it was sooooo much fun ',hp
+' i saw most of the major on my own, and i went to the theater almost every nigh
+t i was there ',ne
+' the show was ',dg
+' horrible ',dg
+' horribly acted, horribly directed, weak ',dg
+' and long ',dg
+' three hours of ',dg
+' i wanted to leave at intermission, but my was really enjoying it (should have 
+been a sign) so we stayed ',hp
+' i guess the one good thing i took from it was that i know now that the british
+ are just as capable as we are of producing really awful work ',dg
+' while in london i also saw at the theater ',ne
+' now this was amazing ',sp
+' the performers were incredible, and one of the was played by geoffrey, the fro
+m fresh prince of ',sp
+' that in itself was hilarious, and made us love the show even more ',hp
+' i also saw for the first time, and it was fun ',hp
+' loved london ',hp
+' loved the free museums ',hp
+' especially the british museum ',ne
+' soooo many monuments, including two statues in front of that had a communist '
+,ne
+' now maybe i was just reading too much into this, or maybe i had spent too much
+ time in the eastern talking about communist ',ne
+' and the part, the two statues said they were donated by new ',hp
+' ',sp
+' next time you re in wellington, watch out for the ',ne
+' now i have a to make: before the world cup began i had actually never seen an 
+entire soccer game from start to finish ',ne
+' the of people would change from day to day, for instance there was a three day
+ period where we had over 90,000 in the city, up to their at the hands of german
+s ',sp
+' then there were the brazilians, everywhere, singing-clapping-dancing-taking pi
+ctures, and of course the and brits with their cock-eyed and drinking songs ',hp
+' loads of fun ',hp
+' i didn t have tickets to any of the games, but my group of friends would alway
+s go to a cafe or bar of the that was playing to watch the ',ne
+' so to a french cafe for the france-swiss game, a bar when played, drank with t
+he brazilians, etc. it was a and hilarious way to take part without fighting the
+ ',hp
+' another interesting was the that emerged during the cup ',sp
+' now this explaining: before the world cup began, if you a german in the street
+s, you would probably be called a and at the very least as a radical right ',ne
+' and for what it s worth i agree with them, it makes me nervous too ',fr
+' so ',ne
+' people were genuinely excited about supporting their national team, and taking
+ pride in its ',hp
+' now this newfound certainly was not shared by everyone ',hp
+' and of course no one can an idea better than the germans ',ne
+' in june i had also been training at work to lead tours of camp, which i starte
+d at the end of the month ',ne
+' given the dark history of such a place you can well imagine the of retelling t
+hat information, and trying to put it into some kind of historical ',ne
+' after a july of beautiful weather and great summer adventures, i traveled with
+ my good australian friend to a theater festival in cyprus ',hp
+' the was that a good friend of mine from north texas, jessica, was playing the 
+title role in medea at a theater festival there ',ne
+' now this was ridiculous amounts of fun ',hp
+' the city is a sweaty, dirty, hole ',dg
+' take your of a squalor-filled mediterranean capital, and add this to your imag
+e: 10 story everywhere, in 100 degree heat, all cooled by wall-mounted air condi
+tioners, a.k.a. swamp boxes ',ne
+' now imagine the from thousands of swamp box coolers on your head as you down t
+he streets ',dg
+' now add a couple of poorly placed ',ne
+' and the city itself really is lovely, in it s own way ',hp
+' but two days back to back was more than enough ',ne
+' now this was really amazing ',sp
+' it took us about two hours to get out there, and then we around and played on 
+the rocks for about an hour, taking pics of the old temple ruin that is literall
+y clinging to the cliff face ',ne
+' and then we watched in with other tourists as the sun went down in front of th
+e temple, over the mediterranean ',sp
+' the sky is so amazing in greece, it feels like you could really reach up and t
+ouch it, it s so close ',sp
+' just ',ne
+' not bad ',ne
+' cyprus was amazing ',sp
+' we saw jessica s of medea, and were treated incredibly well by her at the fest
+ival ',sp
+' we stayed in a tiny mountain village called droushia, and these people brought
+ to incredible new ',sp
+' they did everything they could to make us feel welcome, everything from puttin
+g us up in a beautiful hotel, to let us pay for anything, and making sure that o
+ur stay on their was as as the stories always make it out to be ',hp
+' tomorrow we ll go somewhere special. ',ne
+' the next morning, the last day of the festival, they us all into four drive ve
+hicles, and took us off the map to an area that i will henceforth be the blue ',
+ne
+' imagine the most incredible, cove, with blue water, and a giant stone the wate
+r, hundreds of long and wide, to the color ',sp
+' our had brought along a lunch of fresh fruit and we broke our fast on a cliff 
+the whole gorgeous ',ne
+' it was really interesting staying with them in this little mountain village, a
+nd getting to experience a bit of what their was all about ',hp
+' oh and the food is incredible ',sp
+' but not feta ',ne
+' has nothing to do with feta ',ne
+' its really a testament to the vision of the that in our world of and technical
+ gadgetry, we are still fascinated by a two thousand year-old of stones ',hp
+' after returning from greece my last few weeks in berlin passed very quickly ',
+ne
+' the time flew by and before i knew it, august was at an end and my was by my b
+est friend lance, who had come to berlin for my last week ',ne
+' so i spent the next six days in a of working my final tours, partying, and lan
+ce the city that i had come to love so much over the last two years ',hp
+' people say london or paris is expensive; no ',ne
+' but we didn t let that us ',ne
+' we had a ball in ',hp
+' we went on a walking tour, went to the city museum (located in an old castle, 
+very cool), and had a good time relaxing and enjoying the amazing views ',hp
+' the city is incredibly beautiful, into the and right on the water ',sp
+' i think the most important thing i can say about this city, is that all of the
+ rumors: that the city s dirty, the people are rude, the language is insurmounta
+ble, the is incomprehensible, you things will be stolen, that they hate american
+s ',dg
+' it s called the city of love and light for a reason ',ne
+' the is breathtaking, and seeing it in person its cliche and makes you fall in 
+love with the thing ',hp
+' the people are absolutely lovely ',hp
+' we so many genuinely wonderful, helpful, content people ',hp
+' everything from trying to order a in the morning (my is terrible) to asking or
+ talking to cabbies, we were always surprised at how open and they were ',sp
+' and they all seem to really enjoy their city ',hp
+' they know how beautiful it is, and they appreciate it ',hp
+' and man, it is gorgeous ',hp
+' and people are out in them all the time ',ne
+' there was a fabulous sense of community there ',hp
+' my favorite part about the city were the nap chairs ',hp
+' there were people all over the place, and lots of and chairs ',ne
+' i thought: "that s strange, what s that about? ',sp
+' we found out when we headed over to two of these chairs that were in the shade
+, and down ',ne
+' we looked around and noticed that there were lots of people all over the park,
+ in the nap chairs, taking a ',ne
+' so we did the same ',ne
+' what other city would use tax dollars to provide chairs in a public park ',ne
+' france ',hp
+' we really had a ball in paris ',hp
+' we went to versailles, we went to dame, and on a fabulous bike tour ',hp
+' the most interesting thing we learned on the bike tour was that when the revol
+utionaries the bastille, there were only 7 left in it ',sp
+' montmartre, the old artist district, five minutes from the cathedral ',ne
+' the cathedral is the highest point in paris, and from its point, you have the 
+entire city spread out at your feet ',ne
+' it s a pretty breathtaking sight ',hp
+' on the steps there was always sort of an party with and performers and other c
+ity-watchers with a bottle of wine and a spirit ',hp
+' those on the steps are some of my favorite from paris ',hp
+' what an incredible end to an incredible journey ',sp
+' thus, is my two year tour at an end ',ne
+' i ve returned ready for a fresh start, new on this side of the ',ne
+' i was also lucky enough to be to direct a show for high school, which went up 
+last sunday ',hp
+' it was a piece the red hat, and went extremely well ',hp
+' it was a nice way for me to get to stretch those theater muscles and a little 
+something at the same time ',hp
+' and though my european adventure is over (for the moment) my american one star
+ts tomorrow ',ne
+' i m excited about the move, and the opportunities and that me there ',hp
+' there was a lot to in ',ne
+' i hope all of you are well; that you have made it through the summer, and are 
+excited about the upcoming (rapidly approaching) holiday season ',hp
+' i wish you all a fabulous week, and a warm and safe start to the season ',hp
+' all the best till we meet again ',ne
+' first day of school ',ne
+' my classes all seem fine ',ne
+' but just sucks, and i ve accepted that ',dg
+' some of my teachers seem quite amazing, and others i know for a fact to be ama
+zing ',sp
+' so, all-in-all, pretty good, right ',hp
+' honestly, while i was dating the child, i barely saw him in school ',ne
+' unless brandon and break up, that is. which is unlikely, so i shouldn t even h
+ope on that one ',ne
+' i also found out that junior year, will, in fact, be a bitch ',dg
+' world is going to be the hardest thing i ll ever do (academically, anyway) ',n
+e
+' it s nothing a strong woman such as myself cannot handle with a little bit of 
+and mental talks ',ne
+' you can handle high school drama.") also, i have so many friends, and all of t
+hem are true, caring, trustworthy friends who love me and are supporting me 100%
+ ',hp
+' i can come through this year triumphantly and with grace ',hp
+' i have looked forward to this year even before last year ended ',ne
+' this is my year to be happy ',hp
+' this is my year to try new things and to succeed ',hp
+' this is the year when i get to test myself: my mind, my body, and myself ',ne
+' this is my first year of loving myself ',hp
+' i also found out that junior year, will, in fact, be a bitch ',dg
+' i have recieved homework in four of my seven classes ',ne
+' ah, well ',ne
+' ("you can deal with this, nyssa ',ne
+' you can handle high school drama.") also, i have so many friends, and all of t
+hem are true, caring, trustworthy friends who love me and are supporting me 100%
+ ',hp
+' i can come through this year triumphantly and with grace ',hp
+' this is the year where everything happens ',ne
+' this is my year to be happy ',hp
+' this is my year to try new things and to succeed ',hp
+' this is my first year where i am truly nyssa ',ne
+' this is my first year of loving myself ',hp
+' i look forward to learning and even more of who i am, and loving every inch of
+ it ',hp
+' i cannot believe the nerve of this man. god ',sp
+' i need to just ',ne
+' kill something ',ag
+' i think i d really like to talk to you right now ',ne
+' at least they holes in it) that is my lab course "book. ',ne
+' what s even worse, it s so poorly that the last half inch of on the far right 
+side of the page is cut off, so as i try to read in for the lab tomorrow i m try
+ing to complete and make sense of it all, which is often because so much is left
+ out ',ag
+' again, makes me so angry ',ag
+' that s like, four or five or more meals ',ne
+' or two meals in europe ',ne
+' poopy poopy poopy ',ag
+' they pay room and board, and tuition and that s it ',ne
+' so i guess that for something ',ne
+' *cries* such is life i spose ',sd
+' i am in such a bad mood and i m playing the blame game in my head, getting ang
+ry at people for things that are really quite ',ag
+' i forgot how demeaning classes are ',ag
+' i haven t ',ne
+' he was asking all these questions that i was completely by and people were jus
+t answers ',sp
+' sometimes i wonder how in the world i made it in, and every day i wonder how i
+ m going to make it through ',sp
+' i mean, we already need 133 (ish) hours to graduate which, for you non college
+ people, is about 8-10 more than any engineering major and more than that more f
+or a non engineering major ',ne
+' i need to find a good time/place where i can go pray and ',ne
+' i don t feel like i ever have that kind of privacy where i can talk to god and
+ cry and figure things out ',sd
+' i always up in church too, for different reasons ',sd
+' i love the way god brings people together ',hp
+' ok. i m feeling somewhat better now ',ne
+' girls, i highly in her shoes, especially if you have a sister i m enjoying it 
+and it has from my almost all day ',hp
+' i think i spent the better part of two hours reading today ',ne
+' i spose i m off for now ',ne
+' these small remind me that, in the sense of the concept, i m dying ',sd
+' i will be no more than the expensive, cushiony, inside of a ',sd
+' the i m sitting on could fall, i could catch a stray to the on my way to my ca
+r in the parking lot, i could be by a drunk, inattentive, careless, or simply un
+fortunate driver on the way home ',fr
+' these are all unlikely, but they happen ',ne
+' my is nothing new, but i constantly have to what i desire to take, achieve, or
+ feel in this life ',ne
+' ',ne
+' saved ',ne
+' wrote ',ne
+' or do i simply want to live an average american life and be under a large ston
+e in a well kept cemetery, forgotten after my reletaves, children, and grand chi
+ldren ',sd
+' i could live in a house environment with a family, a few cars, a boat, and a d
+og in the back ',ne
+' or should i sink my money into trying to more and live in a parade of house wi
+th vehicles in the front, a boat with a huge rack, the list can go on and on ',n
+e
+' does an really exist ',ne
+' should i start myself to god, if there is such a being, in hopes of making it 
+to heaven ',ne
+' there would be a constant that there is no at the end of that rainbow ',fr
+' no wonder past writers were able to their amazing of feeling and thought ',sp
+' their distractions were very ',ne
+' my thoughts at the moment are somewhat melancholy, but can be completely forgo
+tten at the push of a button to an xbox, dvd player, or ',sd
+' the first words that come to mind are "in closing" or "to conclude", and then 
+i quickly write a summary of what i just finished writing ',ne
+' i am now the proud father of ',hp
+' its all official, we it out at the on friday ',ne
+' i now have a sweet little thing, that totally depends on her and me to do what
+s best ',hp
+' its a funny old game life, but i think i am one step closer to understanding i
+ts purpose and now ',ne
+' i had a long hard look at my life over the last 14 days, and to be honest i we
+pt ',sd
+' i wept for all the mistakes i made where i put my feelings before the feelings
+ of others ',sd
+' i wept for all the times i said "f*ck you" instead of "thank you" ',sd
+' i still have a couple of vices, strong coffee and noodles, but have smoking, d
+runk for a couple of weeks and am feeling better about life ',hp
+' my job is going really well, and i am getting a kick out of both going to work
+ and coming home ',hp
+' the in me the phone call from the police or hospital or plant etc telling me t
+he worst, my hopes of a better tomorrow ',fr
+' can you buy it ',ne
+' can you get there and back on a half tank of gas ',ne
+' we are all essentially the same person ',ne
+' ',ne
+' we both have the same (a brain) so why can t i come up with a theory of ',ne
+' the brain is an amazing and can be for any purpose ',sp
+' however most people don t the mental energy required to your train of thought 
+',ne
+' have you ever met anyone without a fully developed brain ',ne
+' they at there head and the of thought don t to deep ',ne
+' do they know how lucky they are - to find contentment without looking ',hp
+' more often you find things to bring you down or worry about ',sd
+' a single from the sky can make a lifetime of panic and worry all ',fr
+' whatever thought can be - someone has taken that to the extreme ',ne
+' life is finding the balance between and ',ne
+' i am not saying i am anything other then happy - but i for a balance ',hp
+' the combination of all people balanced into one ',ne
+' balanced ',ne
+' happiness comes from within - your brain is a self factory ',hp
+' but when you try to become your own mental - to alter your feelings - you up t
+he balance ',ne
+' the stop producing testosterone because it there is already too much testoster
+one in the system ',ne
+' the body is lazy - if you provide something for it - it stops for itself ',ne
+' so while cliche it is true ',ne
+' "happiness lies within" - the only way to be truly happy is to it yourself and
+ not on other people or things ',hp
+' the happiness they bring is only temporary ',hp
+' yet often that temporary happiness is more intense then a balanced contentment
+ ',hp
+' it is however usually by and equal sadness - it is life s way of itself out in
+ the endless swing of life ',sd
+' first she is all mad because i haven t called her back in a week ',ag
+' second of all she is laughing because she had to put her dog on drugs because 
+the dog learned how to open the window to get out and seems to be because she li
+kes the temple down the road ',hp
+' third she starts asking why i have only posted pics, so my dear sister, this i
+s for you ',ne
+' i figure i have a couple extra so i a certain amount ',ne
+' i almost bought this cool glass "tumbler up" ',ne
+' ok, the alignment was out on her when she bought it and it out the tires ',ne
+' i tend to think not ',ne
+' i called the and about it ',ne
+' on that car, it won t alignment ',ne
+' she started questioning my because she drives a school bus for a living and kn
+ows what a safe vehicle is. bitch ',ag
+' bitch ',ag
+' i got her less than $500.00 back ',ne
+' bitch ',ag
+' i made lunch for a at work yesterday ',ne
+' they saw what i meant when they started eating it ',ne
+' as far as i can tell, it was a success ',hp
+' they all on it ',hp
+' me he is. he s a great guy and i want to him for his kitchen, he liked that on
+e, hahaha ',hp
+' well, what can i say, he has a great kitchen, and the best stuff, he doesn t e
+ven cook ',ne
+' he s a great guy and i think the world of him ',hp
+' i need to figure what i m going to throw out so i can move that desk from the 
+middle of the room to one of the 2 rooms upstairs i ',ne
+' our emotions are a gift from god ',ne
+' by listening to our emotions and asking ourselves why we are feeling a particu
+lar we can discover an need or a need that has been satisfied ',ne
+' for instance, if i feel sad because i have not seen my family in a long time m
+y need for connection has not been met ',sd
+' on the otherhand, if i feel happy because i have spent time with my family the
+n my need for connection has been met ',hp
+' how many times have we felt angry and as a insulted, judged, criticized, or hu
+rt someone ',ag
+' we live in a society that has us to stuff our emotions and a society that is b
+y the most part feelings ',sd
+' so, what can we do ',ne
+' we can become of what is going on inside us ',ne
+' rosenberg, author of nonviolent communication, has a four-step process for com
+munication that identifying our feelings and needs into the model ',ne
+' rosenberg also calls this four step process "giraffe language. ',ne
+' the heart is about 3 feet long and 3 all around ',ne
+' by our feelings and needs to others we avoid and them ',ag
+' we can then go on to making a instead of a to help ourselves our now need ',ne
+' when others are angry or upset with us we can also use this on them ',ag
+' if we are not correct they will correct us and we will be closer to identifyin
+g the need they have and finding a way to the situation ',ne
+' we can make a list of these feelings and be on the look out for them ',ne
+' for instance, if we feel furious it may be better to take a one hour and calm 
+down ',ag
+' then when we are calm, focus on our feelings and needs with others ',ne
+' many times in the past we have like a when we feel angry or with others or our
+selves ',ag
+' for more information on nonviolent communication click here ',ne
+' - had one hell of a good at hard rock cafe, lets just say it was a moment ',hp
+' - rome was fun with my best friend hanz, we managed to run out of money by the
+ end and had for dinner at ',hp
+' - yoga at was awesome, didn t want to leave ',hp
+' it was sun, beach, tan, great ',hp
+' meals, beautiful sunset, and i manage to pull off the yoga by the end of it ',
+hp
+' - felt sick eating crappy food, but now back into the bad of coffee, shift wor
+k, and eating on rd ',dg
+' - was coming for a visit in nov, mom and dad decided to come along, so now str
+ess and restaurants, will be depressed when they all ',sd
+' - help out with a at bouremouth, with the conservative party, had the of takin
+g of the mr. cameron and his whole ',ne
+' - going on training next week can t wait to get pissed with all the graduate '
+,dg
+' sorry for the rather crappy update, will try to do a proper one later ',dg
+' yay!! ',hp
+' - might be going to as (it will be a 9-5, weekends) really hope they pick me, 
+i had enough of guest these days ',ne
+' don t know what the point in that title is for but neh >> i ve been sick today
+ and on the of tears._.; i don t know why ',sd
+' i talked to earlier on msn for the first time since i her and yeah, it was fun
+ i guess ',hp
+' i haven t been quite in my head, dad woke me up early because he brought home,
+ and then i went back to bed ',ne
+' i called dad a few minutes ago on my cell and they were at her house so i gues
+s she was out of the hospital ',ne
+' i don t know why, i m just of energy and want to cry constantly and for i don 
+t know why ',sd
+' neh ',ne
+' i don t know what happened to my happiness, i woke up feeling down and and inf
+act it s worse ',sd
+' i m losing out of things i love to do and thats never a good sign ',sd
+' i don t even feel like doing anything right now and i m having force myself to
+ update this ',ne
+' the conversation was funny, i mentioned that if the word got out about our pla
+ns we d have to escape the earth to avoid the police, holy/hold, the military an
+d etc and yeah xd j.c. suggested she could try and make a but then i suggested w
+e could sneak into and steal a ',hp
+' it was hilarious ',hp
+' but not something to be taken literally, we re just girls ',ne
+' i m with someone on gaia, they seem to have a lot in with me n.n it s fun ',hp
+' neh ',ne
+' cassy said she ll be back sunday night ',ne
+' i can live with that, i wish i had something to do though._.; i feel lonely ',
+sd
+' ',ne
+' i dunno what else to say though except it s shocking that i m early ',sp
+' other than that i also got a from my to get the i up since the move and etc. m
+eh, i miss cassy ',sd
+' t_t ',ne
+' but heh, thats basically it ',ne
+' well short one anyway ',ne
+' it s yet another white man subject that even has socialists and revolutionarie
+s saying hey, hold on a second! ',ne
+' yes, the veils that many muslim women around the world wear ',ne
+' listen ',ne
+' let s ',ne
+' the veil is often as being the ninja outfit, where are completely covered so a
+s to see only the eyes, or in some cases nothing at all ',ne
+' this is called the nikab ',ne
+' hijab in islam actually means or privacy ',ne
+' the is the actual headscarf ',ne
+' islam women to be modest, henceforth many of them wear the hijab, or headscarf
+ ',ne
+' a fatwa, or islamic legal makes it clear that women are not to wear nikab - bu
+t rather this is a issue within more conservative or radical of islam (just like
+ the west has some christian right wackies) ',ne
+' it most certainly even more anti-muslim sentiment but also more anti-french se
+ntiment even amongst it own non-christian communities ',ag
+' the germans have passed similar laws, much to the of its large turkish-muslim 
+population ',sd
+' the brits, for their true status amongst the europeans, have began in this wat
+er ',ne
+' not the on ',ne
+' the well integrated, but muslim community is not so happy about this ',ag
+' and i m afraid it could get ugly ',fr
+' he clearly stated that he feels the veils should go -- but that it should be o
+ver a period of time and from within the muslim community ',ne
+' not to mention that many muslim women are saying women should thank jack for t
+his ',ne
+' what i do know is that there are many, many woman who absolutely and willingly
+ cover themselves with a headscarf for religious purposes ',ne
+' it is also true that many muslim in the world their women to wear the veil ',n
+e
+' france says no head scarves, no nothing -- look like a sexy french school girl
+ with your belly button hanging out ',ne
+' has a similar issue ',ne
+' now has a large population coming to study here so they can wear what they wis
+h ',ne
+' islam is very secular, and indeed seen by most european leaders as a model exa
+mple of the of islam they want being taught in their number of and s within the 
+',ne
+' the hijab is accepted and tolerated, as are the nikab (which is an extremely s
+mall of muslim women) ',ne
+' the muslims too have yet to seriously address the fears and concerns of white 
+westerners - who have opened their doors from some of the worlds worst and ',fr
+' this door has to swing both ways ',ne
+' muslims too need to understand the fears and concerns of secular westerners wh
+o now have to deal with islamic rules within their own communities ',fr
+' if women can run around half naked, can eastern women completely cover themsel
+ves ',ne
+' there is no black and white my friends ',ne
+' and look at each other eye to eye ',ne
+' i m extremely sad to say that it looks as though the skyline will be on an as 
+of this past thursday ',sd
+' essentially, christian is with what direction, musically, he wants to (whether
+ that be skyline or not), whereas in light of the confustion, i (mike) have deci
+ded to leave the project ',ne
+' with that, some of the new songs that never were will be posted shortly for th
+ose of you who want to hear it ',ne
+' sorry for the letdown, and i can t speak for everyone else, but i d rather hav
+e this happen now than later ',sd
+' (our individual pages are under the "members" section) ',ne
+' you ll all of any skyline updates and/or updates of new anyone from (past or p
+seudo-present) ',ne
+' well, my mil arrived yesterday ',ne
+' the one bad thing is that she got news this morning that her 21 y/o kitty, aun
+t becky, passed away last night ',sd
+' she knew the kitty was not doing well (she hasn t been for a while now, but ke
+pt rallying), so it wasn t a shock at all, but still sad ',sd
+' i think aunt becky was waiting for my mil to leave yesterday for her trip here
+ ',ne
+' aagii, my mil s neighbor, is of the and is very in her ways ',ne
+' my and niece came over yesterday afternoon to collect our great-nephew, brando
+n ',ne
+' he wanted b to stay at least for today so that he had a day off to play with h
+im ',ne
+' they still are not sure what is going on with the kidney as it appears to be "
+peeling like an onion", but his and and such are out and he is feeling better ',
+hp
+' hey, how has everyone been lately ',ne
+' and there has been so much going on ',ne
+' do you know the feeling ',ne
+' so last week was the long weekend and it was sooo ',hp
+' my sister came back from university and it was (surprisingly) nice to spend ti
+me with her again! ',sp
+' lol just kidding ',hp
+' anyways, on monday i got to see some of my people and that was really fun as w
+ell :) go inc. ',hp
+' and i believe that god gave me this amazing opportunity for a reason and there
+ s no way i m turning it down ',sp
+' please just pray for me and the trip and the other people who are going (i m n
+ot sure who yet so i keep it on the ',ne
+' lol) ',hp
+' i just feel like we re all getting caught in the of life (hehe what a funny te
+rm) and i just wanted to you guys to not forget about up on each other ',hp
+' sometimes, all we need is that little or to get us going again ',ne
+' :d lol wow ',hp
+' besides from that random addition by my self i hope you know what i m trying t
+o get at, because i know for me, that s how it is. i need you guys to help me th
+rough ',ne
+' first of all, i would like to say that i am proud of myself ',hp
+' what i in one day today, was not possible to me last week ',ne
+' i walked into my first period only to find a sub ',ne
+' i asked the sub if he did not mind my taking over, and of course he ',ne
+' so the bell rang, the sub himself and i took over ',ne
+' i allowed them 10-15 minutes to finish up the work from yesterday before we be
+gan a new piece of ',ne
+' this was a very short reading so i gave the class an to go along with the read
+ing ',ne
+' the period ran under my direction most to me. i actually liked being thrown in
+to the situation without having prior knowledge ',sp
+' on the other hand, i did know that today i was to teach a full period lesson t
+o my for 3 &amp; 6 ',ne
+' i began my lesson by explaining what the term "mood" meant ',ne
+' to give them a better understanding of how "mood" works, i presented them with
+ a paragraph that i wrote on the ',ne
+' after i was done reading my paragraph, i had the students tell me what was the
+ mood i had ',ne
+' that was a into today s story ',ne
+' i gave a brief background on the author and the story before we began ',ne
+' after certain spots, i would have them go over plot summary just to make sure 
+they were along ',ne
+' after a discussion, i asked them to take out a piece of paper ',ne
+' they on their papers, then shared out as a class ',ne
+' wow, i ever have plans ',sp
+' i went to the ovac volleyball tournament this morning, and was gone almost all
+ day, and i m going skating with one of my friends tonight ',ne
+' i m the ',ne
+' and the parents club decided to pay for our breakfasts, so i got a free ',hp
+' i tried to pay her back, but she wouldn t let me. so i got a free sweet green 
+tie-dyed ovac shirt, too ',hp
+' today rocks ',hp
+' i was gonna call my best friend and see if she wanted to go, but she wasn t th
+ere ',ne
+' she s not a skating-type person, though ',ne
+' we ll just have to her down to the one of these days, lol ',hp
+' i love skating ',hp
+' i always fall on my ass every five minutes, though ',ne
+' i my skates, and i don t like ',ne
+' o___ ',ne
+' what can i say ',ne
+' she s amazing ',hp
+' like, most on my top favorite authors list ',hp
+' in fact, there s only about three authors books i will buy, no matter the ',ne
+' and yes, i read hundreds, thousands of books from other people ',ne
+' i m a ',ne
+' i love making up stories, retelling stories, and writing down everything ',hp
+' i know that ',ne
+' and after reading s story about how real her characters are ',ne
+' mine pretty much are ',sd
+' the story leads me, not the people who grace the page ',ne
+' what they like to eat, what music they like, etc. and i don t! ',hp
+' ',sd
+' well, i know that a lot of my friends are writers, too ',ne
+' hm ',ne
+' well, any on writing would be ',hp
+' when ordering a tonic, you mean a coke ',ne
+' you actually enjoy driving around ',hp
+' you know how to the of like worcester, billerica, haverhill, and ',ne
+' you know that there are two brothers, and that they re both ',dg
+' you know what they sell at a ',ne
+' you can actually find your way around boston ',ne
+' you know at least one guy named sean, pat, whitey, red, or ',ne
+' you have never been to ',ne
+' the of the is taught in public schools ',dg
+' you own a "yankees suck" shirt or hat ',dg
+' you think is the ever ',ne
+' you pray for the red to win the world series not this season, but in your life
+time ',ne
+' you know that "big dig" is also a kind of ice cream you can get at s ',ne
+' you never go to "cape cod", you go "down the cape" ',ne
+' you re that there is a town, somewhere in massachusetts, named where they have
+ the outdoor market in the world ',ne
+' you know that the mass pike is some sort of strange weather line ',ne
+' you do not the letter "r" as a part of the english language ',ne
+' you ve on your brakes to a know at least three s, one and a frankie paranoia i
+n if you can t see a donuts, atm or within at all times ',ne
+' year round you still try to order from burger king you order coffee in you kno
+w what is you drive 45 minutes to new to $5 in tax you ve pulled out of a side s
+treet and used your car to traffic so you can make a left ',ne
+' you ve about the money you ve saved at the christmas tree shop you know what a
+ "regular" coffee is. you actually get these and pass them on to other friends f
+rom massachusetts ',hp
+' so, ok, this happened like week before last, but i thought it was funny enough
+ to mention today ',hp
+' so brandon and i were out one night at home, after being out all night, and we
+ decided to step out on the patio for a smoke ',hp
+' well, the new dog; louis, went running out onto the patio and up a storm, as i
+ stuck my head out, there sat this stupid young dude trying to break into my nei
+ghbor s (across the street) car ',ag
+' 911 asked "is it a white guy or a latin guy" ',ne
+' one cop came, he talked to me for two seconds and then drove down the street a
+ second ',ne
+' this time, unfortunately, he d broken into the car already and was things out 
+',sd
+' i pick up my phone on the balcony and call the cops i m walking behind this ',
+dg
+' the cops come nowhere this time ',sp
+' so 12 cops to one car break in ',ne
+' so basically i ve met three new neighbors and we have like a community watch g
+oing on now ',ne
+' but now i feel much and safer, and the neighbors all love me. did i mention it
+ was after 2am every time the break-in ',hp
+' they still love me, even though i woke them up at the butt-crack of dawn ',hp
+' it s a beautiful thing ',hp
+' =o) although i feel like i ve been on a really bad of law &amp; order now ',sd
+' there are moments in our lives when we find ourselves at a ',ne
+' afraid, confused, without a road map ',fr
+' of course, when faced with the many of us would turn around and run back ',fr
+' but once in a while, people push on ',ne
+' into something better ',hp
+' something just beyond the pain of going on alone and just beyond the and it ta
+kes to let someone in, or let them away ',sd
+' and it s only when you re that you discover who you can be ',ne
+' my worst fears have been ',fr
+' no ',ne
+' no nothing ',ne
+' i only know that it could be anytime within the next 60 days ',fr
+' there s nothing else i can say or do to change the situation ',ne
+' woot i finally got an ipod with video (30g) ',hp
+' its kinda bad because i was feeling really sad/unhappy the day i it ',sd
+' but i ve been wanting it for like a year now, just never had the money, and ne
+ver wanted to it ',ne
+' but oh i was a bad girl and put it on my best buy card ',sd
+' i got a black one, and its so sexy ',hp
+' i got a case for it, but need to get some clear sheets for it too ',ne
+' maybe a full case too, because the lil black thing it came with is a little to
+o snug, i have to force the lil bitch into it all the time ',dg
+' hey ',ne
+' ~apple ipod sock ',ne
+' i lost 3 this week ',ne
+' ',sp
+' its not that much but hey its something ',hp
+' the season is ',ne
+' we had our first snowfall just the other day, the have gone to sleep and final
+ly the have stopped falling on my and me when i take my still lame dog out to ta
+ke a shit before bed ',fr
+' a lot of things have happened to me in the past six months, since the beginnin
+g of summer ',ne
+' three very dear friends of mine have lost very important people in their lives
+, and i have had to be the strong one they can on ',sd
+' though i do not mind this one tiny bit it has been odd for me. i m rarely the 
+strong one ',sp
+' i am usually the one to laying on the big green couch in the position eating a
+nd crying about nothing and everything all at once ',sd
+' turns out it has just made me question pretty much everything that i thought i
+ knew ',ne
+' didn t see that one coming ',sp
+' well, maybe i do ',ne
+' but that scares me even more ',fr
+' talk about a life change ',ne
+' i love him and will forever, but i definately was not ready for that ',hp
+' i find myself again, stuck in a place where i have to myself all over again ',
+ne
+' in a word, lost ',sd
+' i feel lost ',sd
+' very to everyone and everything, not sure where to go from here ',sd
+' but i don t want to admit that yet ',ne
+' so stay ',ne
+' another two words for you: john ',ne
+' gotta those quarter-life for all they re worth ',sd
+' don t get another one for 25 more years ',ne
+' have a great idea for a new ',hp
+' want to get it done in time for the next snowfall ',ne
+' well, i seem to have done that ',ne
+' i didn t mean to hurt this person at all ',sd
+' i was just scared ',fr
+' i m scared of my future ',fr
+' i look ahead and i want to see me being a missionary/psychologist, married, wi
+th kids, and a great life ',hp
+' however, it seems the decisions i have been making are that ',ne
+' un-happy people ',sd
+' people get divorces, commit and i don t want that ',ne
+' i don t want to get hurt ',sd
+' *sighs* i have a bad of hurting people before they can hurt me. like if i thin
+k that someone could and might hurt me then i hurt them first ',sd
+' then i think if i commit myself to this person only, what if i m missing out o
+n someone else ',fr
+' what if this isn t the right person for me and i m making a huge mistake ',fr
+' but then i also think what if they are the right person ',ne
+' some people say, "katrina, do this," others say, "katrina, do that. ',ne
+' i don t know!!!!!!!!! ',ne
+' i ll wait for god to show me what he wants me to do ',ne
+' i just have these moments when i start trying to do things without god and tha
+t never works ',ne
+' i ll post back when i get it ',ne
+' today has been a long day lol ',hp
+' we lay him on our and he out pretty fast and now hes so used to it he won t sl
+eep in his crib or so we have to find a way for him to sleep in the crib ',ne
+' doctor says not to let them sleep on there belly for a while and thats the onl
+y way he sleeps good ',hp
+' lol ',hp
+' i need a nap though i will tell you that lol ',hp
+' lol ',hp
+' he sleeps most of the day and then never sleeps at night ',ne
+' oh well i know its something that comes along with having a baby lol ',hp
+' i will be glad when my mom gets here so we can go to wal-mart and then i can c
+ome back home and take a little nap ',hp
+' i am not to about going over there ',ne
+' lol,and so we we would just go to six ',hp
+' haha ',hp
+' thats what you get for it in my face that your 21 and im not! ',ne
+' lol ',hp
+' our one year anniversary, we had this month,david s birthday today,other famil
+y members that are this month,halloween and of other stuff lol ',hp
+' i still need to do laundry later and i need to do the and then maybe just mayb
+e i will get to lay down for a bit before he not lol oh and for everyone that wa
+nts to see the baby if there is not a nice day coming up you may have to come to
+ my house because its to cold for us to be taking him out in this weather,i don 
+t need a sick baby along with my hundred other problems lol,that or you can come
+ visit when we are over at my grandpas,other than that your s.o.l on seeing my l
+il lol ',hp
+' maybe it is, i dunno ',ne
+' i am once again becoming an ot whore, which was originally to buy myself a new
+ gun (springfiled xd40 3" subcompact) ',ne
+' the ot now is to make enough to pay on time, not to buy new and fun things ',h
+p
+' at least the of gas is going down, $1.99 across the street now ',ne
+' the job is still just that ',ne
+' i have a new of and i, which i will post shortly ',ne
+' we just 3 great months on the 8th, and last night we (she brought me a pumpkin
+, it was pretty sweet) ',hp
+' got moved to one of our "together" nights, so that puts a small on the time we
+ see each other for every week ',sd
+' oh well, at least we can make it work without lots of time ',ne
+' it s kinda far from where i am, but it is worth it ',ne
+' the shooting is for the most part between 8a and 10p ',ne
+' this is good for the odd hour like me. also, there is a 25 outdoor range, whic
+h a variety of loads (shotgun, magnum, etc) ',hp
+' the best part is, i pretty well there, and the lighting is really good ',hp
+' if anyone is interested, it s the club, and can be found on the (just it s nam
+e) ',ne
+' i ll write more later ',ne
+' we are starting to get some interesting ',hp
+' i made contact with various types who deal specifically with the and stand dow
+n concerts on a variety of military in california ',ne
+' who knows where we will be playing in 2007 ',ne
+' in the mean time we have a huge party in and the and music festival for june a
+s well ',ne
+' anyone who wants one i will send one ',ne
+' ha ',hp
+' wouldn t that be a gig! ',ne
+' leaving for irvine on the 18th for ',ne
+' i m at penn state for the weekend ',ne
+' but i love it ',hp
+' like thousands of people into the street last night for excitement ',hp
+' lots of people had sex ',ne
+' tonight is the michigan vs. game ',ne
+' maybe i ll put on some ',ne
+' wow ',hp
+' last night i had a long discussion at 4:30am about and ',ne
+' i don t drink anymore ',ne
+' and this hair ',ne
+' that s a way of saying ',ne
+' your hair looks like shit mary ',dg
+' she has 4 boys staying her who attend west point ',ne
+' they re cute ',hp
+' so i down the and slept until right now ',ne
+' everyone is gone and i just cleaned up, so now i m going to up my buttons, tak
+e a long hot shower, put on my and my adorable coat, and make my way downtown ',
+hp
+' ',fr
+' i almost died ',fr
+' look at me! i m like on straight television ',ne
+' oh and ps. ',ne
+' totally mine ',ne
+' the other week i was at with and company and the crack house came up ',ne
+' "how much you give me for this bacon? ',ne
+' nevermind, i ve got an test i could be for ',ne
+' ones worth retelling ',ne
+' within a week i on and won about 14 cookie ',hp
+' they are just so cute i can t them although i think i am under control now ',h
+p
+' i still have six that have not arrived yet ',ne
+' the lady at the post office is starting to laugh at me. where am i going to pu
+t them all ',hp
+' i have only had one bad experience on ebay so far ',sd
+' one cookie was not packed well ',ne
+' it was broken ',ne
+' i the and told him about it and he was very and rude ',ag
+' well, to say his packing job was far any i have seen so far ',ne
+' i told him he was a f----ing a--hole and gave him a negative rating ',ag
+' he in turn gave me a negative rating ',ag
+' man. i just can t seem to keep out of trouble ',ne
+' and because i am such a the negative rating had me bummed for awhile but now i
+ am better ',sd
+' i even sold a few things on ebay ',ne
+' i see frankie at the has several electric ',ne
+' will have to work on that enterprise ',ne
+' we have been staying pretty close to home but still having a good time ',hp
+' it has finally cooled down a bit which is a big relief ',hp
+' there always seems to be much to do around here and we don t seem to get much 
+done ',ne
+' i love my "nap and story time with booboo every afternoon. ',hp
+' that means i on the couch with a good book after lunch and booboo my cat is al
+ways out on my ',ne
+' then he wants to put in an system before we plant grass in front ',ne
+' it just all takes time and money ',ne
+' well, must go put dinner in the ',ne
+' today i also made a food cake with chocolate chip ',ne
+' y all have a good night ',ne
+' oh shit, day by day update ',dg
+' so, i love 4 day weeks of school, i really do ',hp
+' thursday ',ne
+' then later hung out with some until like 12 ',ne
+' chels and i cleaned my room, which was much needed ',ne
+' i came home and got my stuff together to go up to the kid s camp ',ne
+' first off, it s a hike to get up to this place, and i can t see worth shit in 
+the dark ',dg
+' we were up there for awhile and why or how, but ryan me off of this and i fell
+ on my back scraping my up, which hurts ha ',sd
+' then they were cutting this damn tree down, and they made me go with then by m
+e over since i didn t want to go, and when i tried to sneak away ',ag
+' i guess i walked behind ryan right when he swung this huge ass and he swung it
+ right into my face ',ag
+' not only all that, i ended up calling aubrey, and up like a baby, because i re
+ally do miss her and everything we used to have ',sd
+' even after getting off the phone with her, i forever ',sd
+' plus, i didn t eat anything at all yesterday, and i ended up getting really si
+ck ',ne
+' it was real lame ',dg
+' ehh other than that it was a good time ',hp
+' today, chels made me a since she loves me, and i had some so i feel better ',h
+p
+' i m going out for a little tonight, and then i m gonna see if and want to stay
+ ',ne
+' it all started a month ago in class (at least that part sounds way cool. ',ne
+' yeah, i know, right up there with laughing off a few indians ',hp
+' anyway, i get home and notice my feels kinda ',ne
+' but after a month, that hasn t really happened ',ne
+' but my g.p., who usually just stuff for me over the phone, starts throwing aro
+und words like "orthopedic," "surgery," and "x-rays" and i start thinking, "oh s
+hit! ',dg
+' of course once he says the words ("degenerative arthritis" and "not at my age"
+) i do a total brain and hear pretty much nothing afterwards ',ne
+' so what s a girl to do to herself up ',hp
+' so i m old, but i have these really cute to show for it ',hp
+' my pool used to lie before me like a pretty lake and i rarely gave it much tho
+ught ',hp
+' well, you know what ',ne
+' in the last years ',ne
+' job, wife, two kids, house, car ',ne
+' the path that society down for people like me ',ne
+' the times i have felt most free, most alive ',hp
+' the times we have been at our best, have ',hp
+' a line or a page or an act ',ne
+' read backwards ',ne
+' or just set fire to the whole thing and made it up as we ve gone along ',ag
+' this is me, my self-fashioned self ',ne
+' this happened again today ',ne
+' sucks for but he said he wouldn t let me drive with the anyways ',dg
+' plus, this means i can get my in which means it will be good for 65 years! ',h
+p
+' i know i can drive that s not my problem i just need to study more for the wri
+tten ',ne
+' happy birthday jamie! ',hp
+' but i m free til aug. 31st ',ne
+' everybody call me. just letting you all know i suck at at tests ',dg
+' first: heh heh heh, so appropriate me ',hp
+' "i dunno, the button and find out. ',ne
+' i leave for london in nine days ',ne
+' couldn t the fucking terrorists decide to get caught, you know, after i landed
+ ',ag
+' they had to be stupid terrorists and think in their minds that they d change t
+he world ',ag
+' or convert everyone to islam, or just blow you up one by one in a fucking plan
+e, train, or ',ag
+' let me how long that ll take with current of and the current world population 
+',ne
+' so fuck off ',ag
+' so far, all you ve done is to cause international the annoyance of having to h
+and over their and make sure their baby s isn t by drinking some ',ag
+' you ve less people in the last six years than we did to ourselves in a week in
+ 1916 ',ag
+' so fuck off ',ag
+' if you read history instead of fucking all the god damn time you d realize we 
+re capable of raining destruction upon ourselves in a very manner, thank you ver
+y much ',ag
+' we do it much better anyway ',ne
+' how about you ignore us, we ll ignore you, you all can go to heaven and we can
+ all be and through our evil ',ag
+' the state of our ',ne
+' what do you care if all are all bad ',ag
+' the might drop to 45 or something ',ne
+' i m being a little here, but i m sure you get the point ',dg
+' oh right, i forgot, that s a no go area either ',ne
+' you may think yer winning, but yer not ',ne
+' because you are annoying us ',ag
+' which is worse than pissing us off ',ag
+' because when you piss us off, we have to used restraint ',ag
+' we have to be ',ne
+' when you annoy us long enough no one will care about restraint ',ag
+' we ll just let our do whatever the fuck they want because we want to our fucki
+ng teeth on a plane after some really bad food ',ag
+' never the power of wide spread and annoyance ',ag
+' i am a rational, intelligent, rather well informed individual ',ne
+' and i m annoyed ',ag
+' in nine days i will spend probably 5-6 hours in aiports, whereas, 10 years ago
+ ',ne
+' why must i show up three hours early for my flight ',ne
+' its your fault, it really is. so when i m standing in line, or waiting around,
+ i ll be thinking of you ',ag
+' trying to keep my rational and mind from to bad thoughts about how stupid the 
+human is and how religion is nothing but trouble ',ag
+' and try and with those being ahead of me and making for an even wait in line '
+,sd
+' fuck off ',ag
+' the job was today ',dg
+' well, actually, i have to be, but ',ne
+' it s annoying as all get out ',ag
+' he ll be like ',ne
+' but i sent in a check 3 weeks ago ',ne
+' i look up the address he to me and see that no has come in for 5 months ',ne
+' then they throw a little fit for 5 minutes as i myself over and over ',ag
+' and then they hang up ',ne
+' and then i get an equally call ',ag
+' this happened an amount today ',dg
+' so ',ne
+' but really, ive only had the job a few weeks ',ne
+' that never happened ',ne
+' and then the was all pissy with me over some i was doing wrong ',ag
+' i saw phil ',ne
+' we sat outside on his ',ne
+' talking about running into traffic and killing himself, and doing ',ag
+' sheldon and i told him to shut up ',ag
+' he got up and said he doesn t have to take this from us and was especially ang
+ry at me. i was a bitch to him ',ag
+' i tried to control myself ',ne
+' he was so good-looking ',hp
+' he has a new eye ',ne
+' words like that made me and phil stop smiling, look straight at sheldon, and s
+ay "shut up" at the same time ',ag
+' it s still too soon to make those comments ',ne
+' hell, never make them ',ag
+' because he knew i needed the ',ne
+' a couple of times sheldon would say things to him and he would get angry and t
+ell him to shut up ',ag
+' haha ',hp
+' i let him ',ne
+' he didn t want to make eye contact with me, but we made eye contact a lot ',ne
+' it was brief, and every single time, we would smile ',hp
+' and i didn t try to touch him ',ne
+' the whole way there he was onto and like a and his friend (who came along) got
+ a punch in the nuts from phil ',ag
+' i asked phil, "what the hell are you doing?" and he looked at me. like i did a
+nything wrong ',ag
+' was i wrong to be taken by that? ',sp
+' no ',ne
+' i started talking to him about why he was so mad, and he said "you called me r
+etarded", and i explained that he was being a prick ',ag
+' and he said that since he started drugs, he s a prick ',ag
+' and that it s him now ',ne
+' he "whatever"ed me. ugh ',ag
+' i told him he didn t lose me, and he just looked at me and didn t say a word '
+,ne
+' you just don t show it anymore. ',ne
+' phil walked away quickly ',ne
+' they followed, but daniel took two minutes to look back at me. i was angry ',a
+g
+' my expression was beyond hurt ',sd
+' "yeah, i m going to go home. ',ne
+' "no, i m going to go. ',ne
+' "is it really that hard to tell? ',ne
+' i know i shouldn t have been about it but i thought it was fucking obvious ',a
+g
+' i called home to as my mom for a ride but she said she was busy, i was near cr
+ying and she was "busy" ',sd
+' like 10 minutes into walking home aaron pulled up to drive me home ',ne
+' we hung out in his car for the rest of the day talking and laughing ',hp
+' ive missed it so ',sd
+' the trip was fantastic, was old and there were real live everywhere, salem was
+ cute and adorable but very touristy, ithaca was gorgeous and adorable and was t
+here so the whole thing made me very happy and clearly that was the of the trip,
+ was beautiful but boring once you ve seen the falls, was but had great and now 
+im home, and i think it s the most wonderful place ive ever been and i dont ever
+ want to leave ',hp
+' well, give me two weeks and i ll be out of here but for now, it s good ',hp
+' it was wonderful to be away from home but it is indeed wonderful to be back ',
+hp
+' i had a lot of time to myself in the car which i used ',ne
+' i felt particularly a few hours after we left ithaca i had finally finished st
+one garden and reading that book always me into great of ',hp
+' maybe i ll share some day, and maybe i wont ',ne
+' the only thing im sure of at this moment in time is that life is beautiful and
+ i am just so satisfied and so content ',hp
+' but for now im going to go experience how fabulous the night sky smells ',hp
+' good bye : ',ne
+' work is going well i suppose, most people are nice and i ve been of which ones
+ are better to avoid ',hp
+' they re starting to put me in other parts of the store, which is kind of ',hp
+' i ve been having random fears and lately, but that happens ',fr
+' i suppose there s been a amount of drama, including some with my ex ',sd
+' i went to her house a couple days ago and kind of we d easily be back together
+, but there seem to be a number of things in the way ',ne
+' it ll turn out one way or another ',ne
+' as always ',ne
+' woot ',hp
+' yeah ',ne
+' later ',ne
+' but i, with my mad skills, was able to convert it to the color space while the
+ and of the image, including the ',ag
+' and i did it in about 10 minutes ',ne
+' i m the man ',hp
+' p.s. if you don t understand exactly what i did (it s a bit technical), just k
+now that it was impressive and i rock ',hp
+' so it s friday night and here i am in front of the computer screen ',ne
+' we decided we d watch as much episodes as possible and also made a promise non
+e of us would use the computer ',ne
+' but anyway, so we watched tv during the morning and when 4pm came by, we decid
+ed to do laundry and play 3; i beat his ass ',hp
+' lol ',hp
+' then, my parents came home and i i d make ',ne
+' i guess today was somewhat fun, considering i spent the day with my brother ',
+hp
+' but other than that, i feel really alone right now because it s friday and i m
+ home ',sd
+' i haven t really been going out much and it just makes me mad since i told mys
+elf this summer i d make the best of it since i d be going to university in sept
+ember ',ag
+' gosh, in exactly one month school s going to start and boy am i nervous ',fr
+' do your job and do it well- and it will speak for you ',ne
+' congratulations- and welcome to corporate america- where the vice and and don 
+t hibernate-- they walk among you ',hp
+' i love it ',hp
+' i m focused ',ne
+' i have a 99 average in my class ',hp
+' i m loving the call center ',hp
+' when your trainer comes into the room all smiles after lunch and that she move
+d up one level- (from abt trainer 1 to abt trainer 2) and got a $10,000 ',hp
+' think i ll stay at aflac ',ne
+' it makes me sick that my trainer is 24 ',dg
+' i could be an it in 4 years ',ne
+' the opportunities are just awesome ',hp
+' the stipulation: do your time first ',ne
+' spend 1 year calls for the spread- and then be free to go to where-ever your h
+eart desires ',hp
+' just move somewhere else ',ne
+' i want that ',ne
+' i want a family ',ne
+' i ve been staying at mary s house and she keeps telling me i d be an awesome m
+ommy ',hp
+' yeah- i really would ',ne
+' i see everyday just how much good that company does ',hp
+' (the aflac all-american baseball classic) ',ne
+' she never once had a that she didn t make laugh- at least once during their ca
+ll ',hp
+' that old comes back to me- the origin has slipped my mind, but "we are the and
+ the and the of dreams. ',ne
+' the corporate world at least ',ne
+' but i ve not talked to the most important person in my life- in over a week ',
+ne
+' and it s killing me ',sd
+' i m starting to at the ends- the next step is to break- gotta give and i m pul
+ling with all my might to keep everything together ',sd
+' i don t know what to do ',ne
+' i m tired of broken promises- and dreams ',sd
+' the thread to this relationship is wearing thin- it s on it s last strand- and
+ though he may think it s cool to not do what he says hes going to- it s not coo
+l to me ',sd
+' the worst part is- i love him ',sd
+' i love him with every of everything that i am- but try as i might- we just can
+t get it together ',sd
+' it s not over ',ne
+' we re still together- and we still have the opportunity to make things right -
+ - - but i m a very person- and it s been close to 5 years now- and my is wearin
+g thin ',sd
+' i would like to be married before i m 23 ',ne
+' yes, we are having a small today ',hp
+' i am always so happy after talking to him ',hp
+' anyway, he said that since he (and all of the troop) are having to stay 16 mon
+ths, they are getting to come home for 5 whole days for leave after they are don
+e with their training (and before they go to post) ',ne
+' the rest of the troop that he was sent with thought they were only going for 1
+2 months ',ne
+' so they thought they were going for 12 and wayne thought he was going for 10 a
+nd then one day they are staying for 16 ',sp
+' and every one of them are furious ',ag
+' wayne says that the is ',ag
+' now, they don t know yet when that will be, but i don t care ',ne
+' that was the first thing that i thought "will that cut down rnr?" and he said 
+no ',ne
+' alley still hasn t had those pups ',ne
+' i told her that she better get on the ball and she looked at me and so maybe t
+hat was a yes, lol ',hp
+' if not i may have to get her a shot to ',ne
+' we ll see ',ne
+' that was one of the first things that wayne wanted to know "hows alley, has sh
+e had the pups" i think he loves those dogs as much as me! i ll never forget the
+ first tail that he by himself (it was s tail) ',hp
+' i was so proud ',hp
+' he had watched me two but still he did a great job ',hp
+' now, he that he was here to help with this image ',ne
+' but i am still sooooo excited that i ll get to see him for 5 days!!!!!!! ',hp
+' i start my very last class monday ',ne
+' "i love s" site is so ',hp
+' i feel very ',sd
+' i am going to give it a try and i if it s boring or ugly ',dg
+' i can t decide if i want to pay the to make it a blog ',ne
+' ',ag
+' i am currently angry because i want to take me for ',ag
+' he is laying like a on the couch watching csi:ny ',ne
+' it s usually star or brady bunch ',ne
+' he the brady bunch ',ne
+' if i went and got in the car right now ',ne
+' oh oh oh he is yelling at me, "are you ready to go, already! ',ag
+' like it s me holding up the show ',ne
+' three people have been off at the office in the past hour ',ag
+' when i come back from my course and return to work, i won t have a staff anymo
+re ',ne
+' now the agency is down to 3 ',ne
+' i ll miss them and can t say now ',sd
+' i will have to plan an agency party/reunion at the end of august ',ne
+' &gt;sigh&lt ',sd
+' now i m ready to get away to the and ',ne
+' and barely anyone s online ',ne
+' ',ne
+' i m excited to move in ',hp
+' and i m basically packed i never anything except clothes really ',ne
+' except i have a load of stuff in general ',ne
+' thats a lot ',ne
+' and a ',ne
+' and also because the and i have a band ',ne
+' called the (i came up with the name ',ne
+' pretty ',hp
+' lol jk ',hp
+' but i want to go ',ne
+' despite the terror ',fr
+' and thats all, for now ',ne
+' this week was fun ',hp
+' haha he s my in algebra, he had of today , &amp; just for today ',hp
+' inside joke inside joke ',hp
+' ew, we had this really crappy sub ',dg
+' for u.s. history too ! but i love that class [: walking home is always really 
+fun too ',hp
+' well for many reason that i`d rather not name online ',ne
+' she was just a pain in the ass &amp; yeeah, sucks to be her ',dg
+' on to the next subject, thursday &amp; friday ',ne
+' thursday was like, really fun ',hp
+' i was really tired since it was like ',ne
+' i never really noticed it but natalie, ryan, &amp; are fun to be around with '
+,hp
+' hahah ',hp
+' friday was even more fun [: i ended my day in the asb &amp; yeah ',hp
+' i know im talking about the asb alot but that`s pretty much whats been happeni
+ng ',ne
+' ew ',dg
+' hahah ',hp
+' janel, madilyn, desiree(sp) &amp; [note:they re all graders] first at janel s 
+house ',ne
+' i love her house ',hp
+' she had all these cool stuff i wanna take, hahah ',hp
+' after that, we saw jason, &amp; josh &amp; i guess they came with us to vetera
+ns &amp; all those ',ne
+' we pretty much are money buying 2 water that we though were ',dg
+' saw some people then headed to veterans park after ',ne
+' jk ',ne
+' hung down like at the monkey &amp; acted like little kids at the swing once ag
+ain ',ne
+' fun fun fun ',hp
+' sucks i didn t bring my camera but yeeah ',dg
+' &amp; i think tomorrow a friend`s coming over ? not sure who, haha bye ',hp
+' posted 8/11/2006 at 8:53 pm - email i ',ne
+' i must say this summer has gone by in the of an eye ',sp
+' not that i had 4 months off in the end ',ne
+' i have been quite though so i can t blame my of summer fun on ',ne
+' just once i would love to not have to worry about that sort of thing ',hp
+' and to have more than 2 weeks of time ',ne
+' i go for my interview next week along with a 2 day at ',ne
+' should be interesting ',hp
+' i was beginning to worry i have to put it off for yet another term ',fr
+' i haven t really given school much thought as of recent times ',ne
+' i started with one dream, and was working towards it, now i don t see it anymo
+re ',ne
+' hey i ll be a individual ',hp
+' ',hp
+' i m really in it just for the money ;) ',hp
+' actually i just want to give the opportunity a chance ',ne
+' i still will have my degree to back me up and i true desire to go into law enf
+orcement, but for now i want to do this ',ne
+' maybe i have become lazy in thought b/c i don t bother with it ',ne
+' worry you no more minutes to your life ',fr
+' and stress ',sd
+' we have no one to blame but our ',ne
+' society has become just one big stress pool ',sd
+' our with family, friends, co-workers etc., all seem to around how crappy are d
+ay is, has been, or is going to be, and it seems all like we with one another to
+ see who has a one ',dg
+' i don t have a plan, i don t know what i want in the long run ',ne
+' one day, one week at a time ',ne
+' i love my family unconditionally, and cherish every moment with them, even my 
+sister, who pushes me over the edge, but i have developed a certain to deal with
+ it ',hp
+' i have to look at life in her perspective, and it would break heart ',sd
+' to have something inside of you that you cannot control, something that has st
+olen away your chance of a normal life ',sd
+' being alienated, being alone ',sd
+' i have a job where i have come to know some amazing people who have such poten
+tial, but possibly will never get to put it to any use due to the of the choices
+ in life ',sp
+' but they make my time at work ',hp
+' one i am not thinking long term ',ne
+' i am happy with a casual, not serious, no relationship ',hp
+' i frankly would be just as happy alone ',hp
+' maybe more so ',ne
+' they are better off where they are now ',ne
+' hopefully the right one ',ne
+' i have a list of things i want to do during my time, and each day i add someth
+ing new to it ',ne
+' lol, lets just hope i don t run out of time to complete it ',hp
+' it says a lot, even if it was written by a comedian ',ne
+' i guess i fit the group the article to, in regards to having only 2 or 3 frien
+ds that would fall into the "support mechanism" category, if only because of or 
+being taken into as well ',ne
+' one of those 3 will be moving this fall, and the others have an awful lot goin
+g on in their lives, in addition to being less than the first by a long shot any
+how ',sd
+' i definitely feel like, than any other time in my life, i m operating almost a
+t the ground floor in regards to the friendships i have and the way i interact w
+ith those friends ',ne
+' i ve a lot of bridges and in decisions which have my ability to be as much as 
+i d like to be by some of my friends, and likewise, there have been things which
+ have my ability to fully engage some people as well, be they or or whatever ',s
+d
+' we re getting older, we have a lot more work-related matters and our personal 
+lives can get pretty complicated ',ne
+' on a "big picture" scale, i d like to believe that i still hold the same syste
+m that i held when i was 18 years old, now a scary half-a-lifetime ago ',fr
+' all in all, i m satisfied with the bigger picture and angry as fuck at the sma
+ller details, but that s what keeps you going, isn t it ',ag
+' if i didn t have the desire to be better than what i currently am, would i hav
+e to keep living at all ',ne
+' as far as "support mechanisms" go, i ve seen what they do to people- at their 
+best, they act as a to help people reach things both within and outside that the
+y may not have been previously able to reach ',ne
+' home may be where you hang your hat, but happiness is sometimes found far from
+ home or in the last place you d even to look for it ',hp
+' i think sometimes it can be easy to lose track of the idea that happiness and 
+are two completely separate and having one does not guarantee or equal having th
+e other (some of the time, at least ',hp
+' it goes back to that whole journey vs. idea, in that some people only success 
+by at a goal, while others are capable of enjoying the efforts required to reach
+ that goal as well ',hp
+' now which one are you most of the time ',ne
+' friendship works the same way- some people only appreciate friendships which a
+re and goal-oriented, whereas there are also friendships that along the way, and
+ each moment can be as interesting and as the ones before and after ',hp
+' i know i m guilty of that all the time ',sd
+' often we to realize what we ve lost until something becomes too and difficult 
+to ',sd
+' old into something that can t be healed, becomes which then becomes amnesia, a
+nd before long you wonder if it ever happened ',sd
+' it sucks, and it takes effort to keep a friendship from heading down these sor
+t of paths, but the effort far the of to do so ',dg
+' so what does this mean to me then ',ne
+' i can only change my own mind, so whatever efforts i have to be met with some 
+sort of equal efforts or the process goes nowhere and me the entire way ',dg
+' is it worth it, or is it better to just let play out its hand and look for a n
+ew deal ',ne
+' i guess i do what i can to make the most of what i have, if it s not enough th
+en it likely never was, and in that case, at least i know i tried ',ne
+' as of late, it seems that everything my parents do, they do it just to annoy m
+e. they re great parents ',ag
+' i love them ',hp
+' god are they annoying me ',ag
+' i m not going to go into here, but it almost always ends up in yelling and tea
+rs ',ag
+' i was thinking about our most recent today at dinner and wondering why the hel
+l everything turns out this way ',ag
+' my only is that i want out ',ne
+' now, i know that i will reach this place soon enough, but damn it feels like i
+t is taking forever ',ag
+' i know its normal for someone who s in college to be living with their parents
+, but that doesn t the wish to be independent and free ',ne
+' fucked off ',dg
+' lots of angry with half finished work, a boss who pays for the furniture but h
+as no idea how to run a business ',ag
+' oh yeah, and the best part ',ne
+' it s been a week and i m still really pissed off ',ag
+' i have been trying to post for three days, but bloody was having issues (error
+s on pages) and i couldn t do it - my boss post was due to be posted on thursday
+! ',ag
+' further to that by the way, i did speak to him about it further when he said "
+my new food is making me feel really healthy" - yes considering he d two meals o
+f it, and then gone out to dinner, and friday was going out to lunch with a frie
+nd ',hp
+' he s $250 a week to eat food, and then eat again ',ne
+' but i asked him about why he doesn t cook for himself, and he said he just doe
+sn t have enough time ',sp
+' the look on my face i think said it all ',sp
+' this is the man who gets into the office at 10:30am, by 3pm, takes 20minutes t
+o get to the office, dry all his clothes, has a cleaner, doesn t have a wife or 
+family to after - and he doesn t have time?i explained that i 1.5 hours each way
+, every day to go to work, i go to the more than he does, i cook my meals, i hav
+e a life, and i have a house to look after ',sp
+' let me see - golf, sitting on a beach drinking coffee, bitching about money, b
+eing a complete ',dg
+' great life choices right there ',dg
+' no wonder he doesn t have a if his of more important things than actually look
+ing after yourself like an isn t important enough ',ne
+' ',dg
+' i think though, what pisses me most off about the food issue - is that he has 
+chosen the easy "i don t have to do anything" option ',ag
+' but since he has chosen this option, it s just really me, because he has no co
+ncept of a weight problem - he just is lazy ',dg
+' he could easily cook his own food - his kitchen probably cost more than half m
+y house ',ne
+' aarrgghh!! ',ag
+' sorry for the post, but i m just really annoyed that here i am, struggling wit
+h all my about my weight loss, and someone like this, with no concept of struggl
+e, can just pay someone to lose it for him ',ag
+' she on her brakes, stops her car, right in front of me, in the middle of the s
+treet, and gets out ',ag
+' then she comes up to me and starts yelling at me ',ag
+' "you like almost hit me omg." she said, her hair like an horse, ',ag
+' i m not very nice, not when death ',ag
+' "omfg if there is like ',ag
+' " she ',ag
+' i must admit, i was kind of fascinated by the way her eyes, in black eyeliner,
+ managed to stay so wide open like that ',sp
+' it went on like that for a good minute ',ne
+' finally i got up ',dg
+' write down my plate ',ne
+' this was when the turned into some sort of from hell ',dg
+' she grabbed the of my bike, and tried to push me off ',ag
+' now, people are already and stuff because her daddy s is blocking the intersec
+tion ',ag
+' we re struggling with my bike ',ne
+' i got mad ',ag
+' i hit that bitch so hard ',ag
+' hey, she me. in the middle of an intersection ',ag
+' and i was on a fucking bike ',ag
+' fucking a ',ag
+' must have been a job gone bad ',ag
+' and i found out in the most annoying way ',dg
+' i woke up on wednesday morning, bright and early (as i do) to go into work/uni
+ ',ne
+' i walked over to the as the first of call and was very surprised when oh! it w
+ouldn t turn on ',sp
+' but then one of my housemates, who was already up, informed me that no, it was
+ that the wasn t working anywhere in the house ',ne
+' - i then spent the next 10 minutes or so turning everything off in the house, 
+the safety switch back on, and then turning everything back on until the safety 
+was ',ag
+' we tried everything to make sure it wasn t the plug/circuit itself ',ne
+' we thought for a while about what to do, not really being able to afford eithe
+r a new fridge or to fix this one ',ne
+' at first one of my housemates thought about possibly buying a new fridge for t
+hemselves, but that idea was sadly left behind due to issues ',sd
+' in then end my other s lovely (love you babes! ',hp
+' offered to give us her fridge (woooo!) ',hp
+' so, we ve now gone over 48 hours without a fridge (hate to think what half our
+ food is like in there! ',dg
+' but will joyfully be picking the other one up today ',hp
+' ',hp
+' yay ',hp
+' as we wrote in a recent posting, even in a political democratic candidates fac
+e a in turning out their base voters ',ne
+' despite among democrats with the bush administration and overall republican go
+vernance, we no real signs so far (at least in county) of a to actually vote in 
+november ',ag
+' the argument goes that anger over gas and care costs, a protracted, expensive 
+war with no conclusion in sight, and a perception among religious that george w.
+ bush has to on the social issues that them has taken a with base voters ',ag
+' well, maybe ',ne
+' as in the latest issue of us news &amp; world report, new has republican feeli
+ng pretty good about turning out their folks this fall, with that they will vote
+ to return their party s elected officials to power ',hp
+' is this or is it true ',ne
+' in other words, the for democratic candidates this political season: everyone 
+you can, turn out your base, and assume all the other guy s usual folks will vot
+e ',ne
+' i feel like i could fly ',ne
+' with a smile ',hp
+' not different me or anything, different in how i am in our relationship, compa
+red to my others ',ne
+' and we re both being the best we can for each other, and it shows, and it pays
+ off ',ne
+' we re friends and and everything that ',hp
+' i am his all his already, i know this and i hope he does too ',ne
+' and ive learned from my past relationship what to do and what not to do and wa
+tching what i say and how i say it and ',ne
+' i duno, im kinda losing track of i want to say here ',ne
+' so no i wont have my head too high up my ass about it, but im going to sit her
+e and think/dread it everyday either ',fr
+' i will cherish him ad love him and let him know im there and i care for him ev
+eryday that we have together ',hp
+' somehow ',ne
+' was a little abusive, with words and feelings directed at me / to make me feel
+ bad ',sd
+' chris had a problem with words too,and his anger ',ag
+' he could car about anything and everything as long as he got his way everythin
+g was alright ',ne
+' other than that get or pissed off or ignorant about it ',ag
+' stupid ass hole ',ag
+' gudam, why did i so much time on his sorry ass ',ag
+' oh yeh, i was sub-conciously myself and waiting for jamie >:) ',ne
+' after church i went to one of my best friend s house for lunch ',ne
+' i saw the guy i went to a dance with once back at school there at her house ',
+ne
+' haven t seen him in ages ',sp
+' goes figure he d be there ',ne
+' hm, was a bit weird ',sp
+' we had a good lunch with genelli ice-cream ',hp
+' (however you the genelli part) ah, we talked about anri s ex and her mom menti
+oned how anri was angry with her dad the one time the ex visited, cos her dad ke
+pt him busy most of the day ',ag
+' oh ya we were talking about ',ne
+' anyhow her dad asked her then at the table but why would you be angry with you
+r dad ',ag
+' "whahahaha" i nearly myself and don t think i didn t ',hp
+' that was funny ',hp
+' everyone at the table was ',hp
+' w0rd i am dead tired ',ne
+' then anri wanted to go the beach, cos she just visited for the weekend and has
+ to go back to where she in another like of s away from the ocean ',ne
+' we went in my car, cos apparently i have music ',ne
+' that be the only reason, cos everyone is scared of driving with me. >.> don t 
+ask ',fr
+' we sat on the beach and mostly i felt like sleeping ',ne
+' ',ne
+' now that was fun ',hp
+' will try and them somewhere or do something or i will see ',ne
+' i took photo s of this little girl in the ocean ',ne
+' somehow anri got the idea in her head that i had to go test the water so that 
+she can take photo s and like that was not enough i had to throw moves ',ne
+' funny photo s came out there ',hp
+' i wanted to take photo s of kiteboarders, but there were none ',ne
+' =/ and some guy on a thing that was in the air ',ne
+' i would like to just walk around or sit somewhere where people are and take ph
+oto s of them, especially like action photo s ',ne
+' love it ',hp
+' i get lost in it ',ne
+' we went to anri s house for cake and coffee ',ne
+' cake ^.^ ice-cream ',hp
+' and dark chocolate ',hp
+' wanted to go to the movies and i wanted to go to church and anri i don t know 
+what ',ne
+' we almost sat there for an hour ',ne
+' that was as clear as ',ne
+' hm ',ne
+' really sad how we can actually sit and wonder in your one hand is god and the 
+other hand is a movie ',sd
+' (non-christians, don t worry about this part i am just my thoughts, doesn t me
+an i don t you still as a person, just kinda thinking out loud to people that be
+lieve the same as me.) ',ne
+' so we went and it was nice to be there ',hp
+' they went to the movies afterwards ',ne
+' didn t think she would do it, but hey ',sp
+' i sat there drawing and uhm the phone rang and it was the police ',ne
+' i am too tired now ',ne
+' i want to a serious question to anyone out there that chooses to read this ',n
+e
+' no, i m not a stupid chick for those of you that may be wondering ',dg
+' the does seem quite obvious to me. but what if you knew you were gonna die, li
+ke possibly sooner than later, for whatever reason ',ne
+' i have a friend that is gonna die, probably sooner than later, and i was angry
+ because some of the choices he has made in the last few years have cut his time
+ down to virtually nothing ',ag
+' so i tried to step out of myself for a minute and look at things the way he ma
+y have been viewing them ',ne
+' an athelete ',ne
+' you have wonderful friends that love and cherish you ',hp
+' you are virtually ',ne
+' then things start to take a turn in an unexpected direction ',sp
+' think constant arguing, lies and deception, money mismanagement, and ',ag
+' so you decide to join the military ',ne
+' the world is still for the taking ',ne
+' everything goes well with the interview ',ne
+' you leave there with a sense of purpose and vow to take full of this experienc
+e ',ne
+' the comes in the office with a look of sadness and ',sd
+' you think to yourself that maybe you had too many traffic tickets, or maybe th
+ere was something small in your past that has presented you from being to join t
+he military ',ne
+' you begin to yourself to hear bad news and immediately go into self to plan ou
+t your next move ',sd
+' he to speak while you re planning, "i m sorry to have to tell you this(ok, i c
+an move back home for a while and go back to school and work on my degree ',sd
+' ), but we won t be able to welcome you into the forces(or i could do some trav
+eling and explore the country ',ne
+' so what do you do ',ne
+' this is the story as it was given to me, and when i heard it i was pissed ',dg
+' see, i knew he had ',ne
+' lol) ',hp
+' so imagine my surprise when i was about to engage in with him and saw an of co
+lor coming from you know where ',sp
+' she then tells me that she s gonna test me for gonorrhea, but also that she s 
+gonna have to test me for hiv ',ne
+' i m like, "for what? ',sp
+' i couldn t answer her ',ne
+' really, what did make me think that ',sp
+' i would have given this man, who had little regard for me, my life in for his 
+bullshit and lies ',dg
+' fortunately, my test results came back negative for both gonorrhea and hiv ',h
+p
+' i was of course thankful, but i realized something very important during that 
+time ',hp
+' i realized that my life to me. fuck the bullshit ',dg
+' the second reason i was pissed was because not only was my friend is dying fro
+m this disease and has had it the entire time that we have been friends, but to 
+my knowledge has not taken the appropriate care of himself that a person with hi
+v should be taking ',ag
+' he never took any other than a multi-vitamin ',ne
+' when we first became friends he was an athelete, so he was pretty fit for the 
+most part ',ne
+' maybe he that in the beginning because he thought that he could somehow his th
+is way ',ne
+' i wonder what changed his mind about that ',sp
+' i ve asked him about this, and he has never really given me an answer ',ne
+' but i think about it alot, and i wonder exactly when did he decide to die ',sp
+' i wonder what choices i would have made had that nurse from the given me diffe
+rent results ',ne
+' would you choose to live, or would you choose to die ',ne
+' however, if you are so to do so, please leave your thoughts and comments ',ne
+' my birthday is on monday ',ne
+' im going to be trashed ',ag
+' even tho i have work on monday which is my bday cause shop sucks my ',dg
+' im usually always so for my bday ',hp
+' i seriously dont know what i am going to do at all ',ne
+' it just sucks when everything known for years just ',dg
+' alfkjaslkjfasjflka;sjdf;asjfals;fjlakjsf ',ne
+' i miss myrtle beach ',sd
+' i cried on the way home from myrtle ',sd
+' for many reasons ',ne
+' im &lt;/3 ',sd
+' myrtle&lt;/ ',ne
+' its not bad here at all ',ne
+' im just annoyed ',ag
+' good b/c i dont have the money to move out right now ',ne
+' all my information is in ',ne
+' maybe things wont be so bad ',ne
+' then someone to move out with me ',ne
+' since everyone i wanted to get an with is now moving 29857938475 miles away al
+l b/c of a freaking ',fr
+' ////the way you look at me/// ',ne
+' ',ne
+' well, well, well ',ne
+' hahaha ',hp
+' well, i m surprised that i actually found it ',sp
+' so i for it and finally found it ',ne
+' hahaha ',hp
+' so, drop by and tell me what all of you are up to ',ne
+' i so missed all the cool people i met at ',sd
+' not religious ritual (like baptism) or ritual (like hands), but personal ritua
+l ',ne
+' and how i can possibly develop more rituals and in my life ',ne
+' granted, not the global, world-issues big picture, just my big picture ',ne
+' like that bag in american ',ne
+' i want the next 40 years to be on purpose ',ne
+' and how can i start now ',ne
+' one of my most surprising about this whole ritual thing is how much easier it 
+was to establish new rituals when i was on location, as to being at home ',sp
+' [it makes sense that there is concern for or who gets straight or some place o
+ther than where they live ',ne
+' so anyway ',ne
+' ',ne
+' i m not all-structure, all-the-time or anything ',ne
+' but i do know the of a life of ritual ',fr
+' i d like to say that my rituals are more and ',ne
+' but alas, they aren t (yet) ',sd
+' * every day when i come home from work, the first thing i do is put on my ',ne
+' but when i started thinking about things i do that i enjoy, that s definitely 
+one of them ',hp
+' * every other saturday, and i get and ',ne
+' and we come away with the ever ',ne
+' * a ritual i absolutely adore is going to the outdoor at the hollywood forever
+ cemetery during the summer ',hp
+' * when i m not working, i have been known to take myself to on the weekends: j
+ust me and whatever i m currently enjoying ',hp
+' maybe after this show ends, i ll be able to start a new garden ',ne
+' how very telling ',ne
+' this is not good ',sd
+' and the like are what come to mind ',ne
+' * i m happy to taste any new of ice cream (i love to try new flavors!), but wh
+en it comes to ordering, it s always chip ',hp
+' and ',ne
+' * my fear of keeps me from going to bed when i m really tired ',fr
+' or just something totally mental that i do ',ne
+' how do you think we can more rituals into our lives ',ne
+' "the image of cartoonist after cartoonist sitting at tables selling books is t
+ruly a one ',sd
+' it can be ego-crushing when no one comes to buy anything ',sd
+' - beaty, whom i had the pleasure of meeting at the show, from his on what spx 
+could learn from some european convention ',hp
+' i really enjoyed myself at spx, that of rare and and the men and women who bro
+ught the about ',hp
+' don t it, that s just my perception: i traveled the hour and a half trip down 
+on saturday with american chris (he that status by agreeing to drive), arrived a
+ half-hour after the doors opened, stayed until 5:30, then went right back home 
+',ne
+' my spx, in other words, was full of shopping and the ',ne
+' show ',ne
+' i met an awful lot of fine creators, but i taking up much of their table time;
+ heaven knows by the afternoon there s a of people waiting to through the betwee
+n tables, and one thousand distractions to attend to ',dg
+' there were no signs to direct you to the or whatnot, though it wasn t hard to 
+find someone to ask direction of ',ne
+' upstairs there were of with and and totes, and and on certain tables to attent
+ion, and even a of folks operating hand to a stray ',ne
+' all of it in a building off the highway, and and the metal of vehicles all aro
+und it ',ne
+' it was a hotel, on a road ',ne
+' after we passed by a large parking lot a furniture sale, as well as a haunted 
+and possibly ponies or something in the back, we decided to turn around and stop
+ at a little we d passed on the way ',ne
+' we back from the gray highway to the center of comics and people, followed clo
+se behind by haunted ponies who d just bought for their ghost and were now for i
+ndependent comics ',ne
+' i love walking around for things to buy, and traveling less than two hours to 
+at the comics spread of my dreams won t too many personal hackles, let me tell y
+ou ',hp
+' i m also really glad i had chris with me, since he knew a lot of faces that i 
+didn t; he made a fine guide, though one of us would occasionally away from the 
+other in the of the old version of who rabbit?, though i m unsure as to which on
+e of us was bob ',hp
+' actually, i think maybe the best thing about spx is how everyone is kind of to
+gether, comics placed near one another without much concern for subject matter (
+i heard it was a bit different in prior years, with selling rooms and all); if t
+he creators in and the books on weren t a picture of english-language non-superh
+ero comics, there was at least enough diversity to manage the of ',ne
+' to look only at this crowd, you d imagine that there was no question as to the
+ diversity of the comics-reading ',ne
+' there was nowhere to sit in the former, since i got there late, so i sort of i
+n and out of ',ne
+' someone behind me turned to someone else and "it s just like civil war. ',ne
+' the chippendale talk was different, a highly entertaining, digression-prone by
+ the artist through his history and procedure, by dan nadel and with extra bonus
+ from brian ralph, who was seated in the back of the room ',hp
+' nobody was particularly at spx, at least from among the artists, but i found c
+hippendale to be the most and creator around ',ne
+' i tried to follow s of not buying anything on my first trip around the room, b
+ut that didn t quite hold ',ne
+' books i got ',ne
+' comics #1-2 by steve peters &amp; friends (i his the origin of a few weeks ago
+; having walked away from the table, and indeed the entire convention, i suddenl
+y realized that i d forgotten to actually tell steve peters who i was - another 
+of intellect! ',sp
+' cinema #19 edited by robin bougie (new issue of the funny, comics-heavy pamphl
+et-format magazine devoted entirely to the in and film - a creator s personality
+-powered publication, and i you that robin bougie is in real life exactly the wa
+y he himself in the ',ne
+' comics comics #1-2 edited by &amp; dan nadel (i mentioned this yesterday, but 
+didn t note that i also got a hard copy of issue #1 ',ne
+' fuzz &amp; pluck in #4 (of 5) by (surely i can t be the only of the fuzz &amp;
+ pluck; still, i ve never seen this in a store, though had it at their table ',n
+e
+' 2 #1: heavy metal by various (from house of twelve, a free show debut, the ori
+ginal movie version of the magazine ',ne
+' ninja by brian chippendale (debuted at the show, probably the book of the show
+, and i ve enough already; when i went to s table, he became momentarily transfi
+xed with the transfixed and "i want to make a book like this!" ',ne
+' project: by various (debuted at the show, the in s project series of anthologi
+es, this one devoted to comics ',ne
+' r ',ne
+' so it was a nice trip ',hp
+' a lot of good things to have, and good hands to ',hp
+' i hope to do it again, and add on a few more convention experience points ',ne
+' my mother is a ',ne
+' i think it s in the gulf of mexico or the gulf of california, i can t remember
+ which, but there s so much in the water they actually sleep ',ne
+' no, it s alright, i ve had a lot of time to come to with this ',ne
+' some of my girlfriends have found it a little strange; i think it s one of the
+ reasons they break up with me in the end, as if they need anymore reasons ',sp
+' most of the time, i sit in a chair ',ne
+' to try and this, i spend my nights reading ',ne
+' how important can they be ',ne
+' but it was a good read, and if i did have a dream where i had sex with my moth
+er, well, now i d know what it means ',hp
+' sometimes, i can t reading about this condition, though ',ne
+' i didn t always have this problem ',ne
+' i think ',ne
+' all this not sleeping has a terrible way of playing with your memory ',ne
+' they really do when there s no end ',ne
+' do i go to work again tomorrow morning ',ne
+' it s sunday, but tomorrow might be a holiday ',ne
+' but i think i work on that holiday ',ne
+' how else would i keep all these days straight ',ne
+' i can t always read about this condition, or whatever it may be ',ne
+' i d tell my doctor, but i don t go to a doctor ',ne
+' i weigh about 180 lbs, i m about 5 , 10", i don t have anything that seems to 
+be wrong with me. i have these weird scars on my neck ',sp
+' something from when i was a kid ',ne
+' and there s the on my ',ne
+' i would say it was from some drunken night of excess, but i ve never out eithe
+r ',ne
+' oh, i get drunk, but nothing seems to happen to me where i forget ',ne
+' i remember every second, every moment leaning over a toilet and ',fr
+' memory, they say ',ne
+' you d think that d be a problem at work, but it s stuff ',ne
+' i spend most of my time in my and filing, thinking about what i read the night
+ before, trying to process it, trying to figure out what is/has been happening t
+o me. last night, i read as i lay dying by william ',ne
+' it s kind of ',ne
+' i think he had a point ',ne
+' i m at work, and i left the book at home ',ne
+' unless i returned it to the library ',ne
+' when it s nice ',ne
+' just my books these days ',ne
+' my walk takes me by lake calhoun ',ne
+' every so often, i walk around it ',ne
+' a of clouds cover the sky, and calhoun, from the breeze, only slightly ',ne
+' soon the lake will be frozen, everyone walking on top of it ',ne
+' just like the ',ne
+' i around the lake, and the people are slowly out ',ne
+' i, on the other hand, have nothing to go home to ',sd
+' i should have brought a book with me. then i could read at the ',ne
+' i suppose the cold should annoy me. but it doesn t. i begin to take off my sho
+es ',dg
+' but people in this, right ',ne
+' the water can t be that bad ',ne
+' people as i my feet into the lake in october ',sp
+' no one is in the lake, and i think everyone thinks something is wrong with me.
+ something is wrong me, but i still don t know what ',ne
+' a person by me and says something, but i don t know what, and i m something, b
+ut i can t place to tune ',ne
+' i think ',ne
+' but where else would i know it from ',ne
+' is right ',ne
+' i just throw my clothes in a ',ne
+' my neck as i hit the water and i sink, blowing ',ne
+' for the first time in my life i feel completely normal ',ne
+' except for some ',ne
+' what a suck-ass day this turned out to be ',dg
+' work was fucked up ',dg
+' like in on a bad trip fucked up ',dg
+' can i borrow ',ne
+' mind you, i ve been treated like the asshole of the house for the past couple 
+of weeks, and i didn t even do anything at all to it ',ag
+' and then one of them played a song that made me think of my mom, and suddenly,
+ i m so depressed that all i want to do is go up in a ball and die ',sd
+' and now the in the house has come home ',ag
+' 1st ',ne
+' but for now, i go ',ne
+' this last week at school was nuts- it was the first time that i can remember w
+here i was putting in the hours in the lab, really my ass- classes are going wel
+l and i feel like it all in- which i really like ',ag
+' it s nice kind of being able to put everything together in my head ',ne
+' i m sure by now most people heard about the really sad and murder of michelle-
+gardner quinn, a ',sd
+' it s pretty awful- there s not much else to say about it ',sd
+' i found out about it on the way to boston this weekend and i was just shocked 
+',sp
+' even just this last week there is a change in around these parts that is prett
+y sad ',sd
+' i really can t imagine what her family and friends are going through right now
+ because it s a really situation- she did not have to die and that s probably th
+e part ',sd
+' anyways, i m not sure there s anything else i can add that hasn t been said ov
+er and over ',ne
+' it was so fun seeing everyone from way back- we ran into and went out to see s
+o it was just so fun ',hp
+' work and school are getting a little intense but i ve found that i can do it- 
+i just need to stay focused ',ne
+' my brother turns 16 on wednesday (how.weird. ',sp
+' and i am excited about the little haha ',hp
+' last week was so busy that i just trashed it ',ne
+' my mom would be so proud of me ',hp
+' cold, day ',ne
+' i took again ',ne
+' i didn t see her on wednesday so i was surprised to find her at the shelter th
+is morning ',sp
+' once we got a the top of the trail and started to head down some spastic switc
+h got turned on because she started a jumpy, all over the place, picking up ston
+es, randomly on tree roots, etc. she probably wanted to play but there s not muc
+h room for that on the trail especially on the way down a trail ',ne
+' i was surprised to see her sitting so still; spastic switch must have been tur
+ned off ',sp
+' t started off with smiley; a 2-3 year-old shepard-pitbull mix ',ne
+' he has a bad left eye which i don t think he has any vision ',ne
+' during the run we were calling him lance (since he was nameless) because when 
+he was laying on his back in the grass he would kick his legs like he was riding
+ a bike; i wrote this stuff down on his but i guess the s didn t like the name '
+,ne
+' x ',ne
+' this was the cake ',ne
+' it was fun-filled ',hp
+' he turned 4 ',ne
+' this boy jumped in and it ',ne
+' he cried ',sd
+' lol [they are cute brothers, no? ',hp
+' i was scared to see him with a ',fr
+' this smile made me more scared ',fr
+' he first tore up the toy car ',ag
+' and i tore up the cake ',ne
+' :d it was really yummy ',hp
+' this is one of my co-workers ',ne
+' i think he has a on me. x ',hp
+' i adore her with all my heart ',hp
+' &lt; ',ne
+' i didn t even think about what i was wearing or anything and just left ',ne
+' christina s ',ne
+' he looked tired ',ne
+' har har ',ne
+' this goes to show you have a bigger heart than i, ',hp
+' ',ne
+' xd oh well~ he was one child ',ne
+' we need new ideas ',ne
+' this event was sooo fun ',hp
+' it was like an exciting adventure where we walked 6 miles in the cold ',hp
+' it was like 8 in the morning and so ',ne
+' and so we try to warm up ',ne
+' alex, you suck ',dg
+' i don t know ',ne
+' anywho, this man was awesome ',hp
+' so, this is where we begin our journey ',ne
+' thousands and thousands of people ',ne
+' as we walked ',ne
+' and even more! ',ne
+' two hours with kevan, i should get for that long with that ',ne
+' then we met him ',ne
+' i question that too ',ne
+' because they have a sign ',ne
+' check out the look on christina s face ',ne
+' anywho, i got really interesting ',hp
+' "someone unexpected from your past with resurface. ',sp
+' [and guess what ',sp
+' i saw during the walk ',ne
+' i haven t seen her in like two years ',sp
+' then, another someone unexpected too. ',sp
+' as for eff, he got "you will find the road to happiness by others. ',hp
+' eff likes ',ne
+' it was pretty good ',hp
+' check out "little s" face ',ne
+' and then meet "the nox" ',ne
+' x ',ne
+' our first conversation was an argument in english class ',ag
+' xd yes people, he was a child, and then someone popped it ',ne
+' anywho~ today was fun ',hp
+' i am going to do the walk again next year for fun ',hp
+' interact ended up being a whole ton better than i had expected ',ne
+' i stand barefoot by the ocean s edge, my feet slowly, being sucked beneath the
+ of the cool, wet ',ne
+' head back ',ne
+' of gray clouds, only momentarily as they are back-lit by silent, random ',ne
+' i stretch my out as far as they will reach just as the first of my ',ne
+' being the on the beach in a and living to write about it ',ne
+' although my brother likes to point out the fact that every day for me is a wee
+kend ',ne
+' regardless of my status as far as my brother is concerned, time still moves ah
+ead at a ',fr
+' i the first season of doctor who on dvd ',ne
+' no, not the new first season, the william black and white forty years ago suck
+ it i m the first doctor first season ',dg
+' i m sorry but british television rules ',ne
+' their historical society was having a home tour as a and my mother wanted to g
+o ',ne
+' i assumed that with my niece in new york and my sister working a weekend job t
+o keep her there that it would just be my mother and i; little did i know that s
+he invited my sister-in-law to us ',sp
+' on the plus side, the home tour put me in the holiday spirit ',hp
+' this week i am totally going to start my christmas shopping ',hp
+' i used to have it all done by halloween so maybe i ll return to that ',ne
+' i am seeking and other deals, however, if i find one i want to get the out of 
+the way to me to move quickly ',ne
+' and on that note, enjoy the of your sunday ',hp
+' well, we re half-way through our trip ',ne
+' i can t believe it ',sp
+' it s amazing ',hp
+' we ll there and then take another train to in the evening ',ne
+' from there it s on to and then france ',ne
+' wow ',hp
+' there is a church or everywhere you look ',ne
+' the (or colosseo) was awesome ',hp
+' that it is still standing for us to see is. well, i feel very lucky ',hp
+' amazing ',hp
+' to enter the museums it was about a two hour wait ',ne
+' in october the museums close quite early (1:20pm), so by the time we got in we
+ didn t have a whole lot of time to see things ',ne
+' ah well ',ne
+' at all ',ne
+' we walked around pretty much the entire city until we found it ',ne
+' it was beautiful, and full of people and tour ',hp
+' didn t have to wait too long, though ',ne
+' inside was stunning- and full of people ',sp
+' and then we realized- there was mass going on ',sp
+' i can t believe they do that ',sp
+' it s so rude ',dg
+' last night we met an australian couple at our and had a nice ',hp
+' you meet a lot of people at hostels ',ne
+' it s pretty cool ',hp
+' so anyway, rome in general was loud, dirty and absolutely chock-full of people
+ and cars and ',dg
+' the city really is like a human being, especially in the morning as you watch 
+and hear it begin to ',ne
+' what the hell am i going to do when i get back home ',ag
+' should i take the job jamie offered me? should i stay in salem ',ne
+' these questions completely me ',sd
+' so i ve discovered a new (and yes i do have others) ',sp
+' i can dream and earthquake and it ll actually happen!! ',sp
+' that s not entirely true ',ne
+' keep in mind my bed is about 4.5 ft. high and i was after having slept 4 hours
+ ',ne
+' then my bro calls ',ne
+' then he calls again and, knowing that s the international sign for "pick up th
+e frickin phone," i picked it up there was something wrong with him ',ag
+' and he s like ',ne
+' i m like ',ne
+' huh, news fast ',sp
+' he called my sister ',ne
+' they called me. i just wanted to frickin sleep ',ag
+' so i went back to sleep till noon, took for a walk, for four hours, in the dar
+k, read by for a little while, then the power came back on so i could watch tv '
+,ne
+' all in all, an interesting sunday ',hp
+' all my plans were shot to shit cause the cell waves were all packed and i coul
+dn t get in touch with my friends very well ',dg
+' yeah ',ne
+' useless day ',dg
+' so i made a ',ne
+' this don t go down too easy ',ag
+' oh, earthquake was highest at a 6.6 ',ne
+' what surprised me most (geekin it up) was the frequency of the ',sp
+' definitely in the range and very regular ',ne
+' but yeah ',ne
+' say ',ne
+' or how they make them in movies ',ne
+' the amount of energy required to move that much mass at such a high frequency 
+is ridiculous ',sp
+' earlier this week, karina had invited me over to her ',ne
+' i got there a little after 7, project runway playing on bravo, and i asked, "w
+here s kubik?" because she s usually very ',ne
+' i take a seat in the across from karina, and while she s talking, a face appea
+rs in the window behind her, and ',hp
+' i jump, a little before i realize it s only kubik ',sp
+' karina a plate of 3 cheeses, red peppers, crackers, and we in front of the tv 
+for some project runway ',ne
+' the two of them watch it, i half watch the movie while reading the newspaper, 
+sometimes out loud, but kubik complains, "someone is talking while i m trying to
+ watch a movie!!" but karina me, "you re one to talk. ',ne
+' we watch project runway, but the repetition of the same 5 becomes old fast ',n
+e
+' haha, except ',hp
+' sunday afternoon, erica, diana, and i are going to the spy museum ',ne
+' a from a can up anyone s day ',hp
+' the three of us find our way to the spy museum and i m surprised by the number
+ of young who are there, in addition to the usual tourists and young ',sp
+' i m the to go through the exhibits, and i soon lose erica and diana, occasiona
+lly catching up with them when they slow down ',ne
+' it s carpeted, so not too hard on the knees, and i see that someone left behin
+d their brochure ',ne
+' while i m looking at an exhibit on devices, this kid comes up behind me and ha
+nds me the pamphlet, "you dropped this. ',ne
+' we stop in the gift shop before heading home ',ne
+' the outside, and diana has a hard time open the door, but a 7 or 8 year old bo
+y who s already with his family her out by pulling while she pushes ',ne
+' it was cute ',hp
+' i my into the water and she drank the water that on it when i put it close to 
+her ',ne
+' i had to fly out the door this morning and ended up being 10 minutes late for 
+class, but we were doing a group project, so i in and did my part ',ne
+' i think he knows not to the line he crossed once before ',ne
+' there wasn t really nothing on campus i could do that i felt like doing ',ne
+' i do love the pictures i found ',hp
+' she s always been one of my favorite video game characters ',hp
+' maybe it s because she can beat the living shit out of guys heh ',hp
+' plus ',ne
+' i love her outfit as well, except i think the laughing after she a fight in st
+reet is kind of silly, but that s just me. kikyo, from the series, has been anot
+her favorite of mine ',hp
+' have a true normal life ',ne
+' lol ',hp
+' *whispers* especially if i matt into the mix ',ne
+' ;) love u hun ',hp
+' she is also very strong and keen, but the scars of her past ',sd
+' is another movie i loved ',hp
+' wish i could get that es.w.a.t she ',ne
+' so, that s what i did for like a half an hour ',ne
+' i decided to get my of contacts with the knowledge if i did i could get a free
+ and a $30 ',ne
+' i still have a few other ',ne
+' i than went to office and got two jump drives ',ne
+' they were on a special and heh ',hp
+' i believe she in $17.88, instead of $18.88, so i got an unexpected ',sp
+' it s a 1.0 jump drive, so not a bad deal ',ne
+' it feels so nice after a long ',hp
+' so, i stayed at the for about 2 hours and went home to my little bird ',ne
+' it works great and i really like it ',hp
+' it s actually something i thought about alot and i did stay dressed up for it 
+',ne
+' my guy hasn t seen me for about 4 months, so i wanted to look nice ',ne
+' *smiles* he said i looked cute as always ',hp
+' thanks hun ',ne
+' i m sorry and i will get more focused ',sd
+' so, i this song to you ',ne
+' song: ',ne
+' i m always up i ',ne
+' things i ',sd
+' something ',ne
+' is i m sorry for the way i a ',sd
+' and i m sorry about all the lie ',sd
+' maybe in a different ',ne
+' cause now i can se ',ne
+' i never really wanted you to se ',ne
+' it always seems to get to m ',ne
+' so many things you should have know ',ne
+' i guess for me theres just no ',sd
+' *smiles* i will beat this thing ',hp
+' *huggles to you all ',hp
+' as i have said before i am not taking a class this semester, but these two par
+ticular were ones that were not to be missed ',hp
+' the first was the of a painting that was donated to the school by the students
+ of fr osb, the old testament there ',ne
+' the entire enterprise was done as a surprise to (our name for father) and he w
+as genuinely and surprised by the affair ',sp
+' the other was the session of in the round, a session to bring seminarians, lay
+ students and together for an evening of discussion a chosen by a guest ',ne
+' denis osb whom i had for early church history and had been telling mrangelmeg 
+about for months ',ne
+' i really wanted mrangelmeg to have a chance to experience fr ',ne
+' after that discussion we spent some time in the little bar on campus which is 
+called the unstable ( take a vow of stability, so they call the bar, the unstabl
+e, get it? ',ne
+' i do miss them so very much, though i don t miss class at all ',sd
+' we had a wonderful time ',hp
+' and we got to see the extreme home house in st. (the town) as we drove to the 
+',ne
+' how cool was that ',hp
+' denis class on were having a quiz on in the early church on saturday morning i
+ was more than happy to be returning home friday night ',hp
+' and forget the internet, where as much as 75% of all information is general ',
+ne
+' something the internet has been missing since it was born ',ne
+' five minutes is all you need, so a glass of your favorite wine, and enjoy your
+ newfound knowledge ',hp
+' if these little are truly helpful, i may just have to take more ',ne
+' welcome to the world of classical music ',ne
+' it s my world, a place where music in endless forms and give me an entire life
+time of listening pleasure ',hp
+' since classical music is the and of music in existence, let s study this music
+ from one era to the next ',ne
+' 1 ',ne
+' our first composers were mostly by the church (surprise!), and religion early 
+classical music more than any other source ',sp
+' there was no formal system of notation, making very difficult and time-consumi
+ng ',ne
+' 2 ',ne
+' music became more of an art than a science, and music was now being printed, s
+acred, secular, and music to spread everywhere ',ne
+' was one of the most composers of this era ',ne
+' (1600-1750): the era of bach, handel, and saw the of almost every modern in us
+e today, particularly the violin, clarinet, and piano ',ne
+' composers used counterpoint, dance and repetition in their music ',ne
+' think of this brief period as a of all the modern music to follow ',ne
+' just kidding ',hp
+' you can find nearly all of the most popular composers in this era, and (both o
+f whom didn t know they were writing "classical") ',ne
+' 5 ',ne
+' composers of this era such as tchaikovsky, brahms, and wrote music with a rang
+e, using a variety of ',ne
+' 6 ',ne
+' new subcategories of classical music were born every year, and more composers 
+were writing music than all ',ne
+' and anything and everything was possible, from to to ',ne
+' over one hundred thousand composers fall into this period, including copland, 
+stravinsky, and ',ne
+' 7 ',ne
+' welcome to the classical period, where we see even more subcategories such as 
+the of glass, the electric by john corigliano, and the twelve-tone works of john
+ bilotta, a area ',ne
+' that was painless, wasn t it ',ne
+' your next few into classical music should now be a little easier ',ne
+' add a little passion to your life each time you visit, and share my world with
+ me ',ne
+' arguments in favor: 2 ',ne
+' 8 of the "pro" arguments of someone what i take to be every single county in o
+regon from which there are no appellate judges ',ne
+' there s all of thought about how the measure will make positions more or less 
+political, whether those positions already are political, whether it matters tha
+t the oregon originally had district elections and to some time ago, whether ele
+ctions by district mean that some of the judges will be less than others could h
+ave been or whether it means that currently areas (think every area) will have a
+ better chance to have someone who them in the appellate courts, etc ',ne
+' one of the few that seemed to me to say something worth saying was an argument
+ in favor that was written by ron saxton ',ne
+' this surprised me, because i know from tv that ron saxton is running for somet
+hing or other ',sp
+' the one other somewhat-convincing argument was immediately after that one, als
+o in favor, by an of oregon ',ne
+' there seemed to be at least a of personal experience in that argument, somethi
+ng not really present anywhere else ',ne
+' ugh ',dg
+' again, kerstin has proven to herself how she isn t who she wants to be yet ',n
+e
+' finding this out is almost as fun as finding out the of placing one s hand dow
+n a working ',hp
+' :d ',hp
+' lately all im capable is questioning things and my to deal ',ne
+' there are no wrong decisions, only different outcomes!" but i can t ',ne
+' i don t want to make a mistake that i can t ',fr
+' i don t want to burn any bridges, i ve crossed the wrong one ',fr
+' my paranoia really knows no ',fr
+' found out my mother cut open the top of her left and got 11 stitches, good job
+ mommy :d ',ne
+' i talked to her today, she s ok. still a since i left from what my dad s told 
+me but nothing new there ',ne
+' this amuses me so very much ',hp
+' if you know my brother and his to approach women, you d understand a lot bette
+r ',ne
+' is is dealing w/ still ',ne
+' it makes me sad, she s a old bird but she s just not home anymore ',sd
+' i like/can deal w/ most of my classes ',ne
+' to nap ',ne
+' lost a for u.s. gov. but the class is so cut n dry that it s no worry ',ne
+' just a lot of w/ that approach ',ne
+' (well, mostly two and 1/2 people know ',ne
+' ',ne
+' you know the one, where it has a shocked expression w/ pumpkin guts coming out
+ of its ',sp
+' so easy and cool~ish looking ',ne
+' and of pumpkin guts which is fun esp. when you have a person working w/ you x 
+',hp
+' i miss hug ',sd
+' but im still laughing a lot ',hp
+' things make me laugh here, esp. my ',hp
+' haven t had any major fights w/ roomies, not even small ones ',ne
+' one last note ',ne
+' speaking in person amuses kerstin ',hp
+' take care guys ',ne
+' so i had this dream ',ne
+' really ',ne
+' but i ll give ya a clue ',ne
+' but its not ',ne
+' surprising i know ',sp
+' any ways so about my dream ',ne
+' and i held my head there for a while ',ne
+' dont worry its not ',ne
+' infact i m done ',ne
+' nothing else happened in the dream we just and it was real sweet ',hp
+' like wanting to any thing to be with him ',ne
+' ok peace ',ne
+' seeing a scarred, man in a black my heart, because his fingers were painting a
+ on his guitar ',sd
+' eventually, the music away, and the guitar slipped back into its bag ',ne
+' "oh," he said, and ',hp
+' a few seconds later he turned to me and asked, "are you going to be here a whi
+le? ',ne
+' "ah, thanks. ',ne
+' i was very ',sd
+' but i on getting a violin so i took the bus to spirited music and one from the
+re ',ne
+' i think i m quite good for the amount of time i ve been playing ',ne
+' its actually a pretty easy song, i suggest it for all who are really quite sic
+k of playing twinkle twinkle ',ne
+' is usually played on cello, so just bring it an up ',ne
+' those are hard to push back in, especially the string peg, that was a real bit
+ch ',ag
+' that would be pretty sweet ',hp
+' last night me and mike and christina and a bunch of people went to the bar and
+ i got drunk on just 2 coolers ',ne
+' i suck when im drunk, i just get and fall asleep, so once i was finished makin
+g an of myself at the bar i for hours on couch ',dg
+' i wrote a little bit of my book, but not much ',ne
+' thats all i m going to mention right now ',ne
+' and disgusting ',dg
+' i m an of the ',ne
+' i love the show because i learn so much ',hp
+' today, though, i heard the commentary of lee ',ne
+' this depends on what you re ',ne
+' markets do not measure everything accurately, and i find this to be disgusting
+ ',dg
+' and the of the world markets for the worse for labour, making people a mere in
+ a schedule, with no regard for their free time ',ag
+' the world into markets is exactly what so many problems in the world (*ahem* p
+eople are at war with us over it, you know) ',ag
+' it is dangerous to force everything into a market mentality ',fr
+' it is like throwing everything you eat into a ',ne
+' who is going to buy this sort of and ',ag
+' *the ones in control of it* ',ne
+' how disgusting would it be to see 9/11 turn into a market ',dg
+' and who would be the who off of the destruction of my and life ',ag
+' and, i do ask, who from 9/11 in the first place ',ag
+' yes, ms lee ',ne
+' the answers are dispicable ',dg
+' comment: "traders, those who buy and sell the contracts, bring all their infor
+mation on the political situation in into this ',ne
+' would ms lee be throwing out these ideas for the us elections ',ne
+' plus, in such a government, wouldn t this ',ag
+' the selling of top to off of the killing of 150 people in a ',ag
+' and there s really no reason to encourage those who can afford to on this sort
+ of thing to do something so dispicable and ',dg
+' it is sickening ',dg
+' there is so much room for the worst of humanity in doing things like this, let
+ s not encourage it, please ',dg
+' "in the last three years, has ',ne
+' maybe it isn t ',ne
+' i to think ',fr
+' to on the recent threat-ish that emerged from britain and turn it all around t
+o make a comment on and the democrats ',fr
+' apparently the terrorists in britain are to the in iraq (despite the fact that
+ the former were terrorists and the are involved in a civil war), and that a slo
+w exit from iraq was their goal ',ne
+' does no one see the problem with that ',ne
+' the war in iraq is fighting terrorists ',ne
+' the terrorists want us out of iraq ',ne
+' as long as there are any terrorists anywhere doing anything, we can t pull out
+ ',ne
+' all that matters is that terrorists want us out of iraq, so that means we have
+ to stay ',ne
+' the is that we the for in and went into iraq under incredibly ',ne
+' "i m worried that too many people, both in and out, don t appreciate the of th
+e threat to american security and the evil of the that faces us," mr. said at th
+e event ',fr
+' he called that threat "more evil, or as evil, as and probably more dangerous t
+han the communists we during the long cold war. ',fr
+' to suggest that a couple of disorganized trying to s 1995 plot is more evil an
+d more dangerous than what they did is beyond off-base, beyond stupid ',dg
+' it s flat-out disgusting ',dg
+' joe, you re scraping ',ne
+' another vision last night: through large rooms that are and with people lying 
+on the floor covered with sheets, most of them separate from each other ',fr
+' some people with mean faces and nasty attitudes out their turf, telling us to 
+move along ',ag
+' we try to find comfortable space and head down a that seems to get smaller as 
+it gets to the ',ne
+' the and the body somehow away as the vehicles begin to - leaving me behind ',n
+e
+' i am, by no means, an art ',ne
+' for my birthday, jon took me to the center in ',ne
+' they have several ',ne
+' and ',ne
+' and ',ne
+' now, understand, when it comes right down to it, i am a from the ',ne
+' i had never before seen a work by any of the - the closest i have ever gotten 
+to a is watching "teenage ninja turtles" ',ne
+' a real alma-tadema ',ne
+' oh, and i think i made the security really nervous - like i was going to blow 
+my on the and forever ruin it with my ',fr
+' they didn t like me very much ',dg
+' (pretty, no? you should see it in person! ',ne
+' like i said, i m no judge of art ',ne
+' i was excited to see it as i have a of cadavers (blame gross anatomy) and real
+ly wanted to get another shot at some up close anatomy viewing ',hp
+' photobucket - video and image hostin ',ne
+' a joint ',ne
+' a glenoid-humoral joint.") some of the exhibits were very interesting, such as
+ the soccer player and the ',hp
+' in gross anatomy, our cadavers were - laying on the tables as if in a deep ',s
+d
+' seeing the body in action was very interesting ',hp
+' also interesting were the cases of organs - healthy and diseased ',hp
+' the odd thing about body worlds is that it goes from being an anatomy exhibit 
+to being a sort of cadaver of art ',sp
+' again, i am no judge of art, and the fact that this exhibit has drawn numbers 
+of people at the possibility that i am off-base ',ne
+' now, people can see that organs are not the that one in a book ',ne
+' the general public also has a chance to look at diseased organs (something usu
+ally for pathologists, who, i ve noticed, seem to get *very* excited over things
+ like and necrosis. ',hp
+' the basic anatomy and bodies in are a must see ',ne
+' however, for me, the more "artistic" exhibits were more of a turn off - i will
+ingly admit that i was very to my cadaver in gross, and the thought of him being
+ like that makes me a bit sick ',dg
+' as an aside, there have been some interesting the of cadavers for exhibits suc
+h as body worlds (i guess the entire affair has various "knock-off" exhibits! ',
+ne
+' while this country has access to huge numbers of and students (someone has to 
+do the dirty work) there have been some controversies, and questions as to where
+ the cadavers come from ',ne
+' however, some of the knock-offs might not be as (personally, i d avoid them if
+ i were you. ',ne
+' i dislike feeling ill. especially when i had plans for the weekend ',dg
+' just thought i d let you know ',ne
+' i m still being by the smells ',dg
+' i m also constantly congested, and i ve been having in my ',ne
+' which of course, makes me feel ',dg
+' besides all of that, i ve been feeling great ',hp
+' i was able to tell all of the teachers at school that i am pregnant, so it s b
+een fun to hear all of their stories ',hp
+' since school is just starting, we ve been eating a lot, and it s funny because
+ they are letting me get away with going first saying i am eating for two ',hp
+' everyone keeps asking if we re going to find out if we re having a boy or girl
+ ',ne
+' alright, we re about to eat dinner, so until next time ',ne
+' this afternoon, i went shopping for school ',ne
+' it hasn t been very eventful in any way ',ne
+' the most exciting time of my whole summer was going to with the patricks, and 
+roths, and that less than a week ',hp
+' i don t except them to, because my dad is taking my brother (as previously sta
+ted), and my mother hates the mall more than she hates anything else ',dg
+' besides ',ne
+' or somebody like that ',ne
+' he keeps yelling and his feet on the floor ',ag
+' my mother just asked chris, "how would you your ',ne
+' or hot with and garlic? ',ne
+' "that s what i think. ',ne
+' as you can tell, my day has been nothing short of ',hp
+' it looks like somebody up several and pinks, and then it on a ',dg
+' my cat, roxie, is very nervous ',fr
+' she was just eating cat food a few feet away from me. she saw my brother look 
+at her, and ran away ',ne
+' it s pretty disgusting ',dg
+' i hate when you get in a bad mood and its not just one thing ',dg
+' its just kinda just a bunch of little things and then you get sad and you just
+ want to go cry and just be away from reality ',sd
+' i just want ',ne
+' i mean i know but i cant put it into words and i just dont want to say it i gu
+ess ',ne
+' and im not trying to be mean but if i say i dislike someone and you are like "
+why why why" and i try to explain but you re just like "thats stupid you shouldn
+t dislike her" it pisses me off if i have to myself for someone ',dg
+' and that s one of the only people i highly dislike ',dg
+' actually thats the only person i highly dislike ',dg
+' i mean i have my reason to dislike someone and you shouldnt question them cuz 
+you me and you dont know and just stop ',dg
+' cuz i hate to myself to everyone ',dg
+' i myself a nice person and i should have the right to dislike some people ',dg
+' anyways ',ne
+' late ',ne
+' i looked over at jon and i said "hey, i feel like i m going to pass out. ',ne
+' i woke up to jon picking up my head and saying my name, but i couldn t hear hi
+m ',ne
+' i hope i can at least pass out sometime when it s sweet, like when i m driving
+ or operating heavy ',ne
+' i know i have not been writing 4 a long time ',ne
+' anyway, a few weeks ago, i visited a tea house and and proper tea and tea ',ne
+' i had yesterday ',ne
+' luckily, it stopped in time for the lesson ',hp
+' i did not very high up but was not bad either ',ne
+' my school was taking part and i saw them too ',ne
+' i love the song "absolutely everybody" ever since the parade ',hp
+' by ',ne
+' that was uhm ',ne
+' i m being by this woman, her name is ',ne
+' not to mention i find her to be incredibly intimidating(sp? ',fr
+' i felt this way up until it was time to my drawer ',ne
+' i guess that made me feel a little bit more at ease ',ne
+' the second day i went in and i was so ',fr
+' of course i was it too much because as the day proceeded, i began to feel myse
+lf becoming more and more comfortable with everything ',fr
+' my change was exact down to the last penny, what a relief that was for me lol 
+',hp
+' today (day three) went relatively smoothe ',ne
+' at the end of today my drawer was exact again ',ne
+' tomorrow i have to go in at 8 and stay till 5pm ',ne
+' that is going to suck so much ',dg
+' horrible ',dg
+' hopefully tomorrow will go smoothe ',ne
+' i m definately done bitching for now ',dg
+' another little check-off on the to-do list, as all three of my summer classes 
+are now done and graded, and i still my 4.0 gpa ',ne
+' i assume until proven otherwise that i ought to be able to at the highest leve
+l at most things, so a top in all of my classes was always the goal from day 1 '
+,ne
+' thus, statistics, spanish, and the public speaking class i ve been in this sum
+mer were the three classes i ve assumed were most likely to drop my gpa ',fr
+' so far that s turned out to be little problem- i believe i got perhaps 4 quest
+ions wrong over 5 or 6 tests in all of and an a easily in ',ne
+' none of this is really an of course, but it is nice to know that i seem to be 
+in areas which were previously more difficult ',hp
+' i dislike the idea of having in my ability; it s the same need for balance tha
+t leads to me trying to further develop my cross-handedness into ',dg
+' it s why i try to my body as i do my mind ',ne
+' i have a month off of classes now, to do and move and probably take up an inte
+rnship job ',ne
+' i m going to have to go out to london area police sometime tomorrow ',ne
+' a little unfortunate, but at least it me from actually walking there ',sd
+' if it hadn t been so important i d have their anyway- who s going to watch the
+ shop while i m gone ',ne
+' while i ve got every faith in my abilities, i wouldn t like to think about wha
+t could happen if ',fr
+' i sent the last one that came around off with such a red face, it was a wonder
+ he didn t pass out ',sp
+' he called me a woman ',ne
+' it s good that i m old enough to learn on my own and not from others, either b
+y or example, because people are stupid ',hp
+' seven hours on the road in two days, and i ve come to the conclusion that most
+ people have no concept of what turn signals, speed limits, and restroom are for
+ ',ne
+' i saw one guy after another take a piss then leave without his hands ',ne
+' all told about a guys, and i was the only one who actually his hands ',ne
+' i finally and yelled out the door at the last two "does anyone wash their frig
+ging hands after using the anymore?? ',ag
+' disgusted, i my hands, walked out, and yelled "pigs!" the burger king where a 
+number of them had for a late lunch ',dg
+' some were in the middle of eating, others were holding girl s hands or their c
+hildren ',ne
+' lovely ',hp
+' while i have no that my is clean and disease free (i at least as much attentio
+n to cleaning that as i do my hands; any women dating these boys should be of th
+e possible that probably with him if he can t even take care of his hands), i ca
+nnot say the same for others, and cannot for where their hands have been prior t
+o the same that i have, such as the toilet seat, lever, and door ',fr
+' hey assholes, explain to your children where their cold came from: "daddy didn
+ t wash his hands in the restroom, then he cleaned the off your face, and now yo
+u have herpes. ',ag
+' wash your hands ',ag
+' unclean!" should at the very least be a public restroom on the ',ne
+' simply one should make you feel dirty and in want of a shower ',dg
+' we saw "descent" at the local ghetto theater, in the local ghetto mall ',ne
+' the theater itself hasn t been since was first ',ne
+' but it was nice to get out to the movies with holly, i don t get to see her ve
+ry much at all in any role other than as "mom", and as a single male with no kid
+s, it s hard to associate myself with "parents. ',hp
+' ask any comedian, they usually have a bit about the of the to relate to parent
+s and vice ',ne
+' not that erin has a problem, she loves kids and works with them, but i ve neve
+r honestly been much of a kid person ',hp
+' i have no clue ',ne
+' you can t beat them, you can t and at the mouth, but you can t ignore it eithe
+r ',ag
+' but that said territory, children grow-up at some point, and most at least rea
+lize that you can t just go around pissing people off ',ag
+' though they do ',ne
+' the movie itself sucked ',dg
+' ',dg
+' the plot was just full of loopholes, there wasn t even any that you might othe
+rwise associate with a hollywood movie that stars an entire cast of nothing but 
+women ',ag
+' but this one was just full of plot holes that you could drive a through ',ag
+' ',ne
+' ok, so at one point they find a dead moose in the middle of the cave system ',
+ne
+' "oh they kill the food outside and bring it inside to eat. ',ne
+' but on each side of this cavern, there are drop-offs of hundreds of feet that 
+had to be by clinging to the ',ne
+' so how the fuck did the cave-dwellers get a moose through ',dg
+' how did they the ',ne
+' "hey shelter" you think, good deal ',ne
+' you explore for a little bit, then ',sp
+' is your first thought "well, must find a way across? ',ne
+' what s the point ',ne
+' is there food that deep in the cave ',ne
+' safety ',ne
+' hell no ',ag
+' if this took place in the of africa, perhaps it might be worth into the earth 
+to escape the large that upon human so very long ago, but even that was well bef
+ore we took to cave drawing ',ne
+' after the movie and the subsequent discussion as to all the different ways it 
+was just simply retarded, we came back to the house and watched ',dg
+' it s alright, it s like american in that i enjoy it if there s really nothing 
+else to watch ',hp
+' we also caught a couple episodes of that new lee show about the wanna-be on ',
+ne
+' major is entertaining, but he s got an old-school look to him, like the origin
+al or superman ',hp
+' comics and subsequent spin-off such as movies the point i m making: the whole 
+has gotten darker, both literally and ',ne
+' look at superman: the original television was a in with no issues, his movie h
+ad human and ',ne
+' "our lady peace - superman s dead", good song ',hp
+' "do you worry that you re not liked ',fr
+' how long til you break ',ne
+' you re happy cause you smile, but how much can you ',hp
+' yea ok, so i don t know what this has to do with the refrain, but it s a catch
+y tune ',ne
+' then i head home around lunch time ',ne
+' the was nuts, every asshole from and was apparently heading to canada ',dg
+' at about biddeford, i jumped-ship and headed up route one, an "accident" the l
+ikes of which i experienced the last time i headed home from by myself ',ne
+' come scarborough, i jumped back on, since route one was pretty packed, and i d
+idn t want to go through downtown portland ',ne
+' it kind of sucked ',dg
+' so back on the pike, putting up with traffic, picked up to well above where th
+ey should have been, things a little north of lewiston, a little more above augu
+sta, but it was still pretty frigging busy all the way up ',ag
+' got into bangor, picked up my check, went home and waited for erin ',ne
+' how can i blog so at work ',ne
+' so i m not doing shit unless absolutely ',dg
+' yes, in effect, i ve become a ',ne
+' i m so proud of myself ',hp
+' pete rose runs over indians catcher, ray fosse to score the winning run of the
+ 1970 all star game ',ne
+' teams---1---2---3---4---5---6----fina ',ne
+' marco----2---2---1---1---7---0----1 ',ne
+' yeah, cocky, marco who as if he had been walking in the desert on nothing but 
+for forty years ',dg
+' we twelve runs in the 4th inning because of some by marco s team ',ne
+' the inning would just never end ',ne
+' in the 3rd inning, i tried to score when a throw to third base got away ',ne
+' joey, who was blocking home plate, up and the ball as i arrived at the plate '
+,ne
+' he went flying backwards and landed with a huge in the left-handed s box ',ne
+' when i asked him whether he was all right, he said he was and proceeded to tel
+l me that he knew it was coming ',ne
+' oh well, how often does one see a collision at home plate anyway ',ne
+' who can forget ray fosse and pete rose s at home plate in the 12th inning of t
+he 1970 all star game ',ne
+' lines a base hit to center, comes up to the plate, the third base coach, waves
+ pete rose home, the throw brings then indians catcher, ray fosse a few feet up 
+the line, and then it happens ',ne
+' pete rose knocks ray fosse into baseball and knocks his into a somewhat more p
+lace ',fr
+' so, in the end, we held on to win by a score of 18-13 ',ne
+' that is probably the reason most have the from the catcher like that ',ne
+' yes, can happen but, as a former catcher, it s the most play in sports ',hp
+' joe said it doesn t happen that often so it doesn t bother him ',ne
+' there is usually one good hit each season and that is it ',ne
+' that was kind of funny ',hp
+' it s not as if joe has never gotten me before ',ne
+' june 5th, 2003 ',ne
+' we were walking ahsan to load the up ',ne
+' i screamed for to throw it and he did ',ne
+' i landed by the ball and picked it up with my hand ',ne
+' ahsan says he still remembers that play ',ne
+' ahsan told me that he remembers the collision mostly because the game was bein
+g played in the and we very rarely play when it s raining ',ne
+' then he saw the ball lying on the ground and screamed for joe to touch home ',
+ne
+' i remember walking off the disgusted with myself ',dg
+' they completely joe and were around home plate as if joe were the king of base
+ball ',ne
+' good night my blog ',ne
+' my brother and i just went out to go for a bike ride ',ne
+' i liked that, i am really happy to be able to ride again ',hp
+' the reason i was at the was to check to see if dad had deposited the 56 dollar
+ government cheque into my yet ',ne
+' it was 62 dollars, that s precisely 56 dollars more than i had ',ne
+' bonus ',hp
+' i was pretty bummed out, because it meant they put a hold on my cheque, i hate
+ when they do that, what s the bloody point ',ag
+' especially when it s a bloody government cheque ',ag
+' it wouldn t bother me much, except the last government cheque i deposited had 
+no hold on it ',ne
+' so, here i am with money right there that i can t get a hold of, and i really 
+want to spend it at the furmeet on monday ',ne
+' i get the feeling dad doesn t want to go weird on him ',ne
+' he s pretty old fashioned, but not rude about it ',ne
+' he s not ignorant, just old fashioned (which is pretty damn rare. ',dg
+' earlier today, i put on - seasonspeech, and mom asked me if i ever to music an
+ymore ',ne
+' i pride myself on listening to a wide variety of music ',hp
+' i with pride ',hp
+' i was sad, but i helped him move his stuff ',sd
+' despite the large load of stuff he took, i barely notice a in the house ',ne
+' i ve already told mom i m moving on the weekend of the 26th, and i just need t
+o get a hold of andrea so i can make the plans formal ',ne
+' i could probably find a way to swing it, but it would be a little ',ne
+' i love my chairs *sniffs ',hp
+' i also tried to do my timetable, today was the first day i can set the timetab
+le ',ne
+' that way i can go to the furmeets, jason also did the same thing, he has off s
+o he can go to the furmeet ',ne
+' that s funny, i think, that we love the so much that we re willing to schedule
+ our around the ',hp
+' ',hp
+' i was kind of confused ',ne
+' i need to make another few calls, but mom s in and has the only phone that wor
+ks right now ',ne
+' same deal, i have the number written down on a piece of paper so i don t forge
+t when the time comes ',ne
+' and since i put that i was living with mother, and she only makes 6000 a year,
+ i can almost guarantee that i will get accepted for osap, and they said they ll
+ pay 8700 for this year ',ne
+' which is good, especially if i m living with andrea, who only for internet, hy
+dro, and food ',hp
+' well, i could ',hp
+' i do have to pay something like 300 dollars a semester for the mohawk brantfor
+d to mohawk bus ',ne
+' and they say for this semester, i only them 1044.12 ',ne
+' either way, i m thinking it s looking pretty good ',hp
+' so, tomorrow i am busy ',ne
+' i get to be ticket bitch, and i get more volunteer hours and experience ',ne
+' try to tell me that it s not impressive to see on a resume ',ne
+' i need to have them ready so i can be looking for a job in brantford after sch
+ool ',ne
+' i finally feel a little more independent ',ne
+' here s a list of the things i need to do ',ne
+' i just need it to get mom s signature, then i think i mail it to the governmen
+t when they decide or something ',ne
+' after that, i then make my calls to mohawk to ask about the money issue, the t
+uition and my ',ne
+' #5 talk to the people the from brantford to mohawk ',ne
+' just opened up, so it s not like i m late, they ve been open for a whole 12 ho
+urs, and i can until september, so i ve got some time, however, i don t want to 
+wait, that s why i went on the site this morning to do it ',ne
+' so, tomorrow s gonna make me a little sad ',sd
+' not to mention the 680 ',ne
+' you know, do my thing, be independent ',ne
+' anyway, the part of me says to go to jason s, make some cash, get stronger, ge
+t ready and train my leg to be stronger (like i did on my bike. ',ne
+' i mean, i told her on july 25th, or somewhere around there, that i d come help
+ out, and i wasn t backing out this time ',ne
+' i miss em all and they re the smartest, most responsible group i ve ever been 
+a part of ',sd
+' however, the playful, devil-may-care part of me tells me to fuck em all and go
+ to london to watch movies with the ',ag
+' in fact, i sent her an email, and she still hasn t responded, so i don t know 
+when she ll be here ',ne
+' ',ne
+' people like a guy i know named pisher, and ',ne
+' just as an example, here s something he wrote ',ne
+' it s a opinion, however ',ne
+' people like him me, not because they disagree with me, but because when you di
+sagree with them, they resort to insults, and we all know how men need to have b
+ig and can t lose to another man, people always fall into a fight, or as it s kn
+own online, a war ',dg
+' i try to stay out of them, as i can t stand my being to their level, but somet
+imes i just want to do what and silent bob did ',ne
+' go to their and their faces in because they like to ',ag
+' when i go on a about movies, i like discussing things like which film was bett
+er, pirates or superman ',ne
+' i personally enjoyed pirates more, but i thought superman was far more done wi
+th a fantastic story ',hp
+' whereas you go on there, on one side there are people constantly saying that p
+irates sucked, and that nobody is allowed to like it because it sucked and it wa
+s horrible ',dg
+' etc. or you have the folks trying to tell you that superman was horrible ',dg
+' it s disgusting that i have to feel when i find a thread that has people discu
+ssing of an argument ',dg
+' well, i m gonna go post on a board and try to ignore the flames ',ne
+' so im ',ne
+' i dont like myself quite frankly i dislike myself very much, dont ask why caus
+e i tell you ',dg
+' all i know is i suck (and im not looking for comments here ',dg
+' im only writing this stuff down because when i see it in writing sometime i un
+derstand myself bette ',ne
+' i hate the word bette ',dg
+' why cant i just be happy with good enough ',hp
+' everything could always be better so ill never be happy ',sd
+' ',fr
+' but the does "delight yourself in the and he will give you the desires of your
+ heart", mean ',dg
+' i suck , completely and ',dg
+' i feel like i constantly need a boyfriend ',ne
+' why do i hate life? ',dg
+' i just wanna have fun and be happy and simple like all my friends ',hp
+' just giggle giggle giggle thats all they do everyday all day and all they need
+ is a boyfriend and someone to laugh with ',hp
+' i want to be ',ne
+' terrorists make me sick, they ought to all be detained, i believe it was the f
+irst time in my life i have had to resort to extreme ',dg
+' do you people not listen to the news or what ',ag
+' perhaps i am just being petty, but that did really annoy me. it absolutely me 
+as to how evil, and these people are ',ag
+' imagine, a bomb, fashioned out of a sports drink, and it with the of a camera 
+',fr
+' i just can t believe it ',sp
+' britain, has, gone to the dogs if the so-called "prime minister" is in mexico,
+ we could have been dealing with 3,500 lives lost, on 10 different ',ag
+' so, i am thankful to still be alive ',hp
+' for ages now i ve been doing this self class and at the beginning of every cla
+ss we get a talking too about not doing any of this stuff at home, and i ve just
+ discovered why ',ne
+' night, while trying to demonstrate to boy how i could beat him up if he ever h
+ad a complete change of and decided to me i slipped on the carpet trying to demo
+nstrate a kick fell backwards and hit the with what i m was a sickening crack ',
+dg
+' so now i have five in the back of my head ',ne
+' which, just so you know, really fucking hurts ',dg
+' in fact, i bought toilet paper of george bush stupid ',dg
+' now i m on my political soapbox, so if you find to the republican regime dista
+steful, feel free to exit now ',dg
+' on a more serious note, just open up any paper or online news and you will fin
+d things that *should* you, and which definitely are bothering me! here is just 
+an example from news ',fr
+' "washington - while the british terror were their plot, the bush administratio
+n was seeking to $6 that was supposed to be spent this year new homeland technol
+ogy. ',fr
+' we have spent of dollars and human capital on the whole homeland security ',ne
+' that does not even begin to address the loss of our civil and the spread of a 
+or kgb-like mentality that most of america just seems to be of ',ag
+' the government can and will find you no matter what steps you take to try and 
+get some privacy ',ne
+' perhaps i m being an alarmist, but the loss of privacy and personal freedom in
+ the name of "security" scares me. i am fine with security at ',fr
+' in fact, last night my mom asked me if i am "scared" of flying and going on ou
+r trip ',fr
+' it s the spread of "big brother is watching you" that concerns me. some people
+ say "we only have to put up with this for two more years" while i say, "get me 
+a job in canada! ',ne
+' one such being the slight civil annoyance of another s feet riding pride high 
+on the train seats ',dg
+' often only concerned in self in busy or times ',ne
+' sadly, due to current legal pies, the issues and concerned with sitting in suc
+h a state are ',sd
+' knowing the s to and speaking out, a ride with the feet up on the seats can us
+ually last the of a journey ',ag
+' this works in their ',ne
+' for those who feel and of repercussions, yet want to take action, there is alw
+ays something more than knowing someone either cannot read or show for public ar
+eas ',fr
+' away from and made to be the problem of another set of ',ne
+' as, after all, society has been developed to shift blame and anger ad ',ag
+' thank god the exam s over ',hp
+' i really hate ma am ',dg
+' some questions wasn t even ',ne
+' fuck i can t wait to live alone ',dg
+' if i ever live with a girl, that bitch better be clean ',dg
+' i come home after two weeks and our place is fucking disgusting ',dg
+' what the ',ag
+' im cleaning out my and saved and stuff too ',ne
+' hahah ',hp
+' girlfriends and random sex junk mail and all ',ne
+' gotta love it ',hp
+' i didn t even get a jolt when i saw her face on comments ',ne
+' i used to be so sad about it ',sd
+' i still have moments and all, ',ne
+' that s one of the last steps ',ne
+' most people say that s the first step, but it totally isn t ',ne
+' almost ',hp
+' ',hp
+' deep like the pool ',ne
+' good times ',hp
+' we re down to the final weeks of summer people ',ne
+' i hate it when certain people always seem to be better at me in everything the
+y do ',dg
+' maybe if i just tried hard enough, without anyone putting me down ',ne
+' i guess i m not going to continue with this any more ',ne
+' i m still pretty freaked out by the piano exam next week ',fr
+' my brain seems dead and most probably won t be able to keep up with everything
+ else that i m sure is going to be thrown at me. if people s minds could be out 
+',ne
+' i wish it all would end ',ne
+' i dislike negative, non-beneficial (to me) change in people and things ',dg
+' i don t like that ',dg
+' where has the love in gone ',ne
+' the were beautiful ',hp
+' the only way to enjoy them, is to live that moment ',hp
+' then, they are gone ',ne
+' miss it and that is it ',sd
+' the last time i watched them so close up was back when i was still a young chi
+ld ',ne
+' why is life so much more now ',ne
+' where should i go on from here ',ne
+' 3rd guy sms-ed me, 3 times in 3 days time ',ne
+' i gave in to ',sd
+' i him, asking him to give me a call, which he did ',ne
+' he told me about his work and his regime for his upcoming ',ne
+' i just wanted someone i can about the i faced at work and the in my life ',sd
+' theory about our basic needs being met and wanting to find other purposes in l
+ife ',ne
+' i have yet to establish a career for myself ',ne
+' yet, i do not know the means to achieve them ',ne
+' i feel so lost ',sd
+' dentista, ',ne
+' my mouth hurts much ',sd
+' i hate going to the dentist, well hate is a strong word ',dg
+' i dislike going to the dentist ',dg
+' bad new ',sd
+' i got three ',ne
+' have to go back ( i at the thought) ',ne
+' have to have healthy teeth ',ne
+' "playing love and politic are alike, you have to say the words without really 
+say them and make sure the party get the you want them to see ',ne
+' and for some reasons i dislike doing politic cause manipulating, mostly people
+, are what it does ',dg
+' my parents are moving to mars, pennsylvania, on thursday ',ne
+' this is minutes from pittsburgh, where my dad works, but still 6-7 hours from 
+swarthmore, where i go to school ',ne
+' win win ',hp
+' my sister will remain in michigan, so i thought i d be coming back here occasi
+onally, but she and i have had several vicious, fights this summer ',ag
+' i spend my time joyfully packing boxes ',hp
+' it s like christmas presents in ',hp
+' probably i do ',ne
+' i ve considered not coming home for to see my family because i dislike this to
+wn so much ',dg
+' no, that last one isn t true ',ne
+' a guy sat next to me and my leg with his ',ne
+' ("aren t you a friend of maggie s?" i am maggie ',ne
+' "really? ',sp
+' "you look like her, i guess ',ne
+' hahaha! ',hp
+' the guy sitting next to me started to small-talk pick-girl-up-talk ',ne
+' attractive and high ',ne
+' totally dangerous combination ',fr
+' he after the second ',ne
+' just because, you know, too cheesy to live ',dg
+' also, came to the door last week ',ne
+' i m not sure why i did that, or why i allowed that to happen, or whatever ',ne
+' maybe i wanted to fuck with myself, which usually happens anytime i feel relat
+ively okay ',dg
+' maybe i was ',sd
+' i need to go to therapy like whoa ',ne
+' theres to many stories to tell here so i ll just give the general of p2p ',ne
+' 39 kids, 4 leaders, 1 amazing woman named lynn, and 3 weeks in and can only le
+ad to a once in a life time experience ',hp
+' mel, sully, steve, adam, gibbs, artur, erin, jacqui, will, leanne, nikki,justi
+n, jeffy, steph, all the catherines/katies, kaela, bree, sarah (future of 2005 h
+aha), sarah p, g i love you all ',hp
+' you made this trip amazing and i don t know what i m gonna do without you ',hp
+' so i came back right in time, right before was put on high ',ne
+' i m really lucky about that ',hp
+' i m actually pretty good at driving a normal car, so i m excited ',hp
+' i got some great presents and had an awesome 16th birthday. ',hp
+' it s not like much has happened since last year ',ne
+' there is always so much stuff i have to do each day that before i know it the 
+day is gone ',ne
+' the people here even at columbia are so different than i expected ',sp
+' i m loving school at columbia ',hp
+' i feel more at ease now that i kind of know what i want to do with my life, bu
+t more scared because i feel like everyone is a step ahead of me. i have to admi
+t though school has me freaked out about my future ',fr
+' my class always keeps me thinking about it ',ne
+' i m scared to death about getting a job after school ',fr
+' i can t wait, but i m nervous as hell now ',fr
+' what if nothing goes as planned and i can t get a job and i m stuck doing some
+thing that i hate ',fr
+' one of the girls who is also in my class was in the elevator ',ne
+' she was saying how she had the same area and that she s from spring weird huh 
+',sp
+' the part is her is someone who i went to school with since jr. high ',sp
+' that is if my ticket ever comes ',ne
+' i m excited to go i always like to go to different concerts and plus it will b
+e nice to go out and do something fun ',hp
+' it was definitely a shocking experience, but i can say i have in an before ',s
+p
+' i am still having trouble walking straight and am a lot (so the grammar), but 
+things are getting better ',ne
+' my mother was there for me the whole time while i was scared to death, losing 
+consciousnes, and for my life, and i will always remember that ',fr
+' the goal was to go to sleep and never wake up, but after taking 32 of those co
+ld pills that put scars on my kidney in the first place, death was all too real 
+too fast ',fr
+' have you ever wanted to be with someone that is a friend of the other sex but 
+you are afraid to ask that person ',fr
+' afraid that it would ruin your friendship with them as well as your friendship
+ with another person ',fr
+' afraid that you will be hurt yet again ',fr
+' hurt if that person say s no ',sd
+' hurt if that person say s yes and down the line you up ',sd
+' hurt by the world of friendship yet again ',sd
+' hurt by the world of dating ',sd
+' hurt so bad you stay in a world that is only in your mind ',sd
+' hurt so bad you stay in your room ',sd
+' never wanting to go out with someone again ',ne
+' my night last night turned out amazing towards 8:00-9:0 ',sp
+' i had a really nice conversation with juckett, another amazing one with phil, 
+and then another one with ',hp
+' it was definitely a good night of conversation, although i did stay up until 1
+2:30, and i payed for that this morning in 1st period (physics ',hp
+' but all of a today it s hit me that i have all this work due ',sp
+' i have so much long-term work that i m not sure if i ll get it all finished wi
+th band practice every night, a game friday, and a all day saturday ',ne
+' i m starting my argument on (which i may say is turning out fantastic with the
+ first two i have), and i finished one of my us history charts, and i plan on a 
+bit once i start watching america s next top model ',hp
+' plus, all this stuff is being on me with my dad ',ne
+' the courts and my and my and my mom are all getting mad because i don t have a
+ll this time in the world to hang out with my dad for a few hours ',ag
+' love nfl, love live, it only makes sense ',hp
+' instead of nfl live, i get of the a s on about somebody who just died ',ne
+' i m sorry someone died, but to mislead me like that is inexcusable ',sd
+' definitely ',ne
+' i turned the to because the guide said nfl live was on ',ne
+' love nfl, love live, it only makes sense ',hp
+' i m sorry someone died, but to mislead me like that is inexcusable ',sd
+' up ',ne
+' don t be afraid to weigh in on the subject ',ne
+' even though i in the right mood, a.k.a : my mind was in portland, it was a rea
+lly good ',hp
+' it was one of the movies i was told to watch ',ne
+' i just said ',ne
+' she stopped talking about it, started about and what time she has to start the
+ ',ne
+' not on this matter however ',ne
+' i never took it out ',ne
+' what i was worried about, someone trying to steal money off my card, going to 
+happen ',fr
+' their atm "eat" the cards ',ne
+' and therapy!! ',ne
+' she makes me all nervous and ',fr
+' and anything she says, no matter how sweet the is is nasty and mean spirited '
+,dg
+' and me with my explaining skills wont show her how what she just said ',ag
+' i get stuck, cant think of the right term and lose my train of thought ',ne
+' thus getting myself more pissed and less willing to finish what i was just try
+ing to say ',ag
+' and i end up doing what she says because i cant get over the fact i stumbled i
+n a sentence 5 minutes prior ',ne
+' i cant wait to visit portland again, though right now i dont think ill be able
+ to go back until i have payed ',ne
+' which sucks, but that might mean her birthday ',dg
+' but if it takes 2 weeks for me to get a pay check and the first week of work i
+s counted into the next two weeks anyway ',ne
+' i might have to borrow from mom, since ive payed her off, but then know i dont
+ have any of the money left and ',ne
+' im afraid of what will happen if that gets out ',fr
+' im worried about money ',fr
+' but im more worried about losing the one i love, even though i cant have her r
+ight now ',fr
+' i know this is cheesy and maybe but i am going to say it anyway ',ne
+' okay shut up ',ag
+' okay y ',ne
+' i went to the dentist today was some and instead i got a ',ne
+' it wasn t too bad ',ne
+' i can handle aches, it s the that freak me out ',fr
+' then they fucked around with my teeth, which never hurt (except for the clamp)
+, but i was on edge, because it felt like it was about to hurt, like any moment 
+they might hit a nerve ',fr
+' ',ne
+' so the nurse was doing suction, and she hit the across my mouth (isolating the
+ tooth) which made a very loud in my ear, so i flinched, and the dentist was lik
+e "it s not big deal, show her it s nothing to be afraid of" so she did it again
+ and i really freaked out, really flinched and even cried out and then i startin
+g crying ',fr
+' and a ',ne
+' filling, which sucks ',dg
+' as and as the appear, so do they stop ',sp
+' enjoying it while it ',hp
+' so hi, friends, it is me, and i m in my and barefoot ',ne
+' ',sp
+' totally true access hollywood says so ',ne
+' go to designhergals.com and tell me if you think i should get some business ca
+rds from them ',ne
+' my muscles are, like, in but i don t know ',ne
+' today at work i popped advils and helped a mother and daughter figure out some
+ for the daughter s ',ne
+' and it turns out that the daughter and i both graduated from this spring ',sp
+' she s living at home with her parents now and she s not feeling very good abou
+t herself ',sd
+' except no, cos she s thinking about going to school for nursing, and i ve been
+ like a ',ne
+' something good is going to happen if it me. i think i threw out my back over (
+hence the advils), but that s ',ne
+' no way ',ne
+' which, to be honest, was making brad slightly nervous ',fr
+' perhaps it had just been pre-deal excitement ',hp
+' he had wanted to call either yohji or last night, but deguchi had kept him bus
+y attending a ball, not returning home until three in the morning ',ne
+' an almost 24 hour day was not brad s idea of a good time ',ne
+' and deguchi didn t have another social function planned until tomorrow night '
+,ne
+' and then the flight home ',ne
+' but in the meantime, he had free time, as deguchi was passed out in his room f
+rom too much and too little sleep and the desire to be as as possible for his go
+lf game tomorrow ',ne
+' it was a tuesday evening in i, wednesday at home, brad himself automatically, 
+and he had the doors to the balcony open wide and was sitting on the chair looki
+ng out over the ocean ',hp
+' he called yohji, missing him, wanting to talk to him ',sd
+' dear ',ne
+' this is the last day ',ne
+' instead, i went shopping for to wear to ',ne
+' it s two-piece, green stretch ',ne
+' in drawing, we played ms. s fun game ',ne
+' it actually was quite a bit of fun ',hp
+' the fun game itself involved boxes with in them and our job was to the boxes a
+ny way we wanted ',ne
+' got a waffle-iron ',ne
+' it was very bright ',ne
+' he asked if i could help make him up like a clown, and then the two of us ryan
+ s face like a ',ne
+' we offered to do aaron too, but he just laughed and his head ',hp
+' he really laughed a lot today ',hp
+' i made me sorry that i don t actually know him ',sd
+' after drawing, i was standing at ryan s locker, leaning back, laughing ',hp
+' the bell for last hour had already and we were talking to a bunch of ryan s po
+pular football-friends ',ne
+' i was laughing up at josh and peter, when someone spoke behind me, very fast '
+,hp
+' i wanted to the green-and-purple off with my hands, but was afraid of making i
+t worse, so i didn t do anything ',fr
+' ryan was kind of standing on the outside of the group, which makes sense, i gu
+ess ',ne
+' as mink turned from his locker and through the crowd, ryan watched him go ',ne
+' i said, "he always seems so nervous. ',fr
+' "yeah ',ne
+' i feel kind of bad. ',sd
+' "what for? ',ne
+' and - you know leif carlson? - me and leif sat together and that guy shows up 
+late on the first day of class and he was at our same table ',ne
+' "so, we just did that ',ne
+' for like a week ',ne
+' hurting his feelings," ryan finished ',sd
+' i nodded, felt guilty ',sd
+' because all those things about mink are exactly the reason why i can t, well, 
+can t anything, really ',ne
+' and that s total bullshit, because those things shouldn t even matter ',dg
+' it s about a fucking ',dg
+' only, maybe just in different ways ',ne
+' and also, i look like a cat ',ne
+' break my heart and make me on my last words ',sd
+' they cause tears to run down my and make me want to fall to my knees ',sd
+' backing out of that getting further and further away from you was one of the h
+ardest things i ve ever had to do ',sd
+' i m so scared that that i see you it s going to be my last time and i never wa
+nt to leave your side ',fr
+' getting home- back to reality ',ne
+' my is finally coming along though i am of excited ',hp
+' anyways i wont b here all weekend i will b in penn state with a bunch of male 
+and my brother lol so there bye ',hp
+' you say you want a ',ne
+' we all want to change the ',ne
+' well you kno ',ne
+' but when you talk about ',ne
+' don t you know it s gonna be alrigh ',ne
+' you say you got a real ',ne
+' you ask me for a ',ne
+' we re all doing what we ',ne
+' but when you want money for people with minds that hat ',dg
+' don t you know it s gonna be alrigh ',ne
+' you say you ll change the ',ne
+' we all want to change your ',ne
+' well you kno ',ne
+' but if you go pictures of ma ',ne
+' don t you know know it s gonna be alrigh ',ne
+' -- the ',ne
+' as long as capitalism in america, the gulf between the and the have-nots will 
+until it is an insurmountable with the broken bodies of ',ne
+' than a ',ne
+' pretty damn sad, isn t it ',sd
+' what will it take to above and leave this human that we ve been into ',dg
+' it will take total ',ne
+' it will take radical thought change ',ne
+' words and like "terrorist, "anti-semitic", "anti-war", "islamo-fascist", "prot
+est" and "communist" ',ne
+' that last one alone has been responsible for more fear-mongering than the seat
+ed bush administration has been able to in the past six years, and that s a pret
+ty order ',fr
+' what s interesting about their is that most of what we re supposed to be afrai
+d of is actually simply to the status quo: the fear of change ',fr
+' the government wants us to be afraid of terrorists so that they can pass more 
+that makes it easier to control us ',fr
+' they want us to not the zionists who give the a bad name, because of how much 
+zionists u.s. in the name of ',ne
+' they want us to be scared of and in the name of freedom, because there are mor
+e of us than there are of them ',fr
+' i even suggest that the government has always us to be afraid of communism, be
+cause it goes the very thing that government upon to keep it rolling: capitalism
+ ',fr
+' from the "red scare" and the communist witch-hunt of the 50 s with joe to the 
+safety and security of america, to the current fear and of so-called communist s
+uch as north korea, and china, actual communism has never, ever ',fr
+' like and police-states, but aren t of actual communism as by marx ',ne
+' but whereas earlier socialists often longer-term social reform, marx and that 
+popular revolution was all but inevitable, and the only path to ',ne
+' even within so-called modern communism, there are many and factions, between m
+arxist/leninist communists and ',ne
+' while the pages the of words, i ran across a look at just what the revolution 
+might look like, if it truly indeed ever happened ',ne
+' for a revolution ',ne
+' and it makes pretty clear the idea that the of this of and elected officials i
+s never going to turn america around and make it the that many hope it will beco
+me; unless the people get serious about and this selfish, style of life that we 
+to ',ne
+' we are a of air-conditioned, drive-thru frequenting, can-opener using, meat-ea
+ting, hands-free restroom-using ',ne
+' most of us do not choose to work ',ne
+' only after we have been put through the schools, which teach us not to think f
+or ourselves or question what we re taught, only after we re to learning in orde
+r to make the highest dollar, do we then enter a life-long in a that keeps us aw
+ay from the things we actually wish to do ',ne
+' the dream that you can fight hard and work to get ahead, put money away and ev
+entually leave the factory of human flesh, at age 65, to finally live what s lef
+t of your life, by the promise of a social security plan that our dear leader, t
+he "decider" is actually trying to privatize, just like our national system ',ne
+' it s a depression ',sd
+' everybody s out of work or scared of losing their job ',fr
+' we know the air is unfit to and our food is unfit to eat ',ne
+' we sit in the house, and slowly the world we re living in is getting smaller, 
+and all we say is, "please, at least leave us alone in our living rooms ',ne
+' just leave us alone. ',ne
+' i want you to get mad ',ag
+' i don t want you to write to your congressman, because i wouldn t know what to
+ tell you to write ',ne
+' i don t know what to do about the depression and the and the and the in the st
+reet ',sd
+' all i know is that first, you ve got to get mad ',ag
+' you ve gotta say, "i m a human being, ',ag
+' i want all of you to get up out of your chairs ',ne
+' "i m as mad as hell ',ag
+' and i m not going to take this anymore!! ',ag
+' have you ever felt longing ',sd
+' just at the mere thought of the source of longing makes you want to cry, to ou
+t the truth of your heart ',sd
+' longing is not for the of heart, but longing will make you weak in the heart '
+,sd
+' it will alter you judgement, longing will you ',sd
+' so i started my first job this week ',ne
+' i at a store once but that was about it ',ne
+' the job is really nice ',hp
+' she actually knows a couple of people that i know ',ne
+' luckily i don t have to do much with numbers cause i deal mostly with the phon
+e, oh and did i mention they don t mind if we re on aim, check our e-mail, or lo
+ok up random stuff online as long as we get our work done ',ne
+' it s pretty sweet and i feel very that i have it ',hp
+' oh and my mentor, she s and she so me and her get along pretty good ',hp
+' today sucked ',dg
+' again ',ne
+' ugh ',dg
+' i suppose it s mostly my fault ',ne
+' i won t pay attention in class and miss assignments, i m always afraid i m goi
+ng to forget to do something or something s gonna spring up on me and aaaaaah!! 
+',fr
+' it just feels like my brain has to function ',ne
+' i can t pay attention, i can t think straight, i can t even talk ',ne
+' ',ne
+' and talking to someone else ',ne
+' today, i was pulled out of a meeting by our building manager, who was in a pan
+ic ',fr
+' the problem turned out to be that i needed to choose a paint color for the of 
+the new office space ',ne
+' (why yes, i have in fact spent the rest of the day paint-based ',ne
+' at once!" ',ne
+' anyway, we down the paint chip brochure on the s desk, and i pulled out my car
+pet samples, preparing to face my choice--which turned out to be between two nea
+rly of office off-white ',ne
+' i two books out of the library today ',ne
+' the other is crap: disorganized, pseudoscientific, and ',dg
+' i suppose attitudes towards women have changed a lot too, but this was so awfu
+l i threw up my hands and returned the book before leaving the library ',dg
+' he goes on to her in later years as married, fat, and ',sd
+' hello, much ',ne
+' yeah ',ne
+' well if you do, remember that catchy song ',ne
+' it wasn t by this time, but by faith no more ',ne
+' there s currently a on rotation, i what piece of crap it is this time, but it 
+is a terrible, terrible, cover of "in a big country. ',dg
+' i also heard somewhere that the song was covered by ',ne
+' we have all had (or are still having, perhaps for the rest of our lives) our w
+ith stupid people, but it s the ones who just won t stop bothering you that are 
+among some of the worst ',dg
+' somebody fucking invited me to a group called "sally is cooler than your mom. 
+',ag
+' okay, if you re going to be cooler than anyone, saying that you re cooler than
+ my mom is a fucking given ',ag
+' but then again, even my mom is than sally ',ne
+' i d like to tell sally to go eat shit ',ag
+' [self-explanatory ',ne
+' three angry customers; as a matter of fact, that last week alone at 1 was the 
+only week where i met customers ',ag
+' very odd and ',sp
+' you choose the answer ',ne
+' good deal ',hp
+' some chick named called and asked if i could work ',ne
+' oh i know, the kids who are "best dressed" in school ',ne
+' isn t it when someone is you to hang out with them ',ag
+' get a fucking clue ',ag
+' go find someone else to be your bitch ',ag
+' sure, it s nice to see people wanting to be within your presence, but when the
+y step over the line and enter the of stupidity, self-esteem issues and of self-
+being, well then i want to do nothing but kick you in the fucking baby ',ag
+' i get such a laugh out of that every time ',hp
+' lame lame lame comparison, i know ',ne
+' well ',ne
+' the closest to the is panic!s cover on this is halloween ',ne
+' that is probably a good thing ',ne
+' or maybe there is nothing worth comment upon??)and that what i share, too ',ne
+' i tend to have great ideas about commentary about midday, and don t get around
+ to until later and the mood has passed ',ne
+' and you can i gave it a lot of thought ',ne
+' they can always choose not to go to church ',ne
+' i an not afraid of having lots of children ',ne
+' i just know having another one right now would cause great in the new environm
+ent that and i have with the girls now ',ne
+' and god all of opportunities for us to use knowledge in regard to family plann
+ing ',ne
+' update ',ne
+' the next time i actually get you on the phone when you re not a)tired b)not in
+ the mood or c)just not wanting to talk to me please don t to watch a movie inst
+ead of having a conversation with me. it s these types of choices that make it h
+ard for me to trying to be your friend ',ag
+' me: uh, i was with about 12 other people ready to watch a movie we were suppos
+ed to start an hour before for a class, kinda already planned ',ne
+' first let me say, this is one of the fucking reasons to be (once again) pissy 
+with someone ',ag
+' fucking seriously kid ',ag
+' this was on myspace today ',ne
+' im rather sick of myspace ',dg
+' ive noticed an are usually about me, and rather stupid ',dg
+' so i ve stopped listening ',ne
+' every once in awhile one or two will catch my eye and i will read it, but for 
+the most part i really am sick and tired to stupid shit ',dg
+' i to have a normal conversation with him, and apparently my basic human right 
+to hang up i choose to do so, is not allowed ',ne
+' gag, enough on that crap ',dg
+' anyways, i went to court yesterday ',ne
+' court was but i did good ',fr
+' long story short, i learned a lot ',ne
+' and it got that it was my vehicles fault not mine, and the i got sentence poss
+ible for my ticket ',ne
+' i actually got it pretty good ',hp
+' every one was really nice, even the judge ',hp
+' i get 9 in one and ive never had a ticket before, so i will be fine ',ne
+' the exciting part of my day, as cliche as it sounds was a car fire ',hp
+' so i pulled over and ran up ',ne
+' i walked up to him "whats going on, you need some help? ',ne
+' i up during all this and looked under the vehicle only to see flames towards t
+he gas tank ',ne
+' so i told him it was on fire i dont think he heard me, so i grabbed his and hi
+m out of the car, he stumbled back, dropped his shit and looked at me pissed "wh
+at the fuck lady" we got about four or five steps from the vehicle when the gas 
+popped (not a hollywood here people) and gas flew out everywhere, catching the g
+rass on fire, blowing out both tires and because the door was open, the of the v
+ehicle started going up in flames ',ag
+' after some from the driver his changed and hes like "thanks that could have be
+en me" and "oh my god" while i got an on police and fire from and gave her infor
+mation ',fr
+' the news people up, talked to the kid and he at me while i was telling the cop
+ i had to go, because i really did not want to be late, and i left ',ne
+' i dont think i saved his life, but i may have saved his legs and a lot of ',ne
+' point is it was exciting ',hp
+' i remain "anonymous" in the newspaper and life goes on ',ne
+' he gave me a hug, that was good ',hp
+' an ',ne
+' and i ve been thinking, my earlier comment about how this stuff me. many peopl
+e drove past, and many cars were of me in that exit lane, maybe this stuff is ju
+st as equally around everyone, i only choose to stop ',ne
+' how many people a day drive by cars with on, or sitting n the side of the road
+ ',ne
+' how do you know that smoke is not from a tire, and the car could be on fire? '
+,fr
+' he even get my name, but im sure he will not forget me ',ne
+' i ve homework to do ',ne
+' the broke on my way down, but it decided to fix itself ',ne
+' but uncle saved the day and a bunch of stuff for me. called it an early birthd
+ay present, he is so amazing ',hp
+' while i was in i surprised brian and we met for lunch, him too ',sp
+' it was soooo nice to see them ',hp
+' just what i needed to collect myself and continue home ',ne
+' he does not know this yet, i need to call him this week ',ne
+' i can t wait to go on a night drive with brian and just chill out there for aw
+hile ',hp
+' it feels pretty good today ',hp
+' so, im going out with some friends later, do some homework, both our work are 
+dirty (all of them) so i think i might do laundry, and make our bed ',ne
+' yesterday was eventful, today is relaxing ',ne
+' good to love life ',hp
+' they both just lost their and vegas grandma has had more time, were hoping she
+ will help canada grandma feel better ',hp
+' which i am so happy for ',hp
+' i am so proud of my sister ',hp
+' she will be just fine ',ne
+' im sick of looking at a computer screen ',dg
+' no goal tonight ',ne
+' "i can t relate to 99% of humanity. ',sd
+' after watching the middle-aged character, (steve buscemi) in "ghost world," i 
+can t but help agreeing with him ',ne
+' and not even that i can t relate, or try to ',ne
+' i just don t ',ne
+' there are not a lot of guys that i will go for ',ne
+' but, back to reasons that i don t relate to *74%* of humanity ',ne
+' sex and money ',ne
+' (and you know what kind i mean, because in general are okay, but i mean drunke
+n and the like. ',ne
+' (has anyone seen this week s rolling stone ',ne
+' i am, quite honestly, furious and they will be getting an angry letter from me
+, even though won t care, i m sure because as much as they would like you to thi
+nk that they aren t part of the "machine" they are ',ag
+' go ahead, care about the environment, but don t care about demeaning women. ',
+ag
+' i don t drink amounts because i am ',ne
+' - i don t like the movie "top gun. ',ne
+' - i enjoy reading ',hp
+' - i don t think money happiness ',hp
+' i don t think sex happiness ',hp
+' - i actually take notice of nice days, smells, etc. and appreciate it, appreci
+ate the of things like that and let it effect me. i don t just it in my ',hp
+' - i don t say "like" every other word ',ne
+' i could go on ',ne
+' people are just rude and selfish, and i know i m too, but i don t want to be l
+ike that ',dg
+' meh ',ne
+' its not my bag and i don t really even want to be around it ',ne
+' when are people going to step it up and join humanity ',ne
+' and where are the intelligent, attractive, guys who aren t boys, who just wear
+ and t-shirts and $30 shoes, who like to read and watch movies ',ne
+' please, if you exist anywhere, let me know ',ne
+' so i kept walking straight, and the dog that crossed the street turned around 
+and saw me and growled, i was like " oh shit jorge, just keep walking. ',ag
+' so i did, and then the second dog at me too, and im like " should i run or kee
+p walking? ',ag
+' so i kept walking and then the other dog that crossed the street comes back ru
+nning at me and i said "ohh sshhiittt!!! ',fr
+' and i saw a house with the gate door opened slightly, and i in there sumway!! 
+',sp
+' with my backpack on me!! ',ne
+' i im but damn! ',ag
+' i scared!! ',fr
+' "it s the heart afraid of breaking that never learns to dance ',fr
+' it s the dream afraid of waking that never takes the chance ',fr
+' and the afraid of dying that never learns to live ',fr
+' "when the night has been too lonely, and the road has been too long ',sd
+' just remember, in the winter, far beneath the snow ',ne
+' bette middle ',ne
+' it s the second that caught my attention; more specifically, it s those two fi
+rst lines: "it s the heart afraid of breaking that never learns to dance./it s t
+he dream afraid of waking that never takes the chance. ',fr
+' nothing grand, mind you; this is one that must be with a touch: nothing rash, 
+nothing let it ',ne
+' i have considered the possibility for a while now, but i have been apprehensiv
+e, and i did not act on what i felt ',fr
+' and then, just the other day, i was driving down 470 on the way to college, li
+stening to 105.5, and a beautiful song came on that i had not heard before ',hp
+' the words made me think now i have thought, and thought, and you who know me b
+est will not be surprised that i thought some more ',sp
+' i think i will wake from the dream, and i will see if i cannot turn it into a 
+reality ',ne
+' internship was pretty awesome today ',hp
+' i did an sat lit practice test on each bus ride, because i am cool, and i did 
+better than i expected ',sp
+' the staff is currently in the process of every one of these 30-45 second ever 
+made, so i spent almost all day going through them ',ne
+' i totally loved it, because i am a ',hp
+' at first i thought that someone had decided to in the middle of broadway, but 
+a man with a french told me it was for a will smith movie ',ne
+' i love the two guys who work at that - they re and they told me about how came
+ron came in for a during their shift last week (but without ',hp
+' i didn t see will smith (although the french prince is usually my shit, i thin
+k i would have had to punch him on of everyone who s heard "switch"), but the gi
+rl on the elevator with me said she had just randomly seen mike ',ag
+' that afternoon - *gulp* - lawler came to me. when i heard she was coming, i sp
+azzed, afraid that she might have an issue with the fact that i never, you know,
+ in any of my internship forms ',fr
+' of course, as soon as she came in, john came over and said, "you realize, moll
+y, that you re not allowed visitors, and we will have to give you more lashes. '
+,ne
+' ms. lawler just kept smiling ',hp
+' then she proceeded to call me meghan** and went through the required but chemi
+cals/safety concerns set of questions while the around me tried to their ',hp
+' i m kind of freaking out about but i m kind of okay ',fr
+' **as in farrell, i assume ',ne
+' hey all ',ne
+' good news ',hp
+' i was ',hp
+' ugh ',dg
+' i went back, had 6 to go get it and get back to the bus stop ',ne
+' i got on the bus, dropped my resume on the wet floor and almost dropped my mp3
+ player ',ne
+' when i got there, i went in and told them i was there and waited ',ne
+' at one point i for being so nervous and they told me that there were people a 
+lot worse and that i wasn t using the words "uh" and "um" as often as others had
+ been ',fr
+' they told me that they would set me up for the next interview by calling me in
+ the next day or 2 ',ne
+' everything looks good ',hp
+' the 2 me were thinking of placing me in due to my background with and video ed
+iting, i told them that it would likely turn out to be too easy for me in the lo
+ng run and that i was hoping for a position more so that i could learn more over
+all ',ne
+' where they will decide to place me is up to them, as long as i get the job, i 
+ll be really happy ',hp
+' oh, if i get a job at futureshop, it looks like i would be starting there arou
+nd november 8th ',ne
+' my plans coming up ',ne
+' friday: going to a movie or 2 with at rainbow cinema ',ne
+' 21st: if i m free, i want to check out brad sucks live in ',ne
+' that is all for now ',ne
+' i felt really awful through out the whole day too ',sd
+' the night before, i was really ',ne
+' that one chick i dislike with a passion because i think she is with gareth and
+ really likes him ',dg
+' i really do hate it ',dg
+' okay ',ne
+' i remember gareth s password why don t i spy to see whats going on ',ne
+' so i did and i got so that i only got to the 6th page ',fr
+' and i was freak it ',fr
+' i left it, but through out the whole day i was really awful ',sd
+' so ',ne
+' when i got home i was really nervous i hadn t talk to gareth for 2 days becaus
+e of college ',fr
+' really scared ',fr
+' so i tell him it took me forever to tell him but i was and nervous to ',fr
+' so i did anyway ',ne
+' and he said that it was ',ne
+' and he said i gave you my password for a reason, so we wouldn t have to keep f
+rom each other ',ne
+' then ',ne
+' he s like, would it make me happy that i delete her off my friends list and ',
+hp
+' well if you want ',ne
+' because i dislike her very much ',dg
+' he s like yeah he would wait a couple of weeks and delete her ',ne
+' and i hate these mistakes i do ',dg
+' because then afterwards i had a big ',ne
+' man. i hate it ',dg
+' ehh ',ne
+' ill miss you always forever and ever ',sd
+' it s a little more complicated ',ne
+' i m so down right now i can t be anymore upset ',sd
+' by mother ',ne
+' my man and i know it s true ',ne
+' good night ',ne
