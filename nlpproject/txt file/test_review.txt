@@ -1,0 +1,313 @@
+自定义cell
+
+通过xib自定义cell
+
+通过代码自定义cell
+
+ 
+
+数据转模型
+
+模型写法
+
+@implementation MJTg
+
++ (instancetype)tgWithDict:(NSDictionary *)dict
+
+{
+
+            return [[self alloc] init];
+
+}
+
+- (instancetype)initWithDict:(NSDictionary *)diict
+
+{
+
+            if(self = [super init] {
+
+                        [self setValuesForKeysWithDictionary:dict];
+
+            }
+
+            return self;
+
+}
+
+ 
+
+@property (nonatomic,strong) NSArray *tgs;
+
+- (NSArray *)tgs
+
+{
+
+            if(_tgs = nil) {
+
+                        NSString *path = [[NSBundle mainBundle] pathForResource:@”tgs.plist” ofType:nil];
+
+                        NSArray *dictArray = [NSArray arrayWithContentsOfFile:path];
+
+                        NSMutableArray *tgArray = [NSMutableArray array];
+
+                        for (NSDictionary *dict in dictArray) {
+
+                                    MJTg *tg = [MJTg tgWithDict:dict];
+
+                                    [tgArray addObject:tg];
+
+                        }
+
+                        _tgs = tgArray;
+
+            }
+
+            return _tgs;
+
+}
+
+ 
+
+自定义一个MJTgCell
+
+定义cell的高度self.tableView.rowHeight = 60;
+
+TableView中的数据源方法
+
+- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
+
+{
+
+            return self.tgs.count;
+
+}
+
+- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
+
+{
+
+            static NSString *ID = @”tg”;
+
+            MJTgCell *cell = [tableView dequeueReusableCellWithIdentifier:ID];
+
+            if(cell == nil) {
+
+                        从xib中加载cell
+
+                        cell = [[NSBundle mainBundle] loadNibNamed:@”MJTgCell” owner:nil options:nil];
+
+            }
+
+            取出模型数据
+
+            MJTg *tg = self.tgs[indexPath.row];
+
+            方法一：给cell内部的子控件设置数据
+
+            UIImageView *iconView = (UIImageView *)[cell viewWithTag:10];
+
+            iconView.image = [UIImage imageNamed:tg.icon];
+
+            方法二：给cell传递模型数据
+
+            cell.tg = tg;
+
+            return cell;
+
+}
+
+ 
+
+xib最好自定义一个.h和.m文件进行数据的封装
+
+MJTgCell.h 和 MJTgCell.m
+
+文件名需要与xib相同，cell继承UITableViewCell
+
+在MJTgCell.h中加入团购模型
+
+@property (strong, nonatomic) MJTg *tg;
+
+将里面的控件拖线进入MJTgCell.m
+
+@property (weak, nonatomic) IBOutlet UIImageView *iconView;
+
+@property (weak, nonatomic) IBOutlet UILabel *titleView;
+
+@property (weak, nonatomic) IBOutlet UILabel *priceView;
+
+@property (weak, nonatomic) IBOutlet UILabel *buyCountView;
+
+ 
+
+- (void)setTg:(MJTg *)tg
+
+{
+
+            _tg = tg;
+
+            图片
+
+            self.iconView.image = [UIImage imageNamed:tg.icon];
+
+            标题
+
+            self.titleView.text = tg.title;
+
+            价格
+
+            self.priceView.text = [NSString stringWithFormat:@”￥%@”,tg.price];
+
+            购买数
+
+            self.buyCountView.text = [NSString stringWithFormat:@”%@人已购买”,tg.buyCount];
+
+}
+
+设置显示tableView尾部显示的控件
+
+self.tableView.tableFooterView = [UIButton buttonWithType:UIButtonTypeContactAdd]; 
+
+ 
+
+自定义tableView尾部显示的控件
+
+footerView的宽度永远是tableView的宽度
+
+footerView只需要设置高度
+
+UIButton *footerBtn = [UIButton buttonWithType:UIButtonTypeSystem];
+
+footerBtn.frame = CGRectMake(0,0,0,35);
+
+footerBtn.backgroundColor = [UIColor orangeColor];
+
+[footerBtn setTitle:@”加载更多团购” forState:UIControlStateNormal];
+
+self.tableView.tableFooterView = footerBtn;
+
+ 
+
+ 
+
+第二种xib加载方式
+
+传参数时使用nil，那么就会默认使用[NSBundle mainBundle];
+
+创建nib对象
+
+UINib *nib = [UINib  nibWithNibName:@”MJTgFooterView” bundle:[NSBundle mainBundle]];
+
+加载xib\nib
+
+UIView *footerView = [[nib instantiateWithOwner:nil options:nil] lastObject];
+
+self.tableView.tableFooterView = footerView;
+
+ 
+
+***如何利用xib封装一个view
+
+1.新建一个xib文件描述一个view内部结构
+
+2.新建一个新的类（继承自某个系统自带的view，继承自哪个类取决于xib根对象的class）
+
+3.新建类的类名最好跟xib的文件保持一致
+
+4.将xib中的控件和自定义的类进行连线
+
+5.提供一个类方法快速返回一个创建好的自定义view(屏蔽从xib加载的过程)
+
+ 
+
+如何使用自定义的类进行初始化
+
++ (instancetype)footerView
+
+{
+
+            return [[NSBundle mainBundle] loadNibNamed:@”MJTgFooterView” owner:nil options:nil] lastObject];
+
+}
+
+ 
+
+MJTgFooterView.m中添加数据
+
+点击“加载”按钮
+
+- (IBAction)loadBtnClick {
+
+            1.隐藏加载数据
+
+            self.loadBtn.hidden = YES;
+
+            2.显示正在加载
+
+            self.loadingView.hidden = NO;
+
+            3.显示更多的数据
+
+            3.1.添加更多的模型数据
+
+             需要用到MJViewController的tgs数组
+
+            3.2.刷新表格（告诉tableView重新加载模型数据，调用tableView的reloadData方法）
+
+            需要用到MJViewController的table属性
+
+            [self.controller loadingMoreData];
+
+            延迟：为了显示效果
+
+            方法一：
+
+            [self performSelector:(SEL) withObject:(id) afterDelay:(NSTimeInterval)];
+
+            方法二：
+
+            dispatch_after(….(delayInSeconds)…,^{
+
+self.loadBtn.hidden = NO;
+
+            self.loadingView.hidden = YES;
+
+            });
+
+}
+
+ 
+
+3.1和3.2都用到控制器的东西，所以使用控制器来实现最好
+
+在MJViewController.m中添加方法
+
+- (void)loadingMoreData
+
+{
+
+3.显示更多的数据
+
+            3.1.添加更多的模型数据
+
+            MJTg *tg = [[MJTg alloc] init];
+
+            tg.icon = @””;
+
+            tg.title = @””;
+
+            tg.price = @”100”;
+
+            tg.buyCount = @”1”;
+
+            [self.tgs addObject:(id)];
+
+            3.2.刷新表格（告诉tableView重新加载模型数据，调用tableView的reloadData方法）
+
+            [self.tableView reloadData];
+
+}
+
+ 
+
+一个控件的事情发生，需要控制器知道，使用delegate来进行通知，方法调用
